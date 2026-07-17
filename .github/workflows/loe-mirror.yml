@@ -26,7 +26,7 @@ jobs:
       - name: Sync the mirror (only changed pages download)
         id: sync
         run: |
-          cd v2
+          cd .
           python mirror_fetch.py | tee sync.log
           # expose whether anything changed, so later steps can skip a no-op rebuild
           if grep -q "pages fetched, " sync.log && ! grep -q "0 pages fetched" sync.log; then
@@ -38,7 +38,7 @@ jobs:
       - name: Rebuild the engine (only if the wiki actually changed)
         if: steps.sync.outputs.changed == 'true'
         run: |
-          cd v2
+          cd .
           python mirror_sync.py            # fold the fresh mirror into the page store
           python run_all.py                # ingest -> DNA -> validate -> optimize -> app
 
@@ -46,14 +46,14 @@ jobs:
         if: steps.sync.outputs.changed == 'true'
         run: |
           mkdir -p site
-          cp v2/index.html site/index.html
-          cp v2/optimized_v2.json site/data.json || true
+          cp index.html site/index.html
+          cp optimized_v2.json site/data.json || true
 
       - name: Commit refreshed data & outputs
         if: steps.sync.outputs.changed == 'true'
         run: |
           git config user.name  "loe-mirror-bot"
           git config user.email "actions@github.com"
-          git add v2/mirror/manifest.json v2/index.html site/ || true
+          git add mirror/manifest.json index.html site/ || true
           git commit -m "mirror: refresh from wiki ($(date -u +%Y-%m-%d))" || echo "nothing to commit"
           git push || echo "nothing to push"
