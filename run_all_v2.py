@@ -1,14 +1,33 @@
 """Full roster optimization: every champion x every objective, mutation-proven."""
-import json, time, sys
+import json, time, sys, hashlib
 import optimizer as O, combat, core
 import frontier as F
 
 import os
-# RESUMABLE: long runs get killed. Save incrementally, skip what's already proven.
-OUT = json.load(open('optimized_v2.json')) if os.path.exists('optimized_v2.json') else {}
-DONE = {k for k, v in OUT.items() if len(v.get('objectives', {})) == len(O.OBJECTIVES)
+# A resume is only valid if the DATA hasn't changed. We stamp each result file with a fingerprint
+# of the champion+item+rune DNA. If the wiki (mirror) changed, the fingerprint changes, and we
+# recompute from scratch instead of trusting a stale cache. This is what makes the GitHub run
+# actually reflect fresh wiki data rather than a shipped file.
+def data_fingerprint():
+    h = hashlib.sha256()
+    for f in ('champion_dna.json', 'item_dna.json', 'rune_dna.json', 'damage_dna.json'):
+        if os.path.exists(f):
+            h.update(open(f, 'rb').read())
+    return h.hexdigest()[:16]
+
+FP = data_fingerprint()
+prev = json.load(open('optimized_v2.json')) if os.path.exists('optimized_v2.json') else {}
+if prev.get('_fingerprint') == FP:
+    OUT = prev
+    print(f'resuming: same data fingerprint {FP} — reusing valid results', flush=True)
+else:
+    OUT = {'_fingerprint': FP}
+    if prev:
+        print(f'data changed (fingerprint {prev.get("_fingerprint")} -> {FP}) — recomputing all', flush=True)
+DONE = {k for k, v in OUT.items() if k != '_fingerprint'
+        and len(v.get('objectives', {})) == len(O.OBJECTIVES)
         and all('items' in b for b in v['objectives'].values())}
-print(f'resuming: {len(DONE)} champions already proven', flush=True)
+print(f'{len(DONE)} champions already proven for this data version', flush=True)
 t0 = time.time()
 names = sorted(core.CH)
 for i, nm in enumerate(names, 1):
