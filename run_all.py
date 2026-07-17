@@ -1,8 +1,14 @@
 """LOE v2 — ONE BUTTON (assumes mirror is already synced; run mirror_fetch.py first for live data). The whole verified pipeline, with every gate."""
-import subprocess, sys, time
+import subprocess, sys, time, glob
+
+# ingest.py rebuilds the page store from hand-uploaded XML exports and WIPES the db first. On GitHub
+# the mirror is the data source (mirror_sync already populated the store), so ingest must be SKIPPED
+# there — otherwise it erases the mirrored pages. It runs only when XML exports are actually present.
+HAS_XML = bool(glob.glob('/mnt/user-data/uploads/*.xml') or glob.glob('*.xml'))
+
 STAGES = [
-    ('mirror_sync.py',    'fold mirror JSON dumps into the store (namespace-filtered)'),
-    ('ingest.py',        'canonical wiki page store (dedupe by newest revision)'),
+    ('mirror_sync.py',    'fold the live mirror into the store (namespace-filtered)'),
+] + ([('ingest.py', 'canonical wiki page store from XML exports (local only)')] if HAS_XML else []) + [
     ('champion_dna.py',  'champion DNA — dual-authority roster gate'),
     ('item_dna.py',      'item DNA — stats, passives, gold, SR legality'),
     ('item_groups.py',   'ITEM GROUPS — the wiki legality rule (one item per group)'),
