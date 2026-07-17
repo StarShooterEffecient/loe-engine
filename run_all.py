@@ -15,6 +15,7 @@ STAGES = [
     ('rune_dna.py',      'rune DNA — trees, rows, shards; ghost runes excluded'),
     ('damage_dna.py',    'damage DNA — types + on-hit/lifesteal properties'),
     ('validate_formulas.py','FORMULA GATE — combat constants vs the wiki rules'),
+    ('traceability.py',  'TRACEABILITY AUDIT — every input number verified against the wiki'),
     ('validate_dna.py',  'VALIDATION GATE — defects published, never hidden'),
     ('wiki_decode.py',   'WIKI MARKUP DECODER — reports unknown templates (future-proofing)'),
     ('named_effects.py',  'Named item effect families — the wiki effect vocabulary'),
