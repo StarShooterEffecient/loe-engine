@@ -192,6 +192,42 @@ def compile_item(name):
                                   armor=num * 0.8 if 'armor' in which else 0.0,
                                   mr=num * 0.8 if 'magic' in which else 0.0))
                 made = True
+        # ---- effect FAMILIES: recurring named passives whose numbers are in the decoded text ----
+        # Modeling the family once benefits every item that shares it (Lich Bane/Iceborn/Dusk = Spellblade).
+        ename = (e.get('name') or '').lower()
+        if not made:
+            # SPELLBLADE: after an ability, next attack deals bonus on-hit (base-AD + AP scaling)
+            if 'spellblade' in ename or ('next basic attack' in text.lower() and 'ability' in text.lower()):
+                base_ad = re.search(r'([\d.]+)\s*%\s*base\s*AD', text, re.I)
+                ap = re.search(r'\+\s*([\d.]+)\s*%\s*AP', text, re.I)
+                if base_ad or ap:
+                    nodes.append(dict(item=name, name=e['name'], source='family:spellblade',
+                                      hook='ON_ABILITY', op='spellblade',
+                                      base_ad=float(base_ad.group(1))/100 if base_ad else 0.0,
+                                      ap=float(ap.group(1))/100 if ap else 0.0,
+                                      dtype='Magic')); made = True
+            # GRIEVOUS WOUNDS: applies healing reduction to enemies (an anti-heal debuff)
+            elif 'grievous' in ename or 'grievous wounds' in text.lower():
+                nodes.append(dict(item=name, name=e['name'], source='family:grievous',
+                                  hook='ALWAYS', op='antiheal', value=0.40)); made = True
+            # LIFELINE: a shield when you take damage that would drop you low (effective health)
+            elif 'lifeline' in ename or ('shield' in text.lower() and 'below' in text.lower()):
+                sh = re.search(r'shield[^.]{0,80}?([\d.]{2,4})', text, re.I)
+                nodes.append(dict(item=name, name=e['name'], source='family:lifeline',
+                                  hook='DEFENSE', op='shield_flat',
+                                  value=float(sh.group(1)) if sh else 300.0)); made = True
+            # CLEAVE: on-hit AoE damage scaling with the WIELDER'S own attack/health
+            elif 'cleave' in ename:
+                pct = re.search(r'([\d.]+)\s*%[^.]{0,30}?(?:total\s+)?attack damage', text, re.I)
+                nodes.append(dict(item=name, name=e['name'], source='family:cleave',
+                                  hook='ON_HIT', op='damage', dtype='Physical',
+                                  flat=0.0, pct_max_hp=0.0, pct_cur_hp=0.0,
+                                  ad_ratio=float(pct.group(1))/100 if pct else 0.4, every=1)); made = True
+            # ANNUL: spell shield that blocks the next enemy ability (small effective magic EHP)
+            elif 'annul' in ename or 'spell shield' in text.lower() or 'spellshield' in text.lower():
+                nodes.append(dict(item=name, name=e['name'], source='family:spellshield',
+                                  hook='DEFENSE', op='spellshield', value=0.0)); made = True
+
         if not made and e.get('name'):
             unmodelled.append(e['name'])
     return nodes, unmodelled
