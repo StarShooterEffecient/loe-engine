@@ -120,6 +120,19 @@ def load_manifest():
 def sync(dry_run=False):
     os.makedirs(MIRROR_DIR, exist_ok=True)
     have = load_manifest()                            # {title: revid}
+    # SELF-HEAL: if the manifest claims we have pages but the combined corpus is missing or tiny
+    # (e.g. a prior run crashed before committing it), distrust the manifest and re-fetch everything.
+    # This is what breaks the "empty database forever" loop on ephemeral runners.
+    corpus_path = os.path.join(MIRROR_DIR, 'full_content.json')
+    corpus_ok = False
+    if os.path.exists(corpus_path):
+        try:
+            corpus_ok = len(json.load(open(corpus_path))) > 100
+        except Exception:
+            corpus_ok = False
+    if have and not corpus_ok:
+        print('manifest present but corpus missing/empty — forcing full re-fetch to self-heal')
+        have = {}
     print(f'manifest: {len(have)} pages currently mirrored')
     print('listing current revisions from the wiki API...')
     latest = list_revisions()
