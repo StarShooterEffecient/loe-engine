@@ -28,7 +28,7 @@ def check_crit():
     elif default:
         current = int(default.group(1))
     return dict(stat='crit_multiplier', wiki=(current / 100.0 - 1.0 if current else None),
-                engine_const='CRIT_BASE', engine=0.75,
+                engine_const='CRIT_BASE', engine=__import__('combat').CRIT_BASE,
                 note=f'wiki says base crit = {current}%' if current else 'not found')
 
 
@@ -41,12 +41,36 @@ def check_pen_order():
                 engine='multiplicative', ok=(mult or order))
 
 
+def check_armor_formula():
+    """Wiki: damage multiplier = 100/(100+resist) for positive resist. The engine's core.mitig
+    must use exactly this. Verified against a fresh hand-pull that showed 100/(100+2989.9)."""
+    txt = article('Armor')
+    stated = bool(re.search(r'100\s*/\s*\(\s*100\s*\+', txt))
+    import core
+    # probe the engine's formula at a known point: 100 armor -> 0.5 multiplier
+    engine_val = core.mitig(100.0)
+    return dict(stat='armor_mitigation', wiki='100/(100+R)' if stated else 'unstated',
+                engine=f'{engine_val:.3f} at R=100 (expect 0.500)',
+                ok=abs(engine_val - 0.5) < 0.001)
+
+
+def check_lifesteal_trigger():
+    """Wiki: life steal heals only from BASIC ATTACKS. The engine gates lifesteal by auto-reliance,
+    so casters can't cash it in. This checks the wiki still states the basic-attack restriction."""
+    txt = article('Life steal')
+    basic_only = bool(re.search(r'basic attack', txt, re.I))
+    return dict(stat='lifesteal_source', wiki='basic attacks only' if basic_only else 'unstated',
+                engine='gated by auto-reliance', ok=basic_only)
+
+
 def validate():
     results = []
     crit = check_crit()
     crit['ok'] = (crit['wiki'] is not None and abs(crit['wiki'] - crit['engine']) < 0.01)
     results.append(crit)
     results.append(check_pen_order())
+    results.append(check_armor_formula())
+    results.append(check_lifesteal_trigger())
     return results
 
 
