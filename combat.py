@@ -86,7 +86,7 @@ def resolve_items(pieces, st, base, kit):
     nodes = IE.build_nodes(pieces) + RE.rune_nodes(pieces)
     d = dict(shred_ar=0.0, shred_mr=0.0, amp=1.0, amp_magic=1.0, amp_vs_hp=0.0,
              crit_dmg=0.0, ehp_mult=1.0, shield=0.0, heal_ps=0.0,
-             onhit=[], onability=[], regen=0.0, mult_ap=1.0, procs=[])
+             onhit=[], onability=[], regen=0.0, mult_ap=1.0, procs=[], antiheal=0.0)
     # PASS 1: conversions (mana->AP etc). They must land BEFORE the multipliers.
     for n in nodes:
         if n['op'] == 'convert':
@@ -136,6 +136,15 @@ def resolve_items(pieces, st, base, kit):
             d['shield'] += st['HP'] * n['value']
         elif op == 'shield_flat':
             d['shield'] += n['value']
+        elif op == 'spellblade':
+            # after an ability, next attack deals bonus on-hit (base AD + AP scaling), on a cooldown
+            d['onability'].append(dict(item=n['item'], flat=n.get('base_ad', 0) * st['BASE_AD']
+                                       + n.get('ap', 0) * st['AP'], pct_max_hp=0.0,
+                                       dtype=n.get('dtype', 'Magic'), name='Spellblade'))
+        elif op == 'spellshield':
+            d['shield'] += st['HP'] * 0.06          # blocks one ability ~ a modest effective-HP buffer
+        elif op == 'antiheal':
+            d['antiheal'] = n['value']              # utility: reduces enemy healing (tracked, not damage)
         elif op == 'damage_reduction':
             d['ehp_mult'] *= 1 / (1 - n['value'])
         elif op == 'crit_reduction':
