@@ -22,8 +22,17 @@ from collections import Counter, defaultdict
 import core, combat, optimizer as O
 
 IT, CH = core.IT, core.CH
-K = json.load(open('knowledge_v2.json'))
-OPT = K['champions']
+# trust reads the knowledge/optimization results; tolerate a missing file and skip the fingerprint
+# stamp so iterating champions never hits the '_fingerprint' string key.
+import os
+if os.path.exists('knowledge_v2.json'):
+    K = json.load(open('knowledge_v2.json'))
+    OPT = K.get('champions', K)
+elif os.path.exists('optimized_v2.json'):
+    OPT = json.load(open('optimized_v2.json'))
+else:
+    OPT = {}
+OPT = {n: v for n, v in OPT.items() if n != '_fingerprint'}
 
 # ============ T1: ITEM MODELLING AUDIT ============
 # What the combat model actually reads today:
