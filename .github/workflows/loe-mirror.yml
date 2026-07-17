@@ -6,7 +6,12 @@ on:
   schedule:
     - cron: '0 6 * * *'        # once a day at 06:00 UTC (League patches land on a ~2-week cycle;
                                 # daily is plenty and stays well inside free Actions minutes)
-  workflow_dispatch: {}         # ...plus a manual "run now" button
+  workflow_dispatch:            # ...plus a manual "run now" button
+    inputs:
+      force_rebuild:
+        description: 'Rebuild the engine even if the wiki did not change'
+        type: boolean
+        default: false
 
 permissions:
   contents: write               # so the job can commit refreshed data and outputs
@@ -36,21 +41,21 @@ jobs:
           fi
 
       - name: Rebuild the engine (only if the wiki actually changed)
-        if: steps.sync.outputs.changed == 'true'
+        if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
         run: |
           cd .
           python mirror_sync.py            # fold the fresh mirror into the page store
           python run_all.py                # ingest -> DNA -> validate -> optimize -> app
 
       - name: Publish the app to GitHub Pages
-        if: steps.sync.outputs.changed == 'true'
+        if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
         run: |
           mkdir -p site
           cp index.html site/index.html
           cp optimized_v2.json site/data.json || true
 
       - name: Commit refreshed data & outputs
-        if: steps.sync.outputs.changed == 'true'
+        if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
         run: |
           git config user.name  "loe-mirror-bot"
           git config user.email "actions@github.com"
