@@ -1,0 +1,59 @@
+name: LOE Mirror Sync & Rebuild
+
+# Runs the leaguewikimirror on a schedule. It only downloads pages whose revision changed, and only
+# rebuilds the engine when something actually changed — so most runs are near-instant and free.
+on:
+  schedule:
+    - cron: '0 6 * * *'        # once a day at 06:00 UTC (League patches land on a ~2-week cycle;
+                                # daily is plenty and stays well inside free Actions minutes)
+  workflow_dispatch: {}         # ...plus a manual "run now" button
+
+permissions:
+  contents: write               # so the job can commit refreshed data and outputs
+
+jobs:
+  sync-and-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync the mirror (only changed pages download)
+        id: sync
+        run: |
+          cd v2
+          python mirror_fetch.py | tee sync.log
+          # expose whether anything changed, so later steps can skip a no-op rebuild
+          if grep -q "pages fetched, " sync.log && ! grep -q "0 pages fetched" sync.log; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rebuild the engine (only if the wiki actually changed)
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          cd v2
+          python mirror_sync.py            # fold the fresh mirror into the page store
+          python run_all.py                # ingest -> DNA -> validate -> optimize -> app
+
+      - name: Publish the app to GitHub Pages
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          mkdir -p site
+          cp v2/index.html site/index.html
+          cp v2/optimized_v2.json site/data.json || true
+
+      - name: Commit refreshed data & outputs
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          git config user.name  "loe-mirror-bot"
+          git config user.email "actions@github.com"
+          git add v2/mirror/manifest.json v2/index.html site/ || true
+          git commit -m "mirror: refresh from wiki ($(date -u +%Y-%m-%d))" || echo "nothing to commit"
+          git push || echo "nothing to push"
