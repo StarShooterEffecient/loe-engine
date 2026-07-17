@@ -1,0 +1,1577 @@
+[
+{
+"champ": "Aphelios",
+"slots": 5,
+"dmg_abilities": 0,
+"cds": 0,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kled & Skaarl",
+"slots": 0,
+"dmg_abilities": 0,
+"cds": 0,
+"passive": false,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Mega Gnar",
+"slots": 0,
+"dmg_abilities": 0,
+"cds": 0,
+"passive": false,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nunu & Willump",
+"slots": 0,
+"dmg_abilities": 0,
+"cds": 0,
+"passive": false,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Ashe",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Elise",
+"slots": 4,
+"dmg_abilities": 2,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Trundle",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Yunara",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Bard",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Heimerdinger",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Jayce",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Pyke",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Singed",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Taliyah",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Twitch",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Yorick",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Zilean",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Akali",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Hwei",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 1,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Jinx",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "K'Sante",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Karma",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Karthus",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nilah",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Quinn",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Sylas",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Teemo",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Twisted Fate",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Vayne",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Veigar",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Yasuo",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Zoe",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Akshan",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Anivia",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Aurelion Sol",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Aurora",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Blitzcrank",
+"slots": 5,
+"dmg_abilities": 2,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 1
+},
+{
+"champ": "Braum",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 2
+},
+{
+"champ": "Cassiopeia",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 2,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Darius",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Draven",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Graves",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Gwen",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Ivern",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kai'Sa",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Kalista",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Katarina",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kha'Zix",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Lucian",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Lulu",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Master Yi",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Miss Fortune",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Mordekaiser",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Naafiri",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nasus",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Nidalee",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nocturne",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Olaf",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Rammus",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 2
+},
+{
+"champ": "Renata Glasc",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Rengar",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Senna",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Shen",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Sivir",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Sona",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Talon",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Taric",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Thresh",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Tristana",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Tryndamere",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Udyr",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Viego",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Viktor",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Xayah",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Yuumi",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 2,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Zyra",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Gangplank",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Hecarim",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Riven",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Shyvana",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Tahm Kench",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Yone",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Zeri",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Aatrox",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Ahri",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Ambessa",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Amumu",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Annie",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Azir",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Bel'Veth",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Briar",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Caitlyn",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Cho'Gath",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Corki",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Diana",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Dr. Mundo",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Ekko",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Evelynn",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Ezreal",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Fiddlesticks",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Fiora",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Fizz",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Galio",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Gnar",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Gragas",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Illaoi",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Irelia",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Janna",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Jarvan IV",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 2
+},
+{
+"champ": "Jax",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Jhin",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kassadin",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kayle",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kayn",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kennen",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Kindred",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kled",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Kog'Maw",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Lee Sin",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Leona",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 2
+},
+{
+"champ": "Lillia",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Lissandra",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Locke",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Lux",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Malzahar",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Maokai",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Mel",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Milio",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Morgana",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nami",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Nautilus",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Neeko",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Orianna",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Ornn",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Pantheon",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Poppy",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Qiyana",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Rakan",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Rek'Sai",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Rell",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Renekton",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Rumble",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Ryze",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Samira",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Seraphine",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Sett",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Shaco",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Sion",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Skarner",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Smolder",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Syndra",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Urgot",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Varus",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Vel'Koz",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Vex",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Vladimir",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Volibear",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Wukong",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 2
+},
+{
+"champ": "Xerath",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Xin Zhao",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Zaahen",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 1
+},
+{
+"champ": "Zac",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Zed",
+"slots": 5,
+"dmg_abilities": 3,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Ziggs",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": false,
+"amps": 0
+},
+{
+"champ": "Camille",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": true,
+"amps": 1
+},
+{
+"champ": "Vi",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 3,
+"passive": true,
+"passive_dmg": true,
+"amps": 1
+},
+{
+"champ": "Alistar",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Brand",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Garen",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "LeBlanc",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Malphite",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 1
+},
+{
+"champ": "Sejuani",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Soraka",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Swain",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 0
+},
+{
+"champ": "Warwick",
+"slots": 5,
+"dmg_abilities": 4,
+"cds": 4,
+"passive": true,
+"passive_dmg": true,
+"amps": 1
+}
+]

@@ -1,0 +1,331 @@
+[
+ [
+  "Aatrox",
+  "I",
+  "Deathbringer Stance",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Ahri",
+  "Q",
+  "Orb of Deception",
+  "Magic true",
+  [
+   "Magic",
+   "True"
+  ]
+ ],
+ [
+  "Akshan",
+  "I",
+  "Dirty Fighting",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Bard",
+  "R",
+  "Tempered Fate",
+  "|spellshield  = true",
+  [
+   "True"
+  ]
+ ],
+ [
+  "Caitlyn",
+  "W",
+  "Yordle Snap Trap",
+  "|spellshield  = true",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Camille",
+  "Q",
+  "Precision Protocol",
+  "Physical true",
+  [
+   "Physical",
+   "True"
+  ]
+ ],
+ [
+  "Corki",
+  "I",
+  "Hextech Munitions",
+  "Physical true",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Corki",
+  "R",
+  "Missile Barrage",
+  "Physical",
+  [
+   "Magic"
+  ]
+ ],
+ [
+  "Fiora",
+  "R",
+  "Grand Challenge",
+  "|spellshield  = false",
+  [
+   "True"
+  ]
+ ],
+ [
+  "Fizz",
+  "Q",
+  "Urchin Strike",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Gwen",
+  "Q",
+  "Snip Snip!",
+  "Magic true",
+  [
+   "Magic",
+   "True"
+  ]
+ ],
+ [
+  "Illaoi",
+  "E",
+  "Test of Spirit",
+  "{{dv|{{tip|physical damage|physical}}|{{tip|magic damage|magic}}|{{tip|true damage|true}}<br>(redirected damage)}}",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Jax",
+  "E",
+  "Counter Strike",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Kalista",
+  "I",
+  "Martial Poise",
+  "|grounded     = true",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Kled",
+  "R",
+  "Chaaaaaaaarge!!!",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Lillia",
+  "Q",
+  "Blooming Blows",
+  "Magic true",
+  [
+   "Magic"
+  ]
+ ],
+ [
+  "Pantheon",
+  "R",
+  "Grand Starfall",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Pyke",
+  "R",
+  "Death from Below",
+  "Physical true",
+  [
+   "Physical",
+   "True"
+  ]
+ ],
+ [
+  "Rammus",
+  "I",
+  "Spiked Shell",
+  "|spellshield  =",
+  [
+   "Magic"
+  ]
+ ],
+ [
+  "Rek'Sai",
+  "W",
+  "Unburrow",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Renata Glasc",
+  "W",
+  "Bailout",
+  "|projectile   =",
+  [
+   "True"
+  ]
+ ],
+ [
+  "Sett",
+  "W",
+  "Haymaker",
+  "Physical true",
+  [
+   "Physical",
+   "True"
+  ]
+ ],
+ [
+  "Urgot",
+  "R",
+  "Fear Beyond Death",
+  "Physical true",
+  [
+   "True"
+  ]
+ ],
+ [
+  "Varus",
+  "E",
+  "Hail of Arrows",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Vel'Koz",
+  "R",
+  "Life Form Disintegration Ray",
+  "Magic true",
+  [
+   "Magic",
+   "True"
+  ]
+ ],
+ [
+  "Viego",
+  "I",
+  "Sovereign's Domination",
+  "|spellshield  =",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Yone",
+  "I",
+  "Way of the Hunter",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Yone",
+  "W",
+  "Spirit Cleave",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Yone",
+  "R",
+  "Fate Sealed",
+  "Physical magic",
+  [
+   "Magic",
+   "True"
+  ]
+ ],
+ [
+  "Yorick",
+  "R",
+  "Eulogy of the Isles",
+  "|spellshield  =",
+  [
+   "Magic"
+  ]
+ ],
+ [
+  "Zac",
+  "I",
+  "Cell Division",
+  "|spelleffects =",
+  [
+   "Magic"
+  ]
+ ],
+ [
+  "Zed",
+  "W",
+  "Living Shadow",
+  "|spellshield  =",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Zeri",
+  "E",
+  "Spark Surge",
+  "Magic",
+  [
+   "Physical"
+  ]
+ ],
+ [
+  "Zeri",
+  "R",
+  "Lightning Crash",
+  "Physical magic",
+  [
+   "Magic",
+   "Physical"
+  ]
+ ],
+ [
+  "Zyra",
+  "W",
+  "Rampant Growth",
+  "|spellshield  = false",
+  [
+   "Magic"
+  ]
+ ]
+]

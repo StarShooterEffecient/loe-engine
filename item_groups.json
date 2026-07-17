@@ -1,0 +1,434 @@
+{
+ "groups": {
+  "Annul": [
+   "Verdant Barrier",
+   "Banshee's Veil",
+   "Edge of Night"
+  ],
+  "Blight": [
+   "Blighting Jewel",
+   "Bloodletter's Curse",
+   "Cryptbloom",
+   "Terminus",
+   "Void Staff"
+  ],
+  "Boots": [
+   "Armored Advance",
+   "Berserker's Greaves",
+   "Boots",
+   "Boots of Swiftness",
+   "Chainlaced Crushers",
+   "Crimson Lucidity",
+   "Gluttonous Greaves",
+   "Gunmetal Greaves",
+   "Immortal Path",
+   "Ionian Boots of Lucidity",
+   "Mercury's Treads",
+   "Plated Steelcaps",
+   "Slightly Magical Boots",
+   "Sorcerer's Shoes",
+   "Spellslinger's Shoes",
+   "Swiftmarch"
+  ],
+  "Dirk": [
+   "Serrated Dirk"
+  ],
+  "Elixir": [
+   "Elixir of Iron",
+   "Elixir of Sorcery",
+   "Elixir of Wrath"
+  ],
+  "Eternity": [
+   "Catalyst of Aeons",
+   "Rod of Ages"
+  ],
+  "Fatality": [
+   "Last Whisper",
+   "Black Cleaver",
+   "Lord Dominik's Regards",
+   "Mortal Reminder",
+   "Serylda's Grudge",
+   "Terminus"
+  ],
+  "Glory": [
+   "Dark Seal",
+   "Mejai's Soulstealer"
+  ],
+  "Guardian": [
+   "Guardian's Blade",
+   "Guardian's Hammer",
+   "Guardian's Horn",
+   "Guardian's Orb"
+  ],
+  "Hydra": [
+   "Tiamat",
+   "Profane Hydra",
+   "Ravenous Hydra",
+   "Stridebreaker",
+   "Titanic Hydra"
+  ],
+  "Immolate": [
+   "Bami's Cinder",
+   "Sunfire Aegis",
+   "Hollow Radiance"
+  ],
+  "Lifeline": [
+   "Archangel's Staff",
+   "Hexdrinker",
+   "Immortal Shieldbow",
+   "Maw of Malmortius",
+   "Protoplasm Harness",
+   "Seraph's Embrace",
+   "Sterak's Gage"
+  ],
+  "Manaflow": [
+   "Archangel's Staff",
+   "Manamune",
+   "Tear of the Goddess",
+   "Whispering Circlet",
+   "Winter's Approach"
+  ],
+  "Momentum": [
+   "Dead Man's Plate"
+  ],
+  "Potion": [
+   "Health Potion",
+   "Refillable Potion"
+  ],
+  "Quicksilver": [
+   "Mercurial Scimitar",
+   "Quicksilver Sash"
+  ],
+  "Soul Anchor": [
+   "Lifeline",
+   "Spectral Cutlass"
+  ],
+  "Spellblade": [
+   "Sheen",
+   "Bloodsong",
+   "Dusk and Dawn",
+   "Essence Reaver",
+   "Iceborn Gauntlet",
+   "Lich Bane",
+   "Trinity Force"
+  ],
+  "Starter": [
+   "Bloodsong",
+   "Bounty of Worlds",
+   "Celestial Opposition",
+   "Doran's Blade",
+   "Doran's Bow",
+   "Doran's Helm",
+   "Doran's Ring",
+   "Doran's Shield",
+   "Dream Maker",
+   "Gustwalker Hatchling",
+   "Mosstomper Seedling",
+   "Scorchclaw Pup",
+   "Solstice Sleigh",
+   "World Atlas",
+   "Runic Compass",
+   "Zaz'Zak's Realmspike"
+  ],
+  "Stasis": [
+   "Seeker's Armguard",
+   "Shattered Armguard",
+   "Zhonya's Hourglass"
+  ],
+  "Trinket": [
+   "Farsight Alteration",
+   "Oracle Lens",
+   "Stealth Ward"
+  ]
+ },
+ "item_group": {
+  "Verdant Barrier": [
+   "Annul"
+  ],
+  "Banshee's Veil": [
+   "Annul"
+  ],
+  "Edge of Night": [
+   "Annul"
+  ],
+  "Blighting Jewel": [
+   "Blight"
+  ],
+  "Bloodletter's Curse": [
+   "Blight"
+  ],
+  "Cryptbloom": [
+   "Blight"
+  ],
+  "Terminus": [
+   "Blight",
+   "Fatality"
+  ],
+  "Void Staff": [
+   "Blight"
+  ],
+  "Armored Advance": [
+   "Boots"
+  ],
+  "Berserker's Greaves": [
+   "Boots"
+  ],
+  "Boots": [
+   "Boots"
+  ],
+  "Boots of Swiftness": [
+   "Boots"
+  ],
+  "Chainlaced Crushers": [
+   "Boots"
+  ],
+  "Crimson Lucidity": [
+   "Boots"
+  ],
+  "Gluttonous Greaves": [
+   "Boots"
+  ],
+  "Gunmetal Greaves": [
+   "Boots"
+  ],
+  "Immortal Path": [
+   "Boots"
+  ],
+  "Ionian Boots of Lucidity": [
+   "Boots"
+  ],
+  "Mercury's Treads": [
+   "Boots"
+  ],
+  "Plated Steelcaps": [
+   "Boots"
+  ],
+  "Slightly Magical Boots": [
+   "Boots"
+  ],
+  "Sorcerer's Shoes": [
+   "Boots"
+  ],
+  "Spellslinger's Shoes": [
+   "Boots"
+  ],
+  "Swiftmarch": [
+   "Boots"
+  ],
+  "Serrated Dirk": [
+   "Dirk"
+  ],
+  "Elixir of Iron": [
+   "Elixir"
+  ],
+  "Elixir of Sorcery": [
+   "Elixir"
+  ],
+  "Elixir of Wrath": [
+   "Elixir"
+  ],
+  "Catalyst of Aeons": [
+   "Eternity"
+  ],
+  "Rod of Ages": [
+   "Eternity"
+  ],
+  "Last Whisper": [
+   "Fatality"
+  ],
+  "Black Cleaver": [
+   "Fatality"
+  ],
+  "Lord Dominik's Regards": [
+   "Fatality"
+  ],
+  "Mortal Reminder": [
+   "Fatality"
+  ],
+  "Serylda's Grudge": [
+   "Fatality"
+  ],
+  "Dark Seal": [
+   "Glory"
+  ],
+  "Mejai's Soulstealer": [
+   "Glory"
+  ],
+  "Guardian's Blade": [
+   "Guardian"
+  ],
+  "Guardian's Hammer": [
+   "Guardian"
+  ],
+  "Guardian's Horn": [
+   "Guardian"
+  ],
+  "Guardian's Orb": [
+   "Guardian"
+  ],
+  "Tiamat": [
+   "Hydra"
+  ],
+  "Profane Hydra": [
+   "Hydra"
+  ],
+  "Ravenous Hydra": [
+   "Hydra"
+  ],
+  "Stridebreaker": [
+   "Hydra"
+  ],
+  "Titanic Hydra": [
+   "Hydra"
+  ],
+  "Bami's Cinder": [
+   "Immolate"
+  ],
+  "Sunfire Aegis": [
+   "Immolate"
+  ],
+  "Hollow Radiance": [
+   "Immolate"
+  ],
+  "Archangel's Staff": [
+   "Lifeline",
+   "Manaflow"
+  ],
+  "Hexdrinker": [
+   "Lifeline"
+  ],
+  "Immortal Shieldbow": [
+   "Lifeline"
+  ],
+  "Maw of Malmortius": [
+   "Lifeline"
+  ],
+  "Protoplasm Harness": [
+   "Lifeline"
+  ],
+  "Seraph's Embrace": [
+   "Lifeline"
+  ],
+  "Sterak's Gage": [
+   "Lifeline"
+  ],
+  "Manamune": [
+   "Manaflow"
+  ],
+  "Tear of the Goddess": [
+   "Manaflow"
+  ],
+  "Whispering Circlet": [
+   "Manaflow"
+  ],
+  "Winter's Approach": [
+   "Manaflow"
+  ],
+  "Dead Man's Plate": [
+   "Momentum"
+  ],
+  "Health Potion": [
+   "Potion"
+  ],
+  "Refillable Potion": [
+   "Potion"
+  ],
+  "Mercurial Scimitar": [
+   "Quicksilver"
+  ],
+  "Quicksilver Sash": [
+   "Quicksilver"
+  ],
+  "Lifeline": [
+   "Soul Anchor"
+  ],
+  "Spectral Cutlass": [
+   "Soul Anchor"
+  ],
+  "Sheen": [
+   "Spellblade"
+  ],
+  "Bloodsong": [
+   "Spellblade",
+   "Starter"
+  ],
+  "Dusk and Dawn": [
+   "Spellblade"
+  ],
+  "Essence Reaver": [
+   "Spellblade"
+  ],
+  "Iceborn Gauntlet": [
+   "Spellblade"
+  ],
+  "Lich Bane": [
+   "Spellblade"
+  ],
+  "Trinity Force": [
+   "Spellblade"
+  ],
+  "Bounty of Worlds": [
+   "Starter"
+  ],
+  "Celestial Opposition": [
+   "Starter"
+  ],
+  "Doran's Blade": [
+   "Starter"
+  ],
+  "Doran's Bow": [
+   "Starter"
+  ],
+  "Doran's Helm": [
+   "Starter"
+  ],
+  "Doran's Ring": [
+   "Starter"
+  ],
+  "Doran's Shield": [
+   "Starter"
+  ],
+  "Dream Maker": [
+   "Starter"
+  ],
+  "Gustwalker Hatchling": [
+   "Starter"
+  ],
+  "Mosstomper Seedling": [
+   "Starter"
+  ],
+  "Scorchclaw Pup": [
+   "Starter"
+  ],
+  "Solstice Sleigh": [
+   "Starter"
+  ],
+  "World Atlas": [
+   "Starter"
+  ],
+  "Runic Compass": [
+   "Starter"
+  ],
+  "Zaz'Zak's Realmspike": [
+   "Starter"
+  ],
+  "Seeker's Armguard": [
+   "Stasis"
+  ],
+  "Shattered Armguard": [
+   "Stasis"
+  ],
+  "Zhonya's Hourglass": [
+   "Stasis"
+  ],
+  "Farsight Alteration": [
+   "Trinket"
+  ],
+  "Oracle Lens": [
+   "Trinket"
+  ],
+  "Stealth Ward": [
+   "Trinket"
+  ]
+ }
+}

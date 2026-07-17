@@ -1,0 +1,991 @@
+{
+ "Annul": {
+  "desc": "Grants the user a spell shield that blocks the next hostile ability.",
+  "items": [
+   "Verdant Barrier",
+   "Banshee's Veil",
+   "Edge of Night"
+  ]
+ },
+ "Awe": {
+  "desc": "Grants a stat based on mana.",
+  "items": [
+   "Archangel's Staff",
+   "Seraph's Embrace",
+   "Manamune",
+   "Muramana",
+   "Winter's Approach",
+   "Fimbulwinter"
+  ]
+ },
+ "Cleave": {
+  "desc": "Basic attacks deal damage to enemies near the target.",
+  "items": [
+   "Tiamat",
+   "Profane Hydra",
+   "Ravenous Hydra",
+   "Stridebreaker",
+   "Titanic Hydra"
+  ]
+ },
+ "Energized": {
+  "desc": "Gain stacks from moving and attacking, up to a maximum amount. At full stacks, the next basic attack consumes them all to grant it an additional effect on-hit.",
+  "items": [
+   "Rapid Firecannon",
+   "Statikk Shiv",
+   "Stormrazor",
+   "Voltaic Cyclosword"
+  ]
+ },
+ "Eternity": {
+  "desc": "Restores mana based on damage taken and restores health based on mana spent.",
+  "items": [
+   "Catalyst of Aeons",
+   "Rod of Ages"
+  ]
+ },
+ "Glory": {
+  "desc": "Gains stacks from kills/assists up to a maximum amount and loses some of those upon death. Grants ability power per stack.",
+  "items": [
+   "Dark Seal",
+   "Mejai's Soulstealer"
+  ]
+ },
+ "Grievous Wounds": {
+  "desc": "Damage against champions inflicts them with Grievous Wounds for a few seconds.",
+  "items": [
+   "Executioner's Calling",
+   "Oblivion Orb",
+   "Morellonomicon",
+   "Mortal Reminder"
+  ]
+ },
+ "Harmony": {
+  "desc": "Grants heal and shield power based on bonus mana.",
+  "items": [
+   "Diadem of Songs",
+   "Whispering Circlet"
+  ]
+ },
+ "Helping Hand": {
+  "desc": "Basic attacks deal bonus damage against minions.",
+  "items": [
+   "Doran's Helm",
+   "Doran's Ring",
+   "Doran's Shield",
+   "Tear of the Goddess"
+  ]
+ },
+ "Immolate": {
+  "desc": "Deals damage to nearby enemies over time.",
+  "items": [
+   "Bami's Cinder",
+   "Hollow Radiance",
+   "Sunfire Aegis"
+  ]
+ },
+ "Lifeline": {
+  "desc": "Grants a shield or bonus health for a few seconds, mitigating damage that would reduce the user below a health threshold.",
+  "items": [
+   "Archangel's Staff",
+   "Hexdrinker",
+   "Immortal Shieldbow",
+   "Maw of Malmortius",
+   "Protoplasm Harness",
+   "Seraph's Embrace",
+   "Sterak's Gage"
+  ]
+ },
+ "Manaflow": {
+  "desc": "Grants bonus mana from basic attacks on-hit and/or whenever affecting an ally/enemy with an ability, up to a cap.",
+  "items": [
+   "Tear of the Goddess",
+   "Archangel's Staff",
+   "Manamune",
+   "Whispering Circlet",
+   "Winter's Approach"
+  ]
+ },
+ "Quicksilver": {
+  "desc": "Removes all crowd control debuffs (except Airborne) from the user.",
+  "items": [
+   "Quicksilver Sash",
+   "Mercurial Scimitar"
+  ]
+ },
+ "Spellblade": {
+  "desc": "After casting an ability, the next basic attack within a period of time deals bonus damage on-hit and may apply additional effects based on the item.",
+  "items": [
+   "Sheen",
+   "Bloodsong",
+   "Dusk and Dawn",
+   "Essence Reaver",
+   "Iceborn Gauntlet",
+   "Lich Bane",
+   "Trinity Force"
+  ]
+ },
+ "Thorns": {
+  "desc": "Deals damage to enemies that basic attack the user on-hit and inflicts them with Grievous Wounds for a few seconds if they are a champion.",
+  "items": [
+   "Bramble Vest",
+   "Thornmail"
+  ]
+ },
+ "Time Stop": {
+  "desc": "Puts the user into stasis for a few seconds, granting them untargetability and invulnerability but also rendering them unable to perform any actions.",
+  "items": [
+   "Seeker's Armguard",
+   "Zhonya's Hourglass"
+  ]
+ },
+ "Ward": {
+  "desc": "Grants a number of charges that are refreshed whenever returning to the spawn. Charges can be consumed to place wards.",
+  "items": [
+   "Runic Compass",
+   "Bounty of Worlds",
+   "Bloodsong",
+   "Celestial Opposition",
+   "Dream Maker",
+   "Solstice Sleigh",
+   "Zaz'Zak's Realmspike"
+  ]
+ },
+ "Shared Riches / Support Quest": {
+  "desc": "Shared Riches",
+  "items": []
+ },
+ "Anguish": {
+  "desc": "Every few seconds in combat with champions, deal damage to enemy champions nearby and heal yourself for a percentage of the damage dealt.",
+  "items": [
+   "Unending Despair"
+  ]
+ },
+ "Arcane Aim": {
+  "desc": "On champion takedown, gain bonus attack range for a few seconds.",
+  "items": [
+   "Hexoptics C44"
+  ]
+ },
+ "Bitter Cold": {
+  "desc": "Briefly slows enemies at low health damaged by abilities.",
+  "items": [
+   "Serylda's Grudge"
+  ]
+ },
+ "Blackout": {
+  "desc": "Disables nearby wards and reveals wards and traps. Your basic attacks deal bonus true damage to wards.",
+  "items": [
+   "Umbral Glaive"
+  ]
+ },
+ "Blessing of the Mountain": {
+  "desc": "Reduces incoming damage for a short duration upon taking damage, afterwards unleash a shockwave that slows nearby enemies.",
+  "items": [
+   "Celestial Opposition"
+  ]
+ },
+ "Boarding Party": {
+  "desc": "Nearby allied large minions gain bonus resistances and increased size.",
+  "items": [
+   "Hullbreaker"
+  ]
+ },
+ "Bolt": {
+  "desc": "Adds bonus damage on-hit and a movement speed buff to the next Energized attack.",
+  "items": [
+   "Stormrazor"
+  ]
+ },
+ "Boundless Vitality": {
+  "desc": "Increases the effectiveness of healing, shielding, and health regeneration.",
+  "items": [
+   "Spirit Visage"
+  ]
+ },
+ "Breaking Shockwave": {
+  "desc": "Slow enemies in a radius centered around you for a few seconds. For each champion slowed, gain bonus movement speed for a few seconds.",
+  "items": [
+   "Stridebreaker"
+  ]
+ },
+ "Bring It Down": {
+  "desc": "Basic attacks grant a stack for a few seconds, up to a maximum amount. At full stacks, the next basic attack consumes them to deal bonus damage on-hit.",
+  "items": [
+   "Kraken Slayer"
+  ]
+ },
+ "Bullseye": {
+  "desc": "Damaging an enemy champion deals bonus damage. Attacks reduce the cooldown of this effect.",
+  "items": [
+   "Scout's Slingshot"
+  ]
+ },
+ "Carve": {
+  "desc": "Dealing damage to an enemy champion reduces their armor for a few seconds, stacking up to a maximum amount.",
+  "items": [
+   "Black Cleaver"
+  ]
+ },
+ "Cinderbloom": {
+  "desc": "Magic and true damage critically strikes low-health enemies.",
+  "items": [
+   "Shadowflame"
+  ]
+ },
+ "Clawing Shadows": {
+  "desc": "Hitting 3 basic attacks on an enemy champion within a short duration slows them for a few seconds.",
+  "items": [
+   "Blade of the Ruined King"
+  ]
+ },
+ "Colossal Consumption": {
+  "desc": "Generates a stack over time on each nearby enemy champion, up to a maximum amount. Basic attacks against targets with full stacks consumes them to deal bonus damage and grant the user permanent bonus health.",
+  "items": [
+   "Heartsteel"
+  ]
+ },
+ "Command": {
+  "desc": "Immobilizing an enemy champion apply a stack on the target for a few seconds. For each stack on the target, they take increased damage from all sources.",
+  "items": [
+   "Imperial Mandate"
+  ]
+ },
+ "Consonance": {
+  "desc": "While you or any ally you've healed or shielded in the last few seconds is in combat with champions, each second, heal the lowest health nearby ally champion.",
+  "items": [
+   "Diadem of Songs"
+  ]
+ },
+ "Control": {
+  "desc": "Immobilizing abilities gain ability haste.",
+  "items": [
+   "Imperial Mandate"
+  ]
+ },
+ "Crescent": {
+  "desc": "Deals damage in a radius centered around you.",
+  "items": [
+   "Tiamat"
+  ]
+ },
+ "Cryocumbustion": {
+  "desc": "Gain ultimate haste.",
+  "items": [
+   "Zeke's Convergence"
+  ]
+ },
+ "Death": {
+  "desc": "Damage dealt that would leave an enemy champion below a health threshold causes the target to be executed.",
+  "items": [
+   "The Collector"
+  ]
+ },
+ "Desolate": {
+  "desc": "Killing an enemy unit deals bonus damage near them.",
+  "items": [
+   "Hollow Radiance"
+  ]
+ },
+ "Devotion": {
+  "desc": "Grants the user and nearby allies a shield for a few seconds.",
+  "items": [
+   "Locket of the Iron Solari"
+  ]
+ },
+ "Do Something": {
+  "desc": "Grants the On Fire! buff.",
+  "items": [
+   "The Golden Spatula"
+  ]
+ },
+ "Dragonforce": {
+  "desc": "Gain basic ability haste.",
+  "items": [
+   "Spear of Shojin"
+  ]
+ },
+ "Drain": {
+  "desc": "Restores mana each second. If you cannot gain mana, instead heal.",
+  "items": [
+   "Doran's Ring"
+  ]
+ },
+ "Dream Maker": {
+  "desc": "Every few seconds gains blue and purple bubbles. Upon healing or shielding an allied champion, blow both bubbles to empower them, reducing the next damaging cast source they take and increasing their next instance of damage.",
+  "items": [
+   "Dream Maker"
+  ]
+ },
+ "Echo": {
+  "desc": "Gain Echo stacks. Damaging an enemy with an ability consumes all Echo stacks to deal bonus damage to them and an additional nearby enemy for each charge consumed.",
+  "items": [
+   "Luden's Echo"
+  ]
+ },
+ "Electroshock": {
+  "desc": "Basic attacks generate bonus Energized stacks.",
+  "items": [
+   "Statikk Shiv"
+  ]
+ },
+ "Electrospark": {
+  "desc": "When fully Energized, the next basic attack deals bonus damage that bounces to nearby enemies.",
+  "items": [
+   "Statikk Shiv"
+  ]
+ },
+ "Eminence": {
+  "desc": "Scoring a champion takedown grants stacking attack damage for an extended duration.",
+  "items": [
+   "Hubris"
+  ]
+ },
+ "Enduring Focus": {
+  "desc": "Grants health regeneration for a period of time after taking damage from a champion.",
+  "items": [
+   "Doran's Shield"
+  ]
+ },
+ "Enlighten": {
+  "desc": "Restores a percentage of mana over a few seconds after leveling up.",
+  "items": [
+   "Lost Chapter"
+  ]
+ },
+ "Ever Rising Moon": {
+  "desc": "Deals bonus damage to an enemy champion hit by two separate attacks or abilities. Grants a shield for a few seconds from triggering this effect.",
+  "items": [
+   "Eclipse"
+  ]
+ },
+ "Everlasting": {
+  "desc": "Applying certain crowd control effects to an enemy champion grants a shield for a few seconds.",
+  "items": [
+   "Fimbulwinter"
+  ]
+ },
+ "Extinguish": {
+  "desc": "Basic attacks deal bonus damage to wards.",
+  "items": [
+   "Umbral Glaive"
+  ]
+ },
+ "Famine": {
+  "desc": "Gain ability haste.",
+  "items": [
+   "Endless Hunger"
+  ]
+ },
+ "Fanfare": {
+  "desc": "Slowing or immobilizing an enemy champion grants movement speed for a few seconds, and nearby allies gain bonus attack speed.",
+  "items": [
+   "Bandlepipes"
+  ]
+ },
+ "Feast": {
+  "desc": "On champion takedown, gain omnivamp for a few seconds.",
+  "items": [
+   "Endless Hunger"
+  ]
+ },
+ "Fervor": {
+  "desc": "Dealing damage grants bonus movement speed for a few seconds.",
+  "items": [
+   "Black Cleaver"
+  ]
+ },
+ "Firmament": {
+  "desc": "When fully Energized, the next basic attack grants lethality and deals bonus damage.",
+  "items": [
+   "Voltaic Cyclosword"
+  ]
+ },
+ "First Light": {
+  "desc": "Gain heal and shield power and ability power based on your amount of base mana regeneration.",
+  "items": [
+   "Dawncore"
+  ]
+ },
+ "Fleetfooted": {
+  "desc": "Gain slow resist.",
+  "items": [
+   "Boots of Swiftness",
+   "Swiftmarch"
+  ]
+ },
+ "Flurry": {
+  "desc": "Attacking an enemy champion grants bonus attack speed for a few seconds.",
+  "items": [
+   "Yun Tal Wildarrows"
+  ]
+ },
+ "Flux": {
+  "desc": "Champion takedowns reduce the user's ultimate cooldown by a percentage.",
+  "items": [
+   "Axiom Arc"
+  ]
+ },
+ "Focused Will": {
+  "desc": "Gain a stack for each instance of ability damage dealt for a few seconds, up to a cap. For each stack, your abilities deal increased damage.",
+  "items": [
+   "Spear of Shojin"
+  ]
+ },
+ "Fray": {
+  "desc": "Basic attacks deal bonus damage on-hit.",
+  "items": [
+   "Wit's End"
+  ]
+ },
+ "Frostfire Tempest": {
+  "desc": "Upon casting your ultimate ability, you summon a storm of flame and ice around you for a few seconds, dealing damage periodically and slowing enemies within the area.",
+  "items": [
+   "Zeke's Convergence"
+  ]
+ },
+ "Galvanize": {
+  "desc": "Damaging enemy champions with abilities can trigger Energized effects.",
+  "items": [
+   "Voltaic Cyclosword"
+  ]
+ },
+ "Giant Slayer": {
+  "desc": "Deal increased damage against enemy champions, based on their bonus health.",
+  "items": [
+   "Lord Dominik's Regards"
+  ]
+ },
+ "Going Sledding": {
+  "desc": "Slowing or immobilizing an enemy champion causes you and the nearest and most wounded allied champion to gain bonus health and bonus movement speed for a few seconds.",
+  "items": [
+   "Solstice Sleigh"
+  ]
+ },
+ "Goliath": {
+  "desc": "Gain increased size based on maximum health.",
+  "items": [
+   "Heartsteel"
+  ]
+ },
+ "Hackshorn": {
+  "desc": "Damage against champions inflicts them with Grievous Wounds for a few seconds.",
+  "items": [
+   "Chempunk Chainsword"
+  ]
+ },
+ "Hatefog": {
+  "desc": "Damaging an enemy with your ultimate ability creates a scorched zone beneath them for a few seconds, dealing damage over time to enemies inside and reducing their magic resistance.",
+  "items": [
+   "Malignance"
+  ]
+ },
+ "Haunt": {
+  "desc": "Gain bonus movement speed while out-of-combat.",
+  "items": [
+   "Youmuu's Ghostblade"
+  ]
+ },
+ "Heretical Cleave": {
+  "desc": "Deals damage to enemies in a radius.",
+  "items": [
+   "Profane Hydra"
+  ]
+ },
+ "Hexcharged": {
+  "desc": "Gain ultimate haste.",
+  "items": [
+   "Experimental Hexplate"
+  ]
+ },
+ "Humility": {
+  "desc": "Slows nearby enemies for a few seconds.",
+  "items": [
+   "Randuin's Omen"
+  ]
+ },
+ "Icathian Bite": {
+  "desc": "Basic attacks deal bonus damage on-hit.",
+  "items": [
+   "Nashor's Tooth"
+  ]
+ },
+ "Ichorshield": {
+  "desc": "Convert excess healing from life steal into a shield.",
+  "items": [
+   "Bloodthirster"
+  ]
+ },
+ "Inflame": {
+  "desc": "Dealing ability damage burn enemies, dealing damage over time.",
+  "items": [
+   "Fated Ashes"
+  ]
+ },
+ "Inspiring Speech": {
+  "desc": "Grants the user and nearby allies bonus movement speed for a few seconds.",
+  "items": [
+   "Shurelya's Battlesong"
+  ]
+ },
+ "Intervention": {
+  "desc": "After a few seconds, heals allies in a zone and damage enemy champions within.",
+  "items": [
+   "Redemption"
+  ]
+ },
+ "Juxtaposition": {
+  "desc": "Basic attacks against champions alternate between Light and Dark hits, each one granting a bonus for a few seconds that stacks up to a cap. Light hits grants bonus resistances, while Dark hits grant armor penetration and magic penetration.",
+  "items": [
+   "Terminus"
+  ]
+ },
+ "Life from Death": {
+  "desc": "Scoring a takedown against an enemy champion summons a nova at their location, healing allied champions within the area.",
+  "items": [
+   "Cryptbloom"
+  ]
+ },
+ "Lightning Bolt": {
+  "desc": "Shocks the target enemy champion with a bolt of lightning, dealing magic damage and slowing them for a few seconds.",
+  "items": [
+   "Hextech Gunblade"
+  ]
+ },
+ "Lightshield Strike": {
+  "desc": "Your next basic attack against an enemy champion deals bonus damage and heals you. Excess healing is converted to bonus health for a few seconds.",
+  "items": [
+   "Sundered Sky"
+  ]
+ },
+ "Madness": {
+  "desc": "Gain increased damage the longer you stay in combat, up to a cap.",
+  "items": [
+   "Haunting Guise"
+  ]
+ },
+ "Magebane": {
+  "desc": "After not taking magic damage for a few seconds, gain a magic damage shield.",
+  "items": [
+   "Kaenic Rookern"
+  ]
+ },
+ "Magical Opus": {
+  "desc": "Increases ability power by a percentage.",
+  "items": [
+   "Rabadon's Deathcap"
+  ]
+ },
+ "Magnification": {
+  "desc": "Deal increased damage with basic attacks, based on distance.",
+  "items": [
+   "Hexoptics C44"
+  ]
+ },
+ "Mana Made Real": {
+  "desc": "Empowers for a few seconds, increasing mana costs but gaining increased ability damage, healing, and shielding; and basic ability cooldown progress faster.",
+  "items": [
+   "Actualizer"
+  ]
+ },
+ "Night Vigil": {
+  "desc": "Gain ultimate haste.",
+  "items": [
+   "Fiendhunter Bolts"
+  ]
+ },
+ "Nightstalker": {
+  "desc": "While out of vision of enemies for a few seconds, your next basic attack against a champion deals bonus true damage.",
+  "items": [
+   "Umbral Glaive"
+  ]
+ },
+ "Now And Forever": {
+  "desc": "While above half health, deal increased damage. While below half health gain increasing healing and shielding.",
+  "items": [
+   "Immortal Path"
+  ]
+ },
+ "Noxian Endurance": {
+  "desc": "Taking physical damage from champions grants a shield that absorbs physical damage for a few seconds.",
+  "items": [
+   "Armored Advance"
+  ]
+ },
+ "Noxian Fervor": {
+  "desc": "Gain bonus adaptive force based on movement speed.",
+  "items": [
+   "Swiftmarch"
+  ]
+ },
+ "Noxian Haste": {
+  "desc": "Healing, shielding or buffing an ally, damaging abilities against champions and using summoner spells grants bonus movement speed for a few seconds.",
+  "items": [
+   "Crimson Lucidity"
+  ]
+ },
+ "Noxian Persistance": {
+  "desc": "Taking magic damage from champions grants a shield that absorbs magic damage for a few seconds.",
+  "items": [
+   "Chainlaced Crushers"
+  ]
+ },
+ "Opening Barrage": {
+  "desc": "After casting your ultimate, your next basic attacks gain bonus attack speed and critically strike. If an attack would already critically strike, it deals normal critical strike damage and also deals bonus true damage.",
+  "items": [
+   "Fiendhunter Bolts"
+  ]
+ },
+ "Overdrive": {
+  "desc": "Upon casting your ultimate ability, gain bonus attack speed and movement speed for a few seconds.",
+  "items": [
+   "Experimental Hexplate"
+  ]
+ },
+ "Plating": {
+  "desc": "Reduce incoming basic attack damage (excluding from turrets).",
+  "items": [
+   "Armored Advance",
+   "Plated Steelcaps"
+  ]
+ },
+ "Practice Makes Lethal": {
+  "desc": "Basic attacks on-attack grant critical strike chance, stacking up to a cap.",
+  "items": [
+   "Yun Tal Wildarrows"
+  ]
+ },
+ "Purify": {
+  "desc": "Removes most crowd control effects from the user or the target allied champion and heals them.",
+  "items": [
+   "Mikael's Blessing"
+  ]
+ },
+ "Quicken": {
+  "desc": "Basic attacks grants bonus movement speed for a few seconds.",
+  "items": [
+   "Trinity Force"
+  ]
+ },
+ "Rage": {
+  "desc": "Basic attacks grants bonus movement speed for a few seconds.",
+  "items": [
+   "Phage"
+  ]
+ },
+ "Rapids": {
+  "desc": "Heals and shields granted to allies causes both the user and them to gain ability power and ability haste for a few seconds.",
+  "items": [
+   "Staff of Flowing Water"
+  ]
+ },
+ "Ravenous Crescent": {
+  "desc": "Deals damage to enemies in a radius in front of you.",
+  "items": [
+   "Ravenous Hydra"
+  ]
+ },
+ "Reap": {
+  "desc": "Killing minions grants additional gold, up to a cap. After reaching the cap, disables the effect to grant gold.",
+  "items": [
+   "Cull"
+  ]
+ },
+ "Rebirth": {
+  "desc": "Revives the user when they take lethal damage.",
+  "items": [
+   "Guardian Angel"
+  ]
+ },
+ "Recovery": {
+  "desc": "Restores mana each second. Manaless champions instead heal.",
+  "items": [
+   "Guardian's Orb"
+  ]
+ },
+ "Resilience": {
+  "desc": "Reduces incoming critical strike damage.",
+  "items": [
+   "Randuin's Omen"
+  ]
+ },
+ "Retribution": {
+  "desc": "Gain increased attack damage based on missing health.",
+  "items": [
+   "Overlord's Bloodmail"
+  ]
+ },
+ "Revved": {
+  "desc": "Damaging an enemy champion deals bonus damage.",
+  "items": [
+   "Hextech Alternator"
+  ]
+ },
+ "Rimefrost": {
+  "desc": "Briefly slows enemies damaged by abilities.",
+  "items": [
+   "Rylai's Crystal Scepter"
+  ]
+ },
+ "Rock Solid": {
+  "desc": "Reduces incoming damage from basic attacks, capped at a percentage of the total damage.",
+  "items": [
+   "Warden's Mail"
+  ]
+ },
+ "Sabotage": {
+  "desc": "Champion takedowns makes your next basic attack against an epic monster or turret deals bonus true damage.",
+  "items": [
+   "Bastionbreaker"
+  ]
+ },
+ "Sanctify": {
+  "desc": "Heals and shields granted to allies causes both the user and them to gain bonus attack speed and bonus damage on-hit for a few seconds.",
+  "items": [
+   "Ardent Censer"
+  ]
+ },
+ "Scorn": {
+  "desc": "Gain ultimate haste.",
+  "items": [
+   "Malignance"
+  ]
+ },
+ "Seething Strike": {
+  "desc": "Basic attacks grant stacking attack speed, up to a maximum amount. At maximum stacks, every few basic attacks apply on-hit effects twice.",
+  "items": [
+   "Guinsoo's Rageblade"
+  ]
+ },
+ "Shadow": {
+  "desc": "Basic attacks deal bonus damage on-hit.",
+  "items": [
+   "Terminus"
+  ]
+ },
+ "Shaped Charge": {
+  "desc": "Abilities deal bonus true damage to champions and epic monsters.",
+  "items": [
+   "Bastionbreaker"
+  ]
+ },
+ "Sharpshooter": {
+  "desc": "Adds bonus attack range and bonus damage on-hit to the next Energized attack.",
+  "items": [
+   "Rapid Firecannon"
+  ]
+ },
+ "Shield Reaver": {
+  "desc": "Dealing damage to an enemy champion reduces the strength of their shields for a few seconds.",
+  "items": [
+   "Serpent's Fang"
+  ]
+ },
+ "Shipwrecker": {
+  "desc": "Generates stacks from moving, up to a maximum amount. Each stack grants bonus movement speed. Basic attacks consume all stacks to deal bonus damage hit based on the consumed amount.",
+  "items": [
+   "Dead Man's Plate"
+  ]
+ },
+ "Shock": {
+  "desc": "Damaging basic attacks on-hit and abilities against champions deal bonus damage.",
+  "items": [
+   "Muramana"
+  ]
+ },
+ "Skipper": {
+  "desc": "Basic attacks grant a stack for a few seconds, up to a cap. At maximum stacks, the next basic attack consumes all stacks to deal bonus damage, increased against structures.",
+  "items": [
+   "Hullbreaker"
+  ]
+ },
+ "Slay": {
+  "desc": "Gain omnivamp for each takedown, up to a cap.",
+  "items": [
+   "Gluttonous Greaves",
+   "Immortal Path"
+  ]
+ },
+ "Slightly Quicker": {
+  "desc": "Grants bonus movement speed.",
+  "items": [
+   "Slightly Magical Boots"
+  ]
+ },
+ "Soul Siphon": {
+  "desc": "Gain a percentage of damage dealt to champions as Soul Charges, up to a maximum. Healing or shielding an ally consumes all Soul Charges to restore health.",
+  "items": [
+   "Echoes of Helia"
+  ]
+ },
+ "Spectral Waltz": {
+  "desc": "Become permanently ghosted.",
+  "items": [
+   "Phantom Dancer"
+  ]
+ },
+ "Spelldance": {
+  "desc": "Dealing magic or true damage to an enemy champion grants bonus movement speed for a few seconds.",
+  "items": [
+   "Cosmic Drive"
+  ]
+ },
+ "Starlit Grace": {
+  "desc": "Heals or shields on allied champions spreads a portion of that effect to another allied champion nearby.",
+  "items": [
+   "Moonstone Renewer"
+  ]
+ },
+ "Steadfast": {
+  "desc": "Taking magic damage from champions grants a stack for a few seconds, up to a cap. Becoming immobilized grants more stacks. At maximum stacks, gain bonus magic resistance and bonus movement speed.",
+  "items": [
+   "Force of Nature"
+  ]
+ },
+ "Sting": {
+  "desc": "Basic attacks deal bonus damage on-hit.",
+  "items": [
+   "Recurve Bow"
+  ]
+ },
+ "Suffering": {
+  "desc": "Gain increased damage the longer you stay in combat, up to a cap.",
+  "items": [
+   "Liandry's Torment"
+  ]
+ },
+ "Supersonic": {
+  "desc": "Causes the user to dash and fire missiles that deal damage to enemies hit.",
+  "items": [
+   "Hextech Rocketbelt"
+  ]
+ },
+ "Taxes": {
+  "desc": "Champion kills grant additional gold.",
+  "items": [
+   "The Collector"
+  ]
+ },
+ "The Claws that Catch": {
+  "desc": "Grants bonus attack damage based on base attack damage.",
+  "items": [
+   "Sterak's Gage"
+  ]
+ },
+ "Timeless": {
+  "desc": "Gain bonus health, mana and ability power every few seconds, up to a cap. At maximum stacks gain a level and increases all effects of Eternity.",
+  "items": [
+   "Rod of Ages"
+  ]
+ },
+ "Titanic Crescent": {
+  "desc": "Your next basic attack empoweres Cleave to deal bonus damage to the target and secondary targets.",
+  "items": [
+   "Titanic Hydra"
+  ]
+ },
+ "Torment": {
+  "desc": "Deals bonus damage over a few seconds to enemies damaged by abilities.",
+  "items": [
+   "Liandry's Torment"
+  ]
+ },
+ "Transcendence": {
+  "desc": "Basic attacks reduce the remaining cooldowns of basic abilities.",
+  "items": [
+   "Navori Flickerblade"
+  ]
+ },
+ "Tyranny": {
+  "desc": "Gain bonus attack damage based on bonus health.",
+  "items": [
+   "Overlord's Bloodmail"
+  ]
+ },
+ "Undaunted": {
+  "desc": "Reduces incoming champion damage.",
+  "items": [
+   "Guardian's Horn"
+  ]
+ },
+ "Unmake": {
+  "desc": "Nearby enemy champions take increased magic damage for all sources.",
+  "items": [
+   "Abyssal Mask"
+  ]
+ },
+ "Unsinkable": {
+  "desc": "Gain slow resist.",
+  "items": [
+   "Dead Man's Plate"
+  ]
+ },
+ "Upgrade": {
+  "desc": "Can freely upgrade this item in the HUD or in the shop.",
+  "items": [
+   "Bounty of Worlds"
+  ]
+ },
+ "Vile Decay": {
+  "desc": "Dealing magic ability damage to an enemy champion reduces their magic resistance for a few seconds, stacking up to a few times.",
+  "items": [
+   "Bloodletter's Curse"
+  ]
+ },
+ "Voidborn Resilience": {
+  "desc": "Each second in combat with champions grants a stack, stacking up to a maximum amount. At full stacks, increases the user's resistances until the end of combat.",
+  "items": [
+   "Jak'Sho, The Protean"
+  ]
+ },
+ "Void Corruption": {
+  "desc": "Gain increased damage for each second in combat with champions, stacking up to a maximum amount. At full stacks, gain omnivamp.",
+  "items": [
+   "Riftmaker"
+  ]
+ },
+ "Void Explosion": {
+  "desc": "Dealing ability damage to an enemy champion creates an explosion at their location that deals damage to nearby enemies.",
+  "items": [
+   "Zaz'Zak's Realmspike"
+  ]
+ },
+ "Void Infusion": {
+  "desc": "Gain ability power based on bonus health.",
+  "items": [
+   "Riftmaker"
+  ]
+ },
+ "Wraith Step": {
+  "desc": "Grants bonus movement speed and the ability to ignore unit collision for a few seconds.",
+  "items": [
+   "Youmuu's Ghostblade"
+  ]
+ },
+ "Wrath": {
+  "desc": "Grants bonus on-hit damage.",
+  "items": [
+   "Guinsoo's Rageblade"
+  ]
+ },
+ "Baleful Blaze / Blackfire": {
+  "desc": "Baleful Blaze",
+  "items": []
+ },
+ "Hypershot / Focus": {
+  "desc": "Hypershot",
+  "items": []
+ },
+ "Ignore Pain / Defy": {
+  "desc": "Ignore Pain",
+  "items": []
+ },
+ "Pledge / Sacrifice": {
+  "desc": "Pledge",
+  "items": []
+ },
+ "Stormraider / Squall": {
+  "desc": "Stormraider",
+  "items": []
+ }
+}

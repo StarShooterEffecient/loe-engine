@@ -1,0 +1,15 @@
+{
+ "patch": "26.13",
+ "source": "wiki.leagueoflegends.com (Special:Export)",
+ "champions": 175,
+ "champions_full_kit": 171,
+ "items_total": 333,
+ "sr_legendaries": 112,
+ "sr_boots": 14,
+ "items_with_passives": 110,
+ "items_priced": 106,
+ "runes_total": 69,
+ "keystones": 17,
+ "minors": 45,
+ "shards": 7
+}

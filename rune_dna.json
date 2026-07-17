@@ -1,0 +1,925 @@
+{
+"Jack of All Trades": {
+"path": "Inspiration",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"AH"
+],
+"adaptive": false,
+"text": "Earn 1 Jack stack for each unique champion statistic|stat type currently gained from items.  For each Jack stack, gain . At 5 Jack stacks, gain . At 10 Jack stacks, gain an additional , for a total of  at 10 Jack stacks."
+},
+"Axiom Arcanist": {
+"path": "Sorcery",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"DAMAGE",
+"HEAL",
+"SHIELD",
+"AH"
+],
+"adaptive": false,
+"text": "Your ultimate has 12% increased damage (reduced to 8% for area of effect abilities),  and . Scoring an enemy champion  reduces your ultimate ability's current cooldown by 7%."
+},
+"Electrocute": {
+"path": "Domination",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_ABILITY",
+"effects": [
+"DAMAGE",
+"AD",
+"AP"
+],
+"adaptive": false,
+"text": "Damaging , , Named item effect|item effects, and summoner spells, as well as the application of  and  effects, apply  against enemy , up to one per  per champion. Applying 3 stacks to a target within a 3 second period causes them to be struck by lightning afte"
+},
+"Overgrowth": {
+"path": "Resolve",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "PERIODIC",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Every 8  or enemy  that die near you permanently generates a stack. Each stack grants . This effect can stack indefinitely. After reaching 15 stacks (120 monsters or minions), your  and  are permanently increased by %."
+},
+"Conqueror": {
+"path": "Precision",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_HIT",
+"effects": [
+"DAMAGE",
+"HEAL"
+],
+"adaptive": false,
+"text": "Dealing damage to enemy  generates  of Conqueror, lasting for 5 seconds, refreshing on subsequent damage against champions, and stacking up to 12 times. Gain  stacks for  . Otherwise, gain 2 stacks for any damage that is neither  nor non- , up to once every 4 "
+},
+"Summon Aery": {
+"path": "Sorcery",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"SHIELD"
+],
+"adaptive": false,
+"text": "Damaging , , and Named item effect|item effects against an enemy  signal Aery to pounce at them over  seconds, dealing    . , , or  an allied champion signals Aery to leap to their side over  seconds,  them for    for 2 seconds. Aery applies her effects to the"
+},
+"Fleet Footwork": {
+"path": "Precision",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"MS"
+],
+"adaptive": false,
+"text": "At 100 Charges, become , empowering your next  to  you for  {{as|(+  bonus AD)}} {{as|(+  AP)}} and grant {{as||ms}} {{sti|}} for 1 second. Against , the healing is 15% effective."
+},
+"Legend: Alacrity": {
+"path": "Precision",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"AS"
+],
+"adaptive": false,
+"text": "Gain {{sti|{{as|%|attack speed}} (+ {{as|{{fd|}}%|attack speed}} per Legend ) }}, up to {{as|{{#expr:+*10}}%|attack speed}} at maximum stacks.  Gain Legend stacks for every 100 points earned, up to 10:\n* 100 points for champion \n* 100 points for epic monster \n"
+},
+"Legend: Bloodline": {
+"path": "Precision",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Gain {{as|{{sti|life steal|{{fd|% life steal}}}}}} per Legend , up to {{as|{{fd|{{#expr:*15}}}}%|life steal}} at maximum stacks, at which you also gain {{as| bonus health}}.  Gain Legend stacks for every 100 points earned, up to 15:\n* 100 points for champion \n"
+},
+"Legend: Haste": {
+"path": "Precision",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"AH"
+],
+"adaptive": false,
+"text": "Gain  {{as| basic ability haste}} per Legend , up to  at maximum stacks.  Gain Legend stacks for every 100 points earned, up to 10:\n* 100 points for champion \n* 100 points for epic monster \n* 25 points for large monster kills\n* 4 points for minion kills"
+},
+"Bone Plating": {
+"path": "Resolve",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "After taking damage from an enemy , activate Bone Plating for  seconds. While active, the next 3 spells or attacks you receive from the enemy champion that triggered this effect deal  less damage (including )."
+},
+"Manaflow Band": {
+"path": "Sorcery",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "PERIODIC",
+"effects": [
+"MANA"
+],
+"adaptive": false,
+"text": "an enemy  with an champion ability|ability permanently increases your {{sti|mana|}}, up to .  gained from this effect preserves your . After reaching , permanently restore  every 5\u00a0seconds."
+},
+"Cheap Shot": {
+"path": "Domination",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_IMMOBILIZE",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "Non- damage sources deal {{as||true damage}}  to enemy  affected by certain  effects. \n* \n* \n* \n* \n* \n* \n* \n*"
+},
+"Cosmic Insight": {
+"path": "Inspiration",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"AH"
+],
+"adaptive": false,
+"text": "Gain 18 ability haste#Increasing summoner spell haste|summoner spell haste and 10 ability haste#Increasing item haste|item haste."
+},
+"Hextech Flashtraption": {
+"path": "Inspiration",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"AH",
+"MS"
+],
+"adaptive": false,
+"text": "While  has a remaining cooldown greater than 2 seconds, it is replaced by .  You begin  for up to 2 seconds, setting your {{sti|ms|}} to a , and increasing Hexflash's range over the duration. After at least 1 second, you can reactivate the spell, which is auto"
+},
+"Nimbus Cloak": {
+"path": "Sorcery",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"AH",
+"MS"
+],
+"adaptive": false,
+"text": "Using a summoner spell grants  and {{sti|ms|}}   decaying over 2 seconds."
+},
+"Unsealed Spellbook": {
+"path": "Inspiration",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"AH"
+],
+"adaptive": false,
+"text": "While not channeling  and being combat status|out-of-combat for 5 seconds, you can swap one of your equipped summoner spells to a new, single use summoner spell. You cannot select a summoner spell you have already equipped. Your first swap becomes available at"
+},
+"Sudden Impact": {
+"path": "Domination",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "Dealing damage to an enemy  within 4 seconds of using a  or , or exiting from , deals {{as| bonus true damage}} to them."
+},
+"Demolish": {
+"path": "Resolve",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_HIT",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Basic attacks  against  apply a stack of Demolish, stacking up to 3 times. The third stack against a turret consumes them all to deal {{as||physical damage}} {{as|(+  of your maximum health)}} . Demolish cannot be triggered on the same turret by any of its use"
+},
+"Presence of Mind": {
+"path": "Precision",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"AH",
+"MANA"
+],
+"adaptive": false,
+"text": "Scoring a  against an enemy champion restores  or  after a 1-second delay. Damaging an enemy champion restores {{as| mana}} or  (8 second cooldown)."
+},
+"Biscuit Delivery": {
+"path": "Inspiration",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Receive a  at , , and . If the inventory is full while receiving a biscuit, the biscuit(s) will appear as soon as a slot in the inventory is available. Consuming a Biscuit will permanently increase your {{as|}} by , in addition to its effects. You will also ga"
+},
+"Gathering Storm": {
+"path": "Sorcery",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "PERIODIC",
+"effects": [
+"DAMAGE",
+"AD",
+"AP",
+"ADAPTIVE"
+],
+"adaptive": true,
+"text": "Gain increasing  every 10 minutes that grants a total of {{as| bonus Attack Damage}} or {{as| Ability Power}}.  Grants bonuses based on which stat you already have the most bonuses for. Defaults to the first listed."
+},
+"Absolute Focus": {
+"path": "Sorcery",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Gain  while above .  Grants bonuses based on which stat you already have the most bonuses for. Defaults to the first listed."
+},
+"Waterwalking": {
+"path": "Sorcery",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"MS"
+],
+"adaptive": false,
+"text": "While in the Summoner's Rift|river, you gain {{sti| }} and .  Grants bonuses based on which stat you already have the most bonuses for. Defaults to the first listed."
+},
+"Grasp of the Undying": {
+"path": "Resolve",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_HIT",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Entering Combat status|combat generates 1 stack every second for the next 3 seconds, refreshing the duration with each instance of combat and stacking the effect up to 4 times. At maximum stacks, your next basic attack  within 5 seconds against an enemy  consu"
+},
+"Arcane Comet": {
+"path": "Sorcery",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_ABILITY",
+"effects": [
+"DAMAGE",
+"AD",
+"AP"
+],
+"adaptive": false,
+"text": "Dealing  or  to an enemy  hurls an Arcane Comet at their current location that lands after , dealing    of either  or  to enemies within a  140 radius upon impact. This damage is increased by , up to a maximum of  {{as|(+ % bonus AD)}} {{as|(+ % AP)}} at maxim"
+},
+"Dark Harvest": {
+"path": "Domination",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_ABILITY",
+"effects": [
+"DAMAGE",
+"HEAL",
+"AH",
+"HP"
+],
+"adaptive": false,
+"text": "Damaging basic attacks and  against enemy  below  deal 30    bonus  and, after a -second delay, reap . This cannot occur again for 35 seconds, resetting to 1 second upon scoring a  against an enemy champion. While not on cooldown, also reap  from receiving the"
+},
+"Glacial Augment": {
+"path": "Inspiration",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_IMMOBILIZE",
+"effects": [
+"DAMAGE",
+"HEAL",
+"SHIELD",
+"SLOW_RESIST"
+],
+"adaptive": false,
+"text": "an enemy  will cause 3 glacial rays to emanate from them towards you and other nearby enemy champions, creating icy zones with a 700 unit radius that last for 3 (+ 100% of the ) seconds. Enemies within the icy zones, which have a width of 80 units, are  by 20%"
+},
+"Guardian": {
+"path": "Resolve",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"SHIELD",
+"HP"
+],
+"adaptive": false,
+"text": "While within 350 units of an allied , you raise your Guard. Allied champions you affect with unit-targeted champion ability|abilities are also Guarded for 3 seconds, regardless of distance. If you or a Guarded ally would take  damage within  seconds or lethal "
+},
+"Taste of Blood": {
+"path": "Domination",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Damaging an enemy   you for   . Does not trigger at full health."
+},
+"Second Wind": {
+"path": "Resolve",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "After taking damage from an enemy ,   over 10 seconds, refreshing on subsequent damage."
+},
+"Cash Back": {
+"path": "Inspiration",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"GOLD"
+],
+"adaptive": false,
+"text": "Upon purchasing a Legendary item, you are automatically refunded % of its total  cost. Selling or undoing the item's purchase will cancel the refund, reducing your current  equal to the refunded amount."
+},
+"First Strike": {
+"path": "Inspiration",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"AH",
+"GOLD"
+],
+"adaptive": false,
+"text": "Initiating combat with an enemy  within the first  seconds of champion combat grants  and First Strike for 3 seconds, causing all of your  dealt against champions to deal . Afterwards, you are granted  equal to  of all bonus damage dealt within the duration. F"
+},
+"Treasure Hunter": {
+"path": "Domination",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [],
+"adaptive": false,
+"text": "Gain  (+  per Bounty Hunter stack) per unique takedown, up to {{g|}} at 5 unique takedowns. 1st unique takedown: , 2nd: {{g|}}, 3rd: {{g|}}, 4th: {{g|}}, 5th: {{g|}}."
+},
+"Triumph": {
+"path": "Precision",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Scoring a  against an enemy champion  you for {{as|% of your maximum health}}  and grants you an additional , both after a 1-second delay."
+},
+"Hail of Blades": {
+"path": "Domination",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "PERIODIC",
+"effects": [
+"DAMAGE",
+"AS"
+],
+"adaptive": false,
+"text": "Starting an  against an enemy  triggers Hail of Blades, and if the windup completes, you gain 2 stacks of the effect for 3 seconds, with the duration refreshing on basic attacks  against enemy champions until all stacks are consumed. Stacks are consumed per ba"
+},
+"Revitalize": {
+"path": "Resolve",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_LOW_HEALTH",
+"effects": [
+"HEAL",
+"SHIELD",
+"HP"
+],
+"adaptive": false,
+"text": "Grants . Outgoing  and outgoing  are increased by 10% on targets ."
+},
+"Relentless Hunter": {
+"path": "Domination",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"MS"
+],
+"adaptive": false,
+"text": "Gain {{sti|}} while combat status|out of combat per Bounty Hunter stack, up to  at 5 stacks. Earn a Bounty Hunter stack whenever scoring a  against an enemy champion, up to one per unique champion."
+},
+"Magical Footwear": {
+"path": "Inspiration",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"MS"
+],
+"adaptive": false,
+"text": "After 12 minutes (reduced by 45 seconds whenever scoring a  against an enemy champion), you gain  for . Slightly Magical Boots are identical to  and can be upgraded as if it were the item. If the inventory is full while receiving the boots, they will appear as"
+},
+"Celerity": {
+"path": "Sorcery",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"MS"
+],
+"adaptive": false,
+"text": "All movement speed bonuses increase in effectiveness by 7%. Additionally, you gain {{sti|}}."
+},
+"Approach Velocity": {
+"path": "Inspiration",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_IMMOBILIZE",
+"effects": [
+"MS"
+],
+"adaptive": false,
+"text": "Gain {{sti|{{as|% bonus total movement speed}}}} while facing  enemy  that are , , or  within  1000 range. This bonus is doubled to  and does not have a range cap nor require  toward enemy champions whose movement you impaired when they were ."
+},
+"Aftershock": {
+"path": "Resolve",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_IMMOBILIZE",
+"effects": [
+"DAMAGE",
+"HEAL",
+"RESIST",
+"HP"
+],
+"adaptive": false,
+"text": "an enemy  grants you a static    and    for  seconds. The bonus resistances are each capped at . After the duration, you release a shockwave that deals {{as||magic damage}}   to enemy champions and  within a  350 radius."
+},
+"Conditioning": {
+"path": "Resolve",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"RESIST"
+],
+"adaptive": false,
+"text": "After 12 minutes, gain {{sti|armor|}} and {{sti|mr|}} and your  and  are increased by 3%."
+},
+"Unflinching": {
+"path": "Resolve",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_CC",
+"effects": [
+"RESIST"
+],
+"adaptive": false,
+"text": "While afflicted with  sourced from enemy , gain {{as| bonus armor}} and {{as| bonus magic resistance}}, lingering for 2 seconds after the impairment ends."
+},
+"Shield Bash": {
+"path": "Resolve",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"SHIELD",
+"HP"
+],
+"adaptive": false,
+"text": "Whenever you gain a , your next  against an enemy  is empowered to deal  {{as|(+ % bonus health)}}  bonus . The empowered attack lasts for up to 2 seconds after the shield expires."
+},
+"Ultimate Hunter": {
+"path": "Domination",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [],
+"adaptive": false,
+"text": "Gain 6 (+ 5 per Bounty Hunter stack) ultimate haste, up to 31 at 5 stacks. Earn a Bounty Hunter stack whenever scoring a  against an enemy , up to one per unique champion."
+},
+"Transcendence": {
+"path": "Sorcery",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [
+"AH"
+],
+"adaptive": false,
+"text": "Gain bonuses upon reaching the following levels:\n* Level 5: + 5 ability haste.\n* Level 8: + 5 ability haste.\n* Level 11: Scoring a  against an enemy  reduces the current cooldowns of your basic champion ability|abilities by 20%."
+},
+"Font of Life": {
+"path": "Resolve",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ON_IMMOBILIZE",
+"effects": [
+"HEAL"
+],
+"adaptive": false,
+"text": "or  an enemy   you and the nearest and most wounded allied champion within  1000 units for ."
+},
+"Scorch": {
+"path": "Sorcery",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ON_ABILITY",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "Dealing  to an enemy  sets them on fire, dealing them {{as||magic damage}}  after 1 second."
+},
+"Press the Attack": {
+"path": "Precision",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_HIT",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "against enemy  apply a  for 4 seconds, refreshing on subsequent applications, expiring upon attacking a new champion, and stacking up to 3 times. The third stack consumes all stacks to deal  bonus  and grant you 8% increased damage against champions until 5 se"
+},
+"Lethal Tempo": {
+"path": "Precision",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"AS"
+],
+"adaptive": false,
+"text": "Basic attacks  against enemy  grant a  for 6 seconds, refreshing on subsequent attacks and stacking up to 6 times. Gain {{as|{{rd|6%|%}} bonus attack speed|as}} for each stack, up to {{as|{{rd|36%|%}}|as}} at maximum stacks. At maximum stacks, basic attacks ar"
+},
+"Coup de Grace": {
+"path": "Precision",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Deal 8% increased damage to champions below ."
+},
+"Cut Down": {
+"path": "Precision",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Deal 8% increased damage to champions above ."
+},
+"Last Stand": {
+"path": "Precision",
+"slot": "3",
+"row": 3,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Deal 5% increased damage to champions while below . This increases further based on your , up to 11% increased damage while below ."
+},
+"Time Warp Tonic": {
+"path": "Inspiration",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "Upon consuming a potion (), you additionally  equal to 40% of its total health restoration. If a health potion is consumed while one is already active, this effect will trigger on the activation of the next potion once the restoration of the current one ends."
+},
+"Triple Tonic": {
+"path": "Inspiration",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [],
+"adaptive": false,
+"text": "Gain an Elixir upon reaching each of the following levels:\n* Level 3: \n* Level 6: \n* Level 9:  If the inventory is full upon the user becoming eligible to receive  or , each item will be granted as soon as an empty slot is available. If the inventory is full u"
+},
+"Absorb Life": {
+"path": "Precision",
+"slot": "1",
+"row": 1,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL"
+],
+"adaptive": false,
+"text": "Killing an enemy  you for ."
+},
+"Deep Ward": {
+"path": "Domination",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [
+"HEAL",
+"HP"
+],
+"adaptive": false,
+"text": "and  placed in the enemy jungle are considered Deep. All Deep wards are granted , Deep  last  seconds longer, and Deep  last  seconds longer. At level 9, wards placed in the river will also be considered Deep."
+},
+"Grisly Mementos": {
+"path": "Domination",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ON_TAKEDOWN",
+"effects": [],
+"adaptive": false,
+"text": "Gain 6 trinket haste per Memento stack, up to 108 haste at maximum stacks. Earn a Memento stack whenever scoring a champion , up to 18 stacks."
+},
+"Sixth Sense": {
+"path": "Domination",
+"slot": "2",
+"row": 2,
+"kind": "MINOR",
+"trigger": "ALWAYS",
+"effects": [],
+"adaptive": false,
+"text": "Upon moving near an un-tracked enemy , it is automatically tracked with a File:Enemy Ward time indicator.png|30px|link= Ward#Ward_Timers|ward timer. At level 11, also  the ward for 10 seconds upon being triggered."
+},
+"Deathfire Touch": {
+"path": "Sorcery",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ON_ABILITY",
+"effects": [
+"DAMAGE"
+],
+"adaptive": false,
+"text": "Dealing  or  to enemy  inflicts a burn that deals  {{as|(+ % bonus AD)}} {{as|(+ % AP)}}  every  seconds over the duration. After the burn has lingered on a target for 3 seconds, its damage to them is increased{{ft|by 75%|to  {{as|(+ % bonus AD)}} {{as|(+ % AP"
+},
+"Stormraider's Surge": {
+"path": "Sorcery",
+"slot": "Keystone",
+"row": 0,
+"kind": "KEYSTONE",
+"trigger": "ALWAYS",
+"effects": [
+"DAMAGE",
+"HEAL",
+"MS",
+"HP"
+],
+"adaptive": false,
+"text": "Dealing  to an enemy champion equal to  within 3 seconds grants you {{as| bonus movement speed}} and 50%  for 4 seconds."
+},
+"Adaptive Force Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"adaptive"
+],
+"adaptive": true,
+"shard_slots": [
+1,
+2
+],
+"stats": {
+"adaptive": 9
+},
+"text": "+9 adaptive force"
+},
+"Attack Speed Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"as"
+],
+"adaptive": false,
+"shard_slots": [
+1
+],
+"stats": {
+"as": 10
+},
+"text": "+10% attack speed"
+},
+"Ability Haste Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"ah"
+],
+"adaptive": false,
+"shard_slots": [
+1
+],
+"stats": {
+"ah": 8
+},
+"text": "+8 ability haste"
+},
+"Move Speed Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"ms_pct"
+],
+"adaptive": false,
+"shard_slots": [
+2
+],
+"stats": {
+"ms_pct": 2.5
+},
+"text": "+2.5% movement speed"
+},
+"Health Scaling Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"hp"
+],
+"adaptive": false,
+"shard_slots": [
+2,
+3
+],
+"stats": {
+"hp": 180
+},
+"text": "+10-180 health by level (180 at 18)"
+},
+"Health Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"hp"
+],
+"adaptive": false,
+"shard_slots": [
+3
+],
+"stats": {
+"hp": 65
+},
+"text": "+65 health"
+},
+"Tenacity Shard": {
+"path": "Stat",
+"slot": "Shard",
+"row": null,
+"kind": "SHARD",
+"trigger": "ALWAYS",
+"effects": [
+"tenacity"
+],
+"adaptive": false,
+"shard_slots": [
+3
+],
+"stats": {
+"tenacity": 15
+},
+"text": "+15% tenacity and slow resist"
+}
+}
