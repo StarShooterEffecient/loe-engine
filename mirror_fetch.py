@@ -38,6 +38,14 @@ KEEP_ARTICLES = {'Critical strike', 'Armor penetration', 'Magic penetration', 'A
                  'Tenacity', 'Damage reduction', 'Item group', 'Named item effect', 'Penetration',
                  'Adaptive force', 'Lethality', 'On-hit', 'Life steal', 'Omnivamp', 'Rune', 'Champion'}
 
+# The exact data-module pages the engine cannot run without. These are fetched BY NAME every sync,
+# so a listing quirk (allpages can omit /data subpages) can never silently drop a core page.
+CRITICAL_PAGES = [
+    'Module:ChampionData/data', 'Module:ItemData/data', 'Module:ItemData/data/removed',
+    'Module:SpellData/data', 'Module:RuneData/data', 'Module:DamageData/data',
+    'Module:ChannelData/data', 'Module:Gold value/data',
+]
+
 
 def api(params, retries=4):
     params.setdefault('format', 'json')
@@ -71,6 +79,11 @@ def list_revisions():
                 latest[title] = None                 # revid filled in by the revisions pass
             if 'continue' in data: cont = data['continue']
             else: break
+    # CRITICAL PAGES: the core data modules the engine cannot run without. allpages listing can miss
+    # /data subpages depending on wiki config, so we ALWAYS include these by name — a listing quirk
+    # must never silently drop DamageData (which is exactly what happened on the first live run).
+    for t in CRITICAL_PAGES:
+        latest.setdefault(t, None)
     # now fetch current revids in batches of 50 titles
     titles = list(latest)
     for i in range(0, len(titles), 50):
@@ -130,16 +143,30 @@ def sync(dry_run=False):
         have.pop(t, None)
     json.dump(have, open(MANIFEST, 'w'), indent=0)
 
-    # also emit a single combined JSON in the shape mirror_sync.py already ingests
+    # Emit the combined JSON that mirror_sync.py ingests. GitHub runners are EPHEMERAL — only files
+    # committed to the repo survive between runs — so this combined file (committed) is the durable
+    # mirror. We MERGE into any existing combined file rather than rebuilding purely from loose
+    # .wikitext files, so a no-change run still emits the full corpus instead of an empty one.
+    combined_path = os.path.join(MIRROR_DIR, 'full_content.json')
     combined = {}
-    for title in have:
+    if os.path.exists(combined_path):
+        try:
+            combined = json.load(open(combined_path))
+        except Exception:
+            combined = {}
+    for title in have:                          # add/refresh from any freshly-downloaded .wikitext
         safe = urllib.parse.quote(title, safe='') + '.wikitext'
         p = os.path.join(MIRROR_DIR, safe)
         if os.path.exists(p):
             combined[title] = dict(content=open(p, encoding='utf-8').read(), revid=have[title])
-    json.dump(combined, open(os.path.join(MIRROR_DIR, 'full_content.json'), 'w'))
-    print(f'mirror updated: {len(changed)} pages fetched, {len(have)} total in manifest')
-    return dict(changed=len(changed), removed=len(removed), fetched=len(changed))
+    for t in removed:                           # drop upstream-deleted pages
+        combined.pop(t, None)
+    # keep only pages still in the manifest
+    combined = {t: v for t, v in combined.items() if t in have}
+    json.dump(combined, open(combined_path, 'w'))
+    print(f'mirror updated: {len(changed)} pages fetched, {len(have)} total in manifest, '
+          f'{len(combined)} in combined corpus')
+    return dict(changed=len(changed), removed=len(removed), fetched=len(changed), corpus=len(combined))
 
 
 if __name__ == '__main__':
