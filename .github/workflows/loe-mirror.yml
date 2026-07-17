@@ -59,6 +59,6 @@ jobs:
         run: |
           git config user.name  "loe-mirror-bot"
           git config user.email "actions@github.com"
-          git add mirror/manifest.json optimized_v2.json index.html site/ || true
+          git add mirror/manifest.json mirror/full_content.json optimized_v2.json index.html site/ || true
           git commit -m "mirror: refresh from wiki ($(date -u +%Y-%m-%d))" || echo "nothing to commit"
           git push || echo "nothing to push"
