@@ -12,6 +12,8 @@ Two things the mirror needs, learned from this dump:
 """
 import json, sqlite3, re, os
 
+MIRROR_DIR = 'mirror'          # where mirror_fetch.py writes its combined full_content.json
+
 OTHER_GAMES = ('(Legends of Runeterra)', 'LoR:', 'TFT:', '(Teamfight Tactics)', '(Wild Rift)',
                'Wild Rift', 'WR:', '/LoR', '/TFT', '(Arena')
 
@@ -61,10 +63,25 @@ def sync_json(path, db='wiki.db', keep_filter=is_lol_sr):
 
 if __name__ == '__main__':
     import glob
-    for j in glob.glob('/mnt/user-data/uploads/*.json'):
+    # Sources, in priority order:
+    #  1. the live mirror's own combined dump (what mirror_fetch.py just wrote)  <- GitHub path
+    #  2. any JSON dumps in the local uploads folder                            <- local/dev path
+    sources = []
+    if os.path.exists(os.path.join(MIRROR_DIR, 'full_content.json')):
+        sources.append(os.path.join(MIRROR_DIR, 'full_content.json'))
+    sources += sorted(glob.glob('/mnt/user-data/uploads/*.json'))
+
+    # Ensure the table exists even if there is nothing to ingest, so the count below never crashes
+    cx = sqlite3.connect('wiki.db'); c = cx.cursor()
+    c.execute('CREATE TABLE IF NOT EXISTS pages(title TEXT PRIMARY KEY, ts TEXT, kind TEXT, source TEXT, text TEXT)')
+    cx.commit()
+
+    if not sources:
+        print('no JSON sources found (expected mirror/full_content.json). Did mirror_fetch.py run?')
+    for j in sources:
         a, u, s = sync_json(j)
         print(f'{os.path.basename(j)}: +{a} new, {u} updated, {s} filtered out (other games/redirects)')
-    cx = sqlite3.connect('wiki.db'); c = cx.cursor()
+
     total = c.execute('SELECT COUNT(*) FROM pages').fetchone()[0]
     kinds = dict(c.execute('SELECT kind, COUNT(*) FROM pages GROUP BY kind').fetchall())
     print(f'\ncanonical store now: {total} pages {kinds}')
