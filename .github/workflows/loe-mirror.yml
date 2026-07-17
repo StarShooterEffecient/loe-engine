@@ -4,8 +4,7 @@ name: LOE Mirror Sync & Rebuild
 # rebuilds the engine when something actually changed — so most runs are near-instant and free.
 on:
   schedule:
-    - cron: '0 6 * * *'        # once a day at 06:00 UTC (League patches land on a ~2-week cycle;
-                                # daily is plenty and stays well inside free Actions minutes)
+    - cron: '0 6 * * *'        # once a day at 06:00 UTC
   workflow_dispatch:            # ...plus a manual "run now" button
     inputs:
       force_rebuild:
@@ -33,32 +32,38 @@ jobs:
         run: |
           cd .
           python mirror_fetch.py | tee sync.log
-          # expose whether anything changed, so later steps can skip a no-op rebuild
           if grep -q "pages fetched, " sync.log && ! grep -q "0 pages fetched" sync.log; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Rebuild the engine (only if the wiki actually changed)
+      # Commit the mirror corpus IMMEDIATELY, before the engine runs. GitHub runners are ephemeral;
+      # if we waited until after the (long, fallible) rebuild to commit, a crash would lose the data
+      # and the next run would start empty — which is exactly the bug that kept recurring.
+      - name: Persist the mirror corpus (always, right after fetch)
+        run: |
+          cd .
+          git config user.name  "loe-mirror-bot"
+          git config user.email "actions@github.com"
+          git add mirror/manifest.json mirror/full_content.json || true
+          git commit -m "mirror: corpus snapshot ($(date -u +%Y-%m-%dT%H:%M))" || echo "corpus unchanged"
+          git push || echo "nothing to push"
+
+      - name: Rebuild the engine (when wiki changed or forced)
         if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
         run: |
           cd .
-          python mirror_sync.py            # fold the fresh mirror into the page store
-          python run_all.py                # ingest -> DNA -> validate -> optimize -> app
+          python mirror_sync.py            # fold the mirror corpus into the page store
+          python run_all.py                # DNA -> validate -> optimize -> app
 
-      - name: Publish the app to GitHub Pages
+      - name: Publish the app + commit results
         if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
         run: |
-          mkdir -p site
-          cp index.html site/index.html
-          cp optimized_v2.json site/data.json || true
-
-      - name: Commit refreshed data & outputs
-        if: steps.sync.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
-        run: |
-          git config user.name  "loe-mirror-bot"
-          git config user.email "actions@github.com"
-          git add mirror/manifest.json mirror/full_content.json optimized_v2.json index.html site/ || true
-          git commit -m "mirror: refresh from wiki ($(date -u +%Y-%m-%d))" || echo "nothing to commit"
+          cd .
+          mkdir -p ../site
+          cp index.html ../site/index.html || true
+          cp optimized_v2.json ../site/data.json || true
+          git add optimized_v2.json index.html || true
+          git commit -m "engine: rebuild ($(date -u +%Y-%m-%d))" || echo "nothing to commit"
           git push || echo "nothing to push"
