@@ -16,7 +16,7 @@ import json
 from collections import defaultdict, Counter
 import combat, core
 
-OPT = json.load(open('optimized_v2.json'))
+OPT = {n: v for n, v in json.load(open('optimized_v2.json')).items() if n != '_fingerprint'}
 OBJ = ['dps', 'burst', 'ehp', 'sustain', 'utility']
 
 # ---------- 1. each champion's ceiling per objective (their own proven max) ----------
