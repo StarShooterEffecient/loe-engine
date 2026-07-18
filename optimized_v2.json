@@ -1,14 +1,14 @@
 {
-"_fingerprint": "075826119a4bd470",
+"_fingerprint": "6eb65bd6e19b2112",
 "Aatrox": {
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"Fiendhunter Bolts",
-"Bastionbreaker",
 "Umbral Glaive",
-"Lord Dominik's Regards"
+"Fiendhunter Bolts",
+"Lord Dominik's Regards",
+"Infinity Edge",
+"Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -16,39 +16,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard"
 ],
-"value": 123.36,
-"swaps": 11,
+"value": 123.59,
+"swaps": 9,
 "proven": true,
-"omega": 123.4,
+"omega": 123.6,
 "modelled": 1.0,
-"dps": 668,
-"burst": 3677,
-"ehp": 5348,
-"sustain": 78,
-"utility": 5.9,
+"dps": 661,
+"burst": 3639,
+"ehp": 5696,
+"sustain": 84,
+"utility": 5.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 865,
-"ttk": 2.9
+"dps": 846,
+"ttk": 3.0
 },
 {
 "t": "Bruiser",
-"dps": 682,
+"dps": 677,
 "ttk": 5.3
 },
 {
 "t": "Tank",
-"dps": 456,
-"ttk": 10.5
+"dps": 459,
+"ttk": 10.4
 }
 ]
 },
@@ -333,17 +333,17 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Luden's Echo",
 "Void Staff",
-"Shadowflame",
-"Rabadon's Deathcap"
+"Luden's Echo",
+"Rabadon's Deathcap",
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "First Strike",
+"keystone": "Electrocute",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
+"Cheap Shot",
+"Sixth Sense",
+"Ultimate Hunter",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -352,31 +352,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 84.33,
-"swaps": 10,
+"value": 85.01,
+"swaps": 13,
 "proven": true,
-"omega": 84.3,
+"omega": 85.0,
 "modelled": 0.83,
-"dps": 370,
-"burst": 2312,
+"dps": 377,
+"burst": 2314,
 "ehp": 4682,
 "sustain": 0,
-"utility": 2.6,
+"utility": 2.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 472,
-"ttk": 5.3
+"dps": 482,
+"ttk": 5.2
 },
 {
 "t": "Bruiser",
-"dps": 386,
-"ttk": 9.3
+"dps": 394,
+"ttk": 9.1
 },
 {
 "t": "Tank",
-"dps": 250,
-"ttk": 19.2
+"dps": 255,
+"ttk": 18.8
 }
 ]
 },
@@ -651,11 +651,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
-"Shadowflame",
-"Blackfire Torch",
 "Luden's Echo",
-"Cryptbloom"
+"Rabadon's Deathcap",
+"Blackfire Torch",
+"Cryptbloom",
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -672,7 +672,7 @@
 "Adaptive Force Shard"
 ],
 "value": 142.57,
-"swaps": 24,
+"swaps": 21,
 "proven": true,
 "omega": 142.6,
 "modelled": 0.67,
@@ -975,10 +975,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Voltaic Cyclosword",
+"Lord Dominik's Regards",
 "Fiendhunter Bolts",
+"Voltaic Cyclosword",
 "The Collector"
 ],
 "boots": "Gunmetal Greaves",
@@ -987,38 +987,38 @@
 "Triumph",
 "Legend: Bloodline",
 "Cut Down",
-"Sudden Impact",
-"Sixth Sense"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
 "Adaptive Force Shard",
 "Health Scaling Shard",
 "Ability Haste Shard"
 ],
-"value": 135.98,
-"swaps": 11,
+"value": 135.63,
+"swaps": 19,
 "proven": true,
-"omega": 136.0,
+"omega": 135.6,
 "modelled": 0.83,
-"dps": 877,
-"burst": 2575,
-"ehp": 4670,
-"sustain": 37,
+"dps": 871,
+"burst": 2568,
+"ehp": 4992,
+"sustain": 36,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1093,
+"dps": 1075,
 "ttk": 2.3
 },
 {
 "t": "Bruiser",
-"dps": 911,
+"dps": 905,
 "ttk": 4.0
 },
 {
 "t": "Tank",
-"dps": 628,
+"dps": 633,
 "ttk": 7.6
 }
 ]
@@ -1237,8 +1237,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Triumph",
-"Legend: Haste"
+"Shield Bash",
+"Second Wind"
 ],
 "shards": [
 "Tenacity Shard",
@@ -1248,28 +1248,28 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 23.1,
+"omega": 23.6,
 "modelled": 0.5,
-"dps": 86,
-"burst": 402,
+"dps": 89,
+"burst": 414,
 "ehp": 6086,
 "sustain": 3,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 117,
-"ttk": 21.4
+"dps": 120,
+"ttk": 20.8
 },
 {
 "t": "Bruiser",
-"dps": 88,
-"ttk": 40.9
+"dps": 91,
+"ttk": 39.7
 },
 {
 "t": "Tank",
-"dps": 53,
-"ttk": 90.5
+"dps": 55,
+"ttk": 87.8
 }
 ]
 }
@@ -1299,11 +1299,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Cryptbloom",
 "Blackfire Torch",
-"Rabadon's Deathcap",
-"Archangel's Staff",
 "Luden's Echo",
-"Cryptbloom"
+"Archangel's Staff",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -1320,7 +1320,7 @@
 "Adaptive Force Shard"
 ],
 "value": 107.22,
-"swaps": 13,
+"swaps": 11,
 "proven": true,
 "omega": 107.2,
 "modelled": 0.83,
@@ -1618,10 +1618,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Bastionbreaker",
 "Lord Dominik's Regards",
 "Infinity Edge",
 "Fiendhunter Bolts",
+"Bastionbreaker",
 "Axiom Arc"
 ],
 "boots": "Crimson Lucidity",
@@ -1639,7 +1639,7 @@
 "Adaptive Force Shard"
 ],
 "value": 118.71,
-"swaps": 20,
+"swaps": 16,
 "proven": true,
 "omega": 118.7,
 "modelled": 0.67,
@@ -1944,8 +1944,8 @@
 "items": [
 "Fiendhunter Bolts",
 "Blackfire Torch",
-"Luden's Echo",
 "Cryptbloom",
+"Luden's Echo",
 "Lord Dominik's Regards"
 ],
 "boots": "Spellslinger's Shoes",
@@ -1963,7 +1963,7 @@
 "Health Scaling Shard"
 ],
 "value": 132.51,
-"swaps": 11,
+"swaps": 14,
 "proven": true,
 "omega": 132.5,
 "modelled": 0.83,
@@ -2261,13 +2261,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
-"Lord Dominik's Regards",
-"Infinity Edge",
-"Essence Reaver",
-"Voltaic Cyclosword"
+"Luden's Echo",
+"Archangel's Staff",
+"Rabadon's Deathcap",
+"Cryptbloom",
+"Blackfire Torch"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -2277,35 +2277,35 @@
 "Overgrowth"
 ],
 "shards": [
-"Attack Speed Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Ability Haste Shard",
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 86.04,
-"swaps": 13,
+"value": 77.84,
+"swaps": 11,
 "proven": true,
-"omega": 86.0,
-"modelled": 1.0,
-"dps": 506,
-"burst": 1757,
+"omega": 77.8,
+"modelled": 0.83,
+"dps": 419,
+"burst": 1303,
 "ehp": 4216,
-"sustain": 5,
-"utility": 4.3,
+"sustain": 0,
+"utility": 6.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 616,
-"ttk": 4.1
+"dps": 546,
+"ttk": 4.6
 },
 {
 "t": "Bruiser",
-"dps": 524,
-"ttk": 6.9
+"dps": 430,
+"ttk": 8.4
 },
 {
 "t": "Tank",
-"dps": 377,
-"ttk": 12.7
+"dps": 281,
+"ttk": 17.1
 }
 ]
 },
@@ -2580,11 +2580,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
+"Rabadon's Deathcap",
 "Blackfire Torch",
+"Cryptbloom",
 "Luden's Echo",
-"Shadowflame",
-"Rabadon's Deathcap"
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -2899,11 +2899,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
+"Lord Dominik's Regards",
 "Stormrazor",
-"The Collector",
-"Bastionbreaker"
+"Bastionbreaker",
+"The Collector"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
@@ -2920,7 +2920,7 @@
 "Adaptive Force Shard"
 ],
 "value": 136.92,
-"swaps": 10,
+"swaps": 13,
 "proven": true,
 "omega": 136.9,
 "modelled": 0.83,
@@ -3223,11 +3223,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
-"Blackfire Torch",
-"Luden's Echo",
 "Cryptbloom",
-"Shadowflame"
+"Shadowflame",
+"Luden's Echo",
+"Blackfire Torch",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -3244,7 +3244,7 @@
 "Health Scaling Shard"
 ],
 "value": 90.26,
-"swaps": 13,
+"swaps": 11,
 "proven": true,
 "omega": 90.3,
 "modelled": 0.67,
@@ -3543,9 +3543,9 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Rabadon's Deathcap",
 "Shadowflame",
 "Cryptbloom",
+"Rabadon's Deathcap",
 "Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
@@ -3559,11 +3559,11 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
 "value": 92.16,
-"swaps": 11,
+"swaps": 10,
 "proven": true,
 "omega": 92.2,
 "modelled": 0.67,
@@ -3866,11 +3866,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
-"Blackfire Torch",
-"Cryptbloom",
 "Archangel's Staff",
-"Luden's Echo"
+"Blackfire Torch",
+"Luden's Echo",
+"Rabadon's Deathcap",
+"Cryptbloom"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -3887,7 +3887,7 @@
 "Health Scaling Shard"
 ],
 "value": 78.96,
-"swaps": 13,
+"swaps": 5,
 "proven": true,
 "omega": 79.0,
 "modelled": 0.83,
@@ -4185,14 +4185,14 @@
 "objectives": {
 "omega": {
 "items": [
-"Blackfire Torch",
 "Archangel's Staff",
+"Blackfire Torch",
 "Cryptbloom",
 "Cosmic Drive",
 "Rabadon's Deathcap"
 ],
 "boots": "Crimson Lucidity",
-"keystone": "Conqueror",
+"keystone": "Fleet Footwork",
 "minors": [
 "Triumph",
 "Legend: Bloodline",
@@ -4205,31 +4205,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 69.65,
-"swaps": 6,
+"value": 69.32,
+"swaps": 9,
 "proven": true,
-"omega": 69.6,
+"omega": 69.3,
 "modelled": 0.67,
-"dps": 173,
-"burst": 603,
+"dps": 169,
+"burst": 592,
 "ehp": 5401,
 "sustain": 97,
 "utility": 9.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 222,
-"ttk": 11.3
+"dps": 218,
+"ttk": 11.5
 },
 {
 "t": "Bruiser",
-"dps": 178,
-"ttk": 20.3
+"dps": 174,
+"ttk": 20.7
 },
 {
 "t": "Tank",
-"dps": 118,
-"ttk": 40.6
+"dps": 116,
+"ttk": 41.4
 }
 ]
 },
@@ -4509,51 +4509,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Umbral Glaive",
 "Fiendhunter Bolts",
+"Lord Dominik's Regards",
 "Infinity Edge",
-"Bastionbreaker"
+"Bastionbreaker",
+"Umbral Glaive"
 ],
 "boots": "Immortal Path",
-"keystone": "Conqueror",
+"keystone": "Electrocute",
 "minors": [
-"Presence of Mind",
-"Legend: Alacrity",
-"Cut Down",
+"Sudden Impact",
+"Sixth Sense",
+"Ultimate Hunter",
 "Shield Bash",
-"Overgrowth"
+"Bone Plating"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard"
 ],
-"value": 206.23,
-"swaps": 26,
+"value": 204.79,
+"swaps": 22,
 "proven": true,
-"omega": 206.2,
+"omega": 204.8,
 "modelled": 1.0,
-"dps": 1030,
-"burst": 2988,
-"ehp": 5217,
-"sustain": 1070,
-"utility": 3.7,
+"dps": 1017,
+"burst": 2913,
+"ehp": 5188,
+"sustain": 1015,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1303,
+"dps": 1302,
 "ttk": 1.9
 },
 {
 "t": "Bruiser",
-"dps": 1050,
-"ttk": 3.4
+"dps": 1035,
+"ttk": 3.5
 },
 {
 "t": "Tank",
-"dps": 737,
-"ttk": 6.5
+"dps": 714,
+"ttk": 6.7
 }
 ]
 },
@@ -4837,10 +4837,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
-"Abyssal Mask",
+"Protoplasm Harness",
 "Jak'Sho, The Protean",
-"Warmog's Armor",
+"Abyssal Mask",
+"Death's Dance",
 "Cosmic Drive"
 ],
 "boots": "Crimson Lucidity",
@@ -4849,39 +4849,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
+"Overgrowth",
 "Bone Plating"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
-"Health Shard"
+"Ability Haste Shard",
+"Adaptive Force Shard"
 ],
-"value": 109.3,
-"swaps": 20,
+"value": 112.48,
+"swaps": 15,
 "proven": true,
-"omega": 109.3,
+"omega": 112.5,
 "modelled": 0.83,
-"dps": 94,
-"burst": 902,
-"ehp": 22685,
-"sustain": 8,
-"utility": 9.6,
+"dps": 97,
+"burst": 890,
+"ehp": 22756,
+"sustain": 0,
+"utility": 10.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 124,
-"ttk": 20.2
+"dps": 127,
+"ttk": 19.7
 },
 {
 "t": "Bruiser",
-"dps": 97,
-"ttk": 37.1
+"dps": 100,
+"ttk": 36.1
 },
 {
 "t": "Tank",
-"dps": 62,
-"ttk": 77.2
+"dps": 64,
+"ttk": 75.0
 }
 ]
 },
@@ -5161,10 +5161,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Void Staff",
+"Rabadon's Deathcap",
 "Blackfire Torch",
 "Luden's Echo",
-"Rabadon's Deathcap",
+"Void Staff",
 "Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
@@ -5481,50 +5481,50 @@
 "omega": {
 "items": [
 "Essence Reaver",
-"Infinity Edge",
-"Blade of the Ruined King",
 "Lord Dominik's Regards",
-"Stormrazor"
+"Infinity Edge",
+"Voltaic Cyclosword",
+"Fiendhunter Bolts"
 ],
-"boots": "Crimson Lucidity",
+"boots": "Gunmetal Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
-"Legend: Alacrity",
+"Legend: Haste",
 "Cut Down",
 "Scorch",
 "Transcendence"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Health Scaling Shard",
 "Health Shard"
 ],
-"value": 145.29,
-"swaps": 23,
+"value": 148.83,
+"swaps": 18,
 "proven": true,
-"omega": 145.3,
-"modelled": 0.83,
-"dps": 788,
-"burst": 1996,
+"omega": 148.8,
+"modelled": 1.0,
+"dps": 796,
+"burst": 2167,
 "ehp": 5852,
-"sustain": 22,
-"utility": 11.2,
+"sustain": 11,
+"utility": 11.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 979,
+"dps": 977,
 "ttk": 2.6
 },
 {
 "t": "Bruiser",
-"dps": 820,
+"dps": 827,
 "ttk": 4.4
 },
 {
 "t": "Tank",
-"dps": 565,
-"ttk": 8.5
+"dps": 583,
+"ttk": 8.2
 }
 ]
 },
@@ -5809,12 +5809,12 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Essence Reaver",
+"Lord Dominik's Regards",
 "Voltaic Cyclosword",
-"The Collector",
-"Lord Dominik's Regards"
+"Fiendhunter Bolts",
+"Essence Reaver"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Immortal Path",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
@@ -5824,35 +5824,35 @@
 "Overgrowth"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 160.05,
-"swaps": 18,
+"value": 156.28,
+"swaps": 10,
 "proven": true,
-"omega": 160.1,
-"modelled": 0.83,
-"dps": 949,
-"burst": 3149,
+"omega": 156.3,
+"modelled": 1.0,
+"dps": 892,
+"burst": 3216,
 "ehp": 4854,
-"sustain": 108,
-"utility": 6.0,
+"sustain": 89,
+"utility": 6.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1202,
-"ttk": 2.1
+"dps": 1101,
+"ttk": 2.3
 },
 {
 "t": "Bruiser",
-"dps": 987,
-"ttk": 3.6
+"dps": 927,
+"ttk": 3.9
 },
 {
 "t": "Tank",
-"dps": 659,
-"ttk": 7.3
+"dps": 648,
+"ttk": 7.4
 }
 ]
 },
@@ -6141,50 +6141,50 @@
 "omega": {
 "items": [
 "Fiendhunter Bolts",
-"Infinity Edge",
 "Lord Dominik's Regards",
+"Infinity Edge",
 "Bastionbreaker",
 "Umbral Glaive"
 ],
 "boots": "Immortal Path",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 145.1,
+"value": 145.62,
 "swaps": 17,
 "proven": true,
-"omega": 145.1,
+"omega": 145.6,
 "modelled": 1.0,
-"dps": 886,
-"burst": 3306,
+"dps": 880,
+"burst": 3362,
 "ehp": 4952,
 "sustain": 0,
-"utility": 2.7,
+"utility": 2.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1123,
-"ttk": 2.2
+"dps": 1102,
+"ttk": 2.3
 },
 {
 "t": "Bruiser",
-"dps": 901,
+"dps": 895,
 "ttk": 4.0
 },
 {
 "t": "Tank",
-"dps": 635,
-"ttk": 7.6
+"dps": 642,
+"ttk": 7.5
 }
 ]
 },
@@ -6461,11 +6461,11 @@
 "items": [
 "Lord Dominik's Regards",
 "Infinity Edge",
-"Essence Reaver",
-"Stormrazor",
-"Death's Dance"
+"Voltaic Cyclosword",
+"Fiendhunter Bolts",
+"Essence Reaver"
 ],
-"boots": "Berserker's Greaves",
+"boots": "Crimson Lucidity",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
@@ -6479,31 +6479,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 178.26,
-"swaps": 18,
+"value": 179.58,
+"swaps": 20,
 "proven": true,
-"omega": 178.3,
-"modelled": 1.0,
-"dps": 847,
-"burst": 2277,
-"ehp": 8240,
-"sustain": 529,
-"utility": 7.9,
+"omega": 179.6,
+"modelled": 0.83,
+"dps": 940,
+"burst": 2475,
+"ehp": 5094,
+"sustain": 586,
+"utility": 8.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1063,
-"ttk": 2.4
+"dps": 1125,
+"ttk": 2.2
 },
 {
 "t": "Bruiser",
-"dps": 880,
-"ttk": 4.1
+"dps": 981,
+"ttk": 3.7
 },
 {
 "t": "Tank",
-"dps": 598,
-"ttk": 8.0
+"dps": 713,
+"ttk": 6.7
 }
 ]
 },
@@ -6788,10 +6788,10 @@
 "omega": {
 "items": [
 "Shadowflame",
-"Rabadon's Deathcap",
 "Luden's Echo",
-"Blackfire Torch",
-"Void Staff"
+"Void Staff",
+"Rabadon's Deathcap",
+"Blackfire Torch"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -6808,7 +6808,7 @@
 "Health Scaling Shard"
 ],
 "value": 142.7,
-"swaps": 19,
+"swaps": 17,
 "proven": true,
 "omega": 142.7,
 "modelled": 0.83,
@@ -7111,8 +7111,8 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
 "Rabadon's Deathcap",
+"Cryptbloom",
 "Blackfire Torch",
 "Luden's Echo",
 "Shadowflame"
@@ -7132,7 +7132,7 @@
 "Health Scaling Shard"
 ],
 "value": 139.48,
-"swaps": 21,
+"swaps": 19,
 "proven": true,
 "omega": 139.5,
 "modelled": 0.67,
@@ -7431,10 +7431,10 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Umbral Glaive",
-"Stormrazor",
+"Lord Dominik's Regards",
 "Fiendhunter Bolts",
-"Lord Dominik's Regards"
+"Voltaic Cyclosword",
+"Essence Reaver"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -7447,34 +7447,34 @@
 ],
 "shards": [
 "Adaptive Force Shard",
-"Attack Speed Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Attack Speed Shard"
 ],
-"value": 106.93,
+"value": 106.54,
 "swaps": 14,
 "proven": true,
-"omega": 106.9,
+"omega": 106.5,
 "modelled": 1.0,
-"dps": 539,
-"burst": 2713,
+"dps": 554,
+"burst": 2624,
 "ehp": 4747,
 "sustain": 5,
-"utility": 0.9,
+"utility": 1.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 695,
+"dps": 686,
 "ttk": 3.6
 },
 {
 "t": "Bruiser",
-"dps": 553,
-"ttk": 6.5
+"dps": 573,
+"ttk": 6.3
 },
 {
 "t": "Tank",
-"dps": 370,
-"ttk": 13.0
+"dps": 403,
+"ttk": 11.9
 }
 ]
 },
@@ -7749,8 +7749,8 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
 "Infinity Edge",
+"Fiendhunter Bolts",
 "Axiom Arc",
 "Lord Dominik's Regards",
 "Bastionbreaker"
@@ -7761,39 +7761,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Bone Plating"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 114.98,
-"swaps": 16,
+"value": 114.51,
+"swaps": 14,
 "proven": true,
-"omega": 115.0,
+"omega": 114.5,
 "modelled": 0.67,
-"dps": 502,
-"burst": 2868,
-"ehp": 5780,
+"dps": 499,
+"burst": 2863,
+"ehp": 6149,
 "sustain": 0,
-"utility": 7.1,
+"utility": 6.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 637,
-"ttk": 3.9
+"dps": 627,
+"ttk": 4.0
 },
 {
 "t": "Bruiser",
-"dps": 511,
-"ttk": 7.0
+"dps": 509,
+"ttk": 7.1
 },
 {
 "t": "Tank",
-"dps": 358,
-"ttk": 13.4
+"dps": 362,
+"ttk": 13.2
 }
 ]
 },
@@ -8073,10 +8073,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
 "Blackfire Torch",
-"Rabadon's Deathcap",
 "Luden's Echo",
+"Cryptbloom",
+"Rabadon's Deathcap",
 "Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
@@ -8094,7 +8094,7 @@
 "Health Scaling Shard"
 ],
 "value": 84.15,
-"swaps": 7,
+"swaps": 10,
 "proven": true,
 "omega": 84.1,
 "modelled": 0.67,
@@ -8394,49 +8394,49 @@
 "items": [
 "Fiendhunter Bolts",
 "Infinity Edge",
-"Voltaic Cyclosword",
 "Lord Dominik's Regards",
-"Essence Reaver"
+"Stormrazor",
+"Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
 "shards": [
 "Attack Speed Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 95.8,
-"swaps": 16,
+"value": 98.02,
+"swaps": 14,
 "proven": true,
-"omega": 95.8,
+"omega": 98.0,
 "modelled": 1.0,
-"dps": 615,
-"burst": 2092,
+"dps": 648,
+"burst": 2020,
 "ehp": 5180,
-"sustain": 5,
-"utility": 1.5,
+"sustain": 16,
+"utility": 1.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 766,
-"ttk": 3.3
+"dps": 797,
+"ttk": 3.1
 },
 {
 "t": "Bruiser",
-"dps": 634,
-"ttk": 5.7
+"dps": 670,
+"ttk": 5.4
 },
 {
 "t": "Tank",
-"dps": 444,
-"ttk": 10.8
+"dps": 476,
+"ttk": 10.1
 }
 ]
 },
@@ -8720,51 +8720,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"Voltaic Cyclosword",
-"The Collector",
 "Lord Dominik's Regards",
-"Fiendhunter Bolts"
+"Infinity Edge",
+"Stormrazor",
+"The Collector",
+"Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "First Strike",
+"keystone": "Lethal Tempo",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Triumph",
+"Legend: Alacrity",
+"Cut Down",
+"Sudden Impact",
+"Ultimate Hunter"
 ],
 "shards": [
+"Ability Haste Shard",
 "Adaptive Force Shard",
-"Attack Speed Shard",
 "Health Scaling Shard"
 ],
-"value": 155.49,
-"swaps": 16,
+"value": 161.63,
+"swaps": 14,
 "proven": true,
-"omega": 155.5,
+"omega": 161.6,
 "modelled": 0.83,
-"dps": 1052,
-"burst": 3009,
+"dps": 1077,
+"burst": 3197,
 "ehp": 4690,
-"sustain": 18,
-"utility": 1.2,
+"sustain": 21,
+"utility": 1.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1308,
-"ttk": 1.9
+"dps": 1447,
+"ttk": 1.7
 },
 {
 "t": "Bruiser",
-"dps": 1096,
+"dps": 1105,
 "ttk": 3.3
 },
 {
 "t": "Tank",
-"dps": 752,
-"ttk": 6.4
+"dps": 679,
+"ttk": 7.1
 }
 ]
 },
@@ -9048,11 +9048,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Rabadon's Deathcap",
 "Archangel's Staff",
 "Blackfire Torch",
 "Cryptbloom",
-"Cosmic Drive",
-"Rabadon's Deathcap"
+"Cosmic Drive"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Conqueror",
@@ -9069,7 +9069,7 @@
 "Health Scaling Shard"
 ],
 "value": 150.66,
-"swaps": 11,
+"swaps": 9,
 "proven": true,
 "omega": 150.7,
 "modelled": 0.67,
@@ -9367,18 +9367,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"Fiendhunter Bolts",
-"Stormrazor",
 "Lord Dominik's Regards",
+"Fiendhunter Bolts",
+"Infinity Edge",
+"Stormrazor",
 "Blade of the Ruined King"
 ],
-"boots": "Immortal Path",
-"keystone": "Lethal Tempo",
+"boots": "Gunmetal Greaves",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Alacrity",
-"Cut Down",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -9387,31 +9387,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 137.08,
-"swaps": 13,
+"value": 118.18,
+"swaps": 18,
 "proven": true,
-"omega": 137.1,
+"omega": 118.2,
 "modelled": 1.0,
-"dps": 955,
-"burst": 2087,
+"dps": 762,
+"burst": 2025,
 "ehp": 5080,
-"sustain": 38,
+"sustain": 42,
 "utility": 0.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1166,
-"ttk": 2.1
+"dps": 930,
+"ttk": 2.7
 },
 {
 "t": "Bruiser",
-"dps": 995,
-"ttk": 3.6
+"dps": 794,
+"ttk": 4.5
 },
 {
 "t": "Tank",
-"dps": 704,
-"ttk": 6.8
+"dps": 563,
+"ttk": 8.5
 }
 ]
 },
@@ -9686,11 +9686,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
 "Void Staff",
-"Abyssal Mask"
+"Abyssal Mask",
+"Death's Dance"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -9707,7 +9707,7 @@
 "Adaptive Force Shard"
 ],
 "value": 123.27,
-"swaps": 14,
+"swaps": 13,
 "proven": true,
 "omega": 123.3,
 "modelled": 1.0,
@@ -10014,10 +10014,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Voltaic Cyclosword",
 "Lord Dominik's Regards",
 "Infinity Edge",
 "Fiendhunter Bolts",
+"Voltaic Cyclosword",
 "Essence Reaver"
 ],
 "boots": "Gunmetal Greaves",
@@ -10035,7 +10035,7 @@
 "Health Scaling Shard"
 ],
 "value": 151.25,
-"swaps": 20,
+"swaps": 19,
 "proven": true,
 "omega": 151.2,
 "modelled": 1.0,
@@ -10334,50 +10334,50 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
-"Voltaic Cyclosword",
 "Infinity Edge",
-"Essence Reaver",
-"Fiendhunter Bolts"
+"Stormrazor",
+"Fiendhunter Bolts",
+"Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
-"Shield Bash",
-"Overgrowth"
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
 "Attack Speed Shard",
 "Health Scaling Shard",
 "Health Shard"
 ],
-"value": 66.09,
-"swaps": 14,
+"value": 72.9,
+"swaps": 15,
 "proven": true,
-"omega": 66.1,
+"omega": 72.9,
 "modelled": 1.0,
-"dps": 343,
-"burst": 1368,
-"ehp": 5265,
-"sustain": 3,
-"utility": 4.0,
+"dps": 461,
+"burst": 1356,
+"ehp": 4936,
+"sustain": 10,
+"utility": 2.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 422,
-"ttk": 5.9
+"dps": 561,
+"ttk": 4.5
 },
 {
 "t": "Bruiser",
-"dps": 356,
-"ttk": 10.1
+"dps": 479,
+"ttk": 7.5
 },
 {
 "t": "Tank",
-"dps": 252,
-"ttk": 19.0
+"dps": 343,
+"ttk": 14.0
 }
 ]
 },
@@ -10652,51 +10652,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
+"Fiendhunter Bolts",
 "Infinity Edge",
-"The Collector",
-"Hextech Gunblade",
-"Voltaic Cyclosword"
+"Lord Dominik's Regards",
+"Voltaic Cyclosword",
+"Blade of the Ruined King"
 ],
 "boots": "Gluttonous Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Alacrity",
-"Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
+"Coup de Grace",
+"Legend: Bloodline"
 ],
 "shards": [
 "Attack Speed Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 123.11,
-"swaps": 13,
+"value": 123.17,
+"swaps": 14,
 "proven": true,
-"omega": 123.1,
-"modelled": 0.67,
-"dps": 822,
-"burst": 2238,
+"omega": 123.2,
+"modelled": 0.83,
+"dps": 920,
+"burst": 2346,
 "ehp": 4715,
-"sustain": 122,
+"sustain": 87,
 "utility": 2.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1033,
-"ttk": 2.4
+"dps": 1072,
+"ttk": 2.3
 },
 {
 "t": "Bruiser",
-"dps": 857,
-"ttk": 4.2
+"dps": 967,
+"ttk": 3.7
 },
 {
 "t": "Tank",
-"dps": 575,
-"ttk": 8.3
+"dps": 720,
+"ttk": 6.7
 }
 ]
 },
@@ -11297,9 +11297,9 @@
 "items": [
 "Blackfire Torch",
 "Archangel's Staff",
+"Luden's Echo",
 "Cryptbloom",
-"Rabadon's Deathcap",
-"Luden's Echo"
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -11316,7 +11316,7 @@
 "Health Scaling Shard"
 ],
 "value": 132.41,
-"swaps": 19,
+"swaps": 15,
 "proven": true,
 "omega": 132.4,
 "modelled": 0.83,
@@ -11614,9 +11614,9 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
 "Lord Dominik's Regards",
 "Blade of the Ruined King",
+"Fiendhunter Bolts",
 "Hextech Gunblade",
 "Voltaic Cyclosword"
 ],
@@ -11635,7 +11635,7 @@
 "Adaptive Force Shard"
 ],
 "value": 119.27,
-"swaps": 15,
+"swaps": 14,
 "proven": true,
 "omega": 119.3,
 "modelled": 1.0,
@@ -11935,8 +11935,8 @@
 "items": [
 "Fiendhunter Bolts",
 "Infinity Edge",
-"Lord Dominik's Regards",
 "Stormrazor",
+"Lord Dominik's Regards",
 "Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
@@ -11954,7 +11954,7 @@
 "Adaptive Force Shard"
 ],
 "value": 123.61,
-"swaps": 15,
+"swaps": 18,
 "proven": true,
 "omega": 123.6,
 "modelled": 1.0,
@@ -12252,13 +12252,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Unending Despair",
-"Protoplasm Harness"
+"Protoplasm Harness",
+"Death's Dance",
+"Lord Dominik's Regards"
 ],
-"boots": "Crimson Lucidity",
+"boots": "Armored Advance",
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
@@ -12269,34 +12269,34 @@
 ],
 "shards": [
 "Health Scaling Shard",
-"Ability Haste Shard",
-"Adaptive Force Shard"
+"Health Shard",
+"Ability Haste Shard"
 ],
-"value": 204.44,
+"value": 212.47,
 "swaps": 16,
 "proven": true,
-"omega": 204.4,
-"modelled": 0.67,
-"dps": 494,
-"burst": 3243,
-"ehp": 22772,
+"omega": 212.5,
+"modelled": 0.83,
+"dps": 633,
+"burst": 4959,
+"ehp": 22091,
 "sustain": 0,
-"utility": 9.7,
+"utility": 7.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 535,
-"ttk": 4.7
+"dps": 664,
+"ttk": 3.8
 },
 {
 "t": "Bruiser",
-"dps": 534,
-"ttk": 6.7
+"dps": 682,
+"ttk": 5.3
 },
 {
 "t": "Tank",
-"dps": 412,
-"ttk": 11.7
+"dps": 554,
+"ttk": 8.7
 }
 ]
 },
@@ -12576,11 +12576,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Cryptbloom",
-"Abyssal Mask"
+"Death's Dance",
+"Abyssal Mask",
+"Cryptbloom"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "First Strike",
@@ -12895,11 +12895,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"Umbral Glaive",
-"Axiom Arc",
 "Bastionbreaker",
-"Lord Dominik's Regards"
+"Lord Dominik's Regards",
+"Axiom Arc",
+"Umbral Glaive",
+"Infinity Edge"
 ],
 "boots": "Immortal Path",
 "keystone": "First Strike",
@@ -12916,7 +12916,7 @@
 "Adaptive Force Shard"
 ],
 "value": 120.05,
-"swaps": 10,
+"swaps": 12,
 "proven": true,
 "omega": 120.0,
 "modelled": 0.83,
@@ -13219,51 +13219,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Stormrazor",
-"Lord Dominik's Regards",
-"Bastionbreaker",
 "Infinity Edge",
-"The Collector"
+"The Collector",
+"Bastionbreaker",
+"Stormrazor",
+"Lord Dominik's Regards"
 ],
-"boots": "Immortal Path",
+"boots": "Gunmetal Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
-"Legend: Alacrity",
+"Legend: Haste",
 "Cut Down",
 "Shield Bash",
 "Bone Plating"
 ],
 "shards": [
-"Attack Speed Shard",
 "Health Scaling Shard",
+"Attack Speed Shard",
 "Health Shard"
 ],
-"value": 177.64,
-"swaps": 14,
+"value": 175.97,
+"swaps": 13,
 "proven": true,
-"omega": 177.6,
+"omega": 176.0,
 "modelled": 0.83,
-"dps": 963,
-"burst": 2738,
+"dps": 952,
+"burst": 2632,
 "ehp": 5837,
-"sustain": 322,
-"utility": 2.1,
+"sustain": 336,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1282,
-"ttk": 1.9
+"dps": 1268,
+"ttk": 2.0
 },
 {
 "t": "Bruiser",
-"dps": 989,
-"ttk": 3.6
+"dps": 978,
+"ttk": 3.7
 },
 {
 "t": "Tank",
-"dps": 617,
-"ttk": 7.8
+"dps": 610,
+"ttk": 7.9
 }
 ]
 },
@@ -13543,10 +13543,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Fiendhunter Bolts",
 "Infinity Edge",
 "Voltaic Cyclosword",
+"Lord Dominik's Regards",
 "Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
@@ -13559,12 +13559,12 @@
 "Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard"
 ],
 "value": 108.35,
-"swaps": 14,
+"swaps": 13,
 "proven": true,
 "omega": 108.4,
 "modelled": 1.0,
@@ -13863,17 +13863,17 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Void Staff",
+"Rabadon's Deathcap",
+"Cryptbloom",
 "Luden's Echo",
-"Shadowflame",
-"Rabadon's Deathcap"
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "First Strike",
+"keystone": "Electrocute",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
+"Cheap Shot",
+"Sixth Sense",
+"Ultimate Hunter",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -13882,31 +13882,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 52.78,
+"value": 53.23,
 "swaps": 15,
 "proven": true,
-"omega": 52.8,
-"modelled": 0.83,
-"dps": 229,
-"burst": 1436,
+"omega": 53.2,
+"modelled": 0.67,
+"dps": 246,
+"burst": 1352,
 "ehp": 4629,
 "sustain": 0,
-"utility": 1.5,
+"utility": 1.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 293,
-"ttk": 8.5
+"dps": 329,
+"ttk": 7.6
 },
 {
 "t": "Bruiser",
-"dps": 240,
-"ttk": 15.0
+"dps": 252,
+"ttk": 14.3
 },
 {
 "t": "Tank",
-"dps": 155,
-"ttk": 30.9
+"dps": 158,
+"ttk": 30.3
 }
 ]
 },
@@ -14181,18 +14181,18 @@
 "objectives": {
 "omega": {
 "items": [
+"Fiendhunter Bolts",
 "Void Staff",
 "Lord Dominik's Regards",
 "Luden's Echo",
-"Blackfire Torch",
-"Fiendhunter Bolts"
+"Blackfire Torch"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "First Strike",
+"keystone": "Electrocute",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
+"Cheap Shot",
+"Sixth Sense",
+"Ultimate Hunter",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -14201,31 +14201,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 80.96,
-"swaps": 11,
+"value": 81.58,
+"swaps": 10,
 "proven": true,
-"omega": 81.0,
+"omega": 81.6,
 "modelled": 1.0,
-"dps": 331,
-"burst": 2303,
+"dps": 335,
+"burst": 2314,
 "ehp": 4930,
 "sustain": 0,
 "utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 408,
-"ttk": 6.1
+"dps": 414,
+"ttk": 6.0
 },
 {
 "t": "Bruiser",
-"dps": 339,
-"ttk": 10.6
+"dps": 344,
+"ttk": 10.5
 },
 {
 "t": "Tank",
-"dps": 246,
-"ttk": 19.5
+"dps": 247,
+"ttk": 19.4
 }
 ]
 },
@@ -14500,10 +14500,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Bastionbreaker",
 "Fiendhunter Bolts",
 "Infinity Edge",
 "Stormrazor",
+"Bastionbreaker",
 "Lord Dominik's Regards"
 ],
 "boots": "Gunmetal Greaves",
@@ -14521,7 +14521,7 @@
 "Adaptive Force Shard"
 ],
 "value": 76.37,
-"swaps": 14,
+"swaps": 13,
 "proven": true,
 "omega": 76.4,
 "modelled": 1.0,
@@ -14819,11 +14819,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
-"Infinity Edge",
 "Lord Dominik's Regards",
-"Blade of the Ruined King",
-"Stormrazor"
+"Infinity Edge",
+"Fiendhunter Bolts",
+"Stormrazor",
+"Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -14831,39 +14831,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Shield Bash",
+"Bone Plating"
 ],
 "shards": [
-"Ability Haste Shard",
+"Attack Speed Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 132.01,
+"value": 120.4,
 "swaps": 14,
 "proven": true,
-"omega": 132.0,
+"omega": 120.4,
 "modelled": 1.0,
-"dps": 856,
-"burst": 2525,
-"ehp": 5264,
-"sustain": 33,
-"utility": 1.9,
+"dps": 749,
+"burst": 2408,
+"ehp": 5600,
+"sustain": 29,
+"utility": 1.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1040,
-"ttk": 2.4
+"dps": 911,
+"ttk": 2.7
 },
 {
 "t": "Bruiser",
-"dps": 890,
-"ttk": 4.0
+"dps": 780,
+"ttk": 4.6
 },
 {
 "t": "Tank",
-"dps": 637,
-"ttk": 7.5
+"dps": 557,
+"ttk": 8.6
 }
 ]
 },
@@ -15139,10 +15139,10 @@
 "omega": {
 "items": [
 "Rabadon's Deathcap",
+"Hextech Gunblade",
 "Blackfire Torch",
 "Luden's Echo",
-"Cryptbloom",
-"Hextech Gunblade"
+"Cryptbloom"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -15159,7 +15159,7 @@
 "Health Scaling Shard"
 ],
 "value": 108.58,
-"swaps": 9,
+"swaps": 17,
 "proven": true,
 "omega": 108.6,
 "modelled": 0.83,
@@ -15458,49 +15458,49 @@
 "omega": {
 "items": [
 "Blade of the Ruined King",
+"Voltaic Cyclosword",
 "Lord Dominik's Regards",
-"Infinity Edge",
 "Hextech Gunblade",
-"Stormrazor"
+"Phantom Dancer"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Bloodline",
-"Cut Down",
-"Shield Bash",
-"Second Wind"
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 152.62,
-"swaps": 9,
+"value": 127.03,
+"swaps": 14,
 "proven": true,
-"omega": 152.6,
-"modelled": 1.0,
-"dps": 994,
-"burst": 1880,
+"omega": 127.0,
+"modelled": 0.83,
+"dps": 899,
+"burst": 1237,
 "ehp": 4065,
-"sustain": 206,
-"utility": 4.8,
+"sustain": 152,
+"utility": 6.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1218,
-"ttk": 2.1
+"dps": 1017,
+"ttk": 2.5
 },
 {
 "t": "Bruiser",
-"dps": 1038,
-"ttk": 3.5
+"dps": 955,
+"ttk": 3.8
 },
 {
 "t": "Tank",
-"dps": 727,
+"dps": 724,
 "ttk": 6.6
 }
 ]
@@ -15785,11 +15785,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"Bastionbreaker",
-"Umbral Glaive",
+"Lord Dominik's Regards",
 "Axiom Arc",
-"Lord Dominik's Regards"
+"Umbral Glaive",
+"Bastionbreaker",
+"Infinity Edge"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -15806,7 +15806,7 @@
 "Health Scaling Shard"
 ],
 "value": 106.41,
-"swaps": 11,
+"swaps": 9,
 "proven": true,
 "omega": 106.4,
 "modelled": 0.67,
@@ -16116,8 +16116,8 @@
 "Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Cryptbloom",
-"Protoplasm Harness"
+"Protoplasm Harness",
+"Cryptbloom"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -16125,39 +16125,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Overgrowth",
-"Bone Plating"
+"Shield Bash",
+"Second Wind"
 ],
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
-"Adaptive Force Shard"
+"Health Shard"
 ],
-"value": 226.21,
-"swaps": 27,
+"value": 227.22,
+"swaps": 17,
 "proven": true,
-"omega": 226.2,
-"modelled": 0.67,
-"dps": 940,
-"burst": 5067,
-"ehp": 22918,
-"sustain": 0,
+"omega": 227.2,
+"modelled": 0.83,
+"dps": 965,
+"burst": 5200,
+"ehp": 22524,
+"sustain": 3,
 "utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 980,
+"dps": 1005,
 "ttk": 2.5
 },
 {
 "t": "Bruiser",
-"dps": 1010,
-"ttk": 3.6
+"dps": 1037,
+"ttk": 3.5
 },
 {
 "t": "Tank",
-"dps": 830,
-"ttk": 5.8
+"dps": 852,
+"ttk": 5.6
 }
 ]
 },
@@ -16337,7 +16337,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 116.7,
-"modelled": 0.17,
+"modelled": 0.33,
 "dps": 914,
 "burst": 5080,
 "ehp": 5174,
@@ -16661,7 +16661,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 100.6,
-"modelled": 0.33,
+"modelled": 0.5,
 "dps": 660,
 "burst": 1463,
 "ehp": 4404,
@@ -16756,18 +16756,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Voltaic Cyclosword",
+"Lord Dominik's Regards",
+"Bastionbreaker",
 "The Collector",
-"Bastionbreaker"
+"Stormrazor"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Alacrity",
-"Cut Down",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Sudden Impact",
 "Ultimate Hunter"
 ],
@@ -16776,31 +16776,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 153.31,
+"value": 133.13,
 "swaps": 12,
 "proven": true,
-"omega": 153.3,
+"omega": 133.1,
 "modelled": 0.83,
-"dps": 1035,
-"burst": 3130,
+"dps": 780,
+"burst": 3234,
 "ehp": 4535,
-"sustain": 18,
-"utility": 2.8,
+"sustain": 11,
+"utility": 2.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1366,
-"ttk": 1.8
+"dps": 1048,
+"ttk": 2.4
 },
 {
 "t": "Bruiser",
-"dps": 1069,
-"ttk": 3.4
+"dps": 800,
+"ttk": 4.5
 },
 {
 "t": "Tank",
-"dps": 671,
-"ttk": 7.1
+"dps": 492,
+"ttk": 9.8
 }
 ]
 },
@@ -17081,8 +17081,8 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Essence Reaver",
 "Stormrazor",
+"Essence Reaver",
 "Lord Dominik's Regards",
 "Bastionbreaker"
 ],
@@ -17101,7 +17101,7 @@
 "Health Scaling Shard"
 ],
 "value": 169.93,
-"swaps": 9,
+"swaps": 8,
 "proven": true,
 "omega": 169.9,
 "modelled": 1.0,
@@ -17405,10 +17405,10 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
+"Hextech Gunblade",
 "Infinity Edge",
 "Stormrazor",
-"Blade of the Ruined King",
-"Hextech Gunblade"
+"Blade of the Ruined King"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "Lethal Tempo",
@@ -17425,7 +17425,7 @@
 "Health Scaling Shard"
 ],
 "value": 138.02,
-"swaps": 8,
+"swaps": 13,
 "proven": true,
 "omega": 138.0,
 "modelled": 0.83,
@@ -17728,17 +17728,17 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
 "Lord Dominik's Regards",
-"Essence Reaver",
-"Fiendhunter Bolts",
-"Voltaic Cyclosword"
+"Infinity Edge",
+"Stormrazor",
+"The Collector",
+"Bastionbreaker"
 ],
-"boots": "Immortal Path",
+"boots": "Gunmetal Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
-"Legend: Alacrity",
+"Legend: Bloodline",
 "Cut Down",
 "Shield Bash",
 "Overgrowth"
@@ -17748,31 +17748,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 145.18,
-"swaps": 13,
+"value": 146.69,
+"swaps": 16,
 "proven": true,
-"omega": 145.2,
-"modelled": 1.0,
-"dps": 963,
-"burst": 3224,
+"omega": 146.7,
+"modelled": 0.83,
+"dps": 970,
+"burst": 3326,
 "ehp": 5209,
-"sustain": 0,
-"utility": 6.8,
+"sustain": 34,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1184,
-"ttk": 2.1
+"dps": 1285,
+"ttk": 1.9
 },
 {
 "t": "Bruiser",
-"dps": 1003,
+"dps": 998,
 "ttk": 3.6
 },
 {
 "t": "Tank",
-"dps": 703,
-"ttk": 6.8
+"dps": 626,
+"ttk": 7.7
 }
 ]
 },
@@ -18047,51 +18047,51 @@
 "objectives": {
 "omega": {
 "items": [
+"Blackfire Torch",
 "Cryptbloom",
 "Archangel's Staff",
-"Blackfire Torch",
 "Rabadon's Deathcap",
 "Luden's Echo"
 ],
 "boots": "Crimson Lucidity",
-"keystone": "First Strike",
+"keystone": "Conqueror",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
-"Shield Bash",
-"Second Wind"
+"Triumph",
+"Legend: Bloodline",
+"Cut Down",
+"Gathering Storm",
+"Absolute Focus"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 74.99,
-"swaps": 5,
+"value": 80.95,
+"swaps": 11,
 "proven": true,
-"omega": 75.0,
+"omega": 80.9,
 "modelled": 0.67,
-"dps": 294,
-"burst": 987,
+"dps": 305,
+"burst": 1020,
 "ehp": 4861,
-"sustain": 104,
-"utility": 6.5,
+"sustain": 126,
+"utility": 6.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 378,
-"ttk": 6.6
+"dps": 392,
+"ttk": 6.4
 },
 {
 "t": "Bruiser",
-"dps": 303,
-"ttk": 11.9
+"dps": 314,
+"ttk": 11.5
 },
 {
 "t": "Tank",
-"dps": 202,
-"ttk": 23.7
+"dps": 210,
+"ttk": 22.9
 }
 ]
 },
@@ -18366,13 +18366,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
-"Blackfire Torch",
+"Abyssal Mask",
 "Void Staff",
 "Luden's Echo",
+"Fiendhunter Bolts",
 "Lord Dominik's Regards"
 ],
-"boots": "Gluttonous Greaves",
+"boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
 "minors": [
 "Cheap Shot",
@@ -18382,35 +18382,35 @@
 "Absolute Focus"
 ],
 "shards": [
+"Health Scaling Shard",
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Adaptive Force Shard"
 ],
-"value": 130.87,
-"swaps": 15,
+"value": 132.0,
+"swaps": 22,
 "proven": true,
-"omega": 130.9,
-"modelled": 0.83,
-"dps": 1152,
-"burst": 1517,
-"ehp": 4713,
-"sustain": 46,
-"utility": 1.6,
+"omega": 132.0,
+"modelled": 1.0,
+"dps": 1132,
+"burst": 1680,
+"ehp": 6010,
+"sustain": 0,
+"utility": 1.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1370,
+"dps": 1359,
 "ttk": 1.8
 },
 {
 "t": "Bruiser",
-"dps": 1178,
+"dps": 1157,
 "ttk": 3.1
 },
 {
 "t": "Tank",
-"dps": 908,
-"ttk": 5.3
+"dps": 882,
+"ttk": 5.4
 }
 ]
 },
@@ -18685,11 +18685,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Blackfire Torch",
+"Rabadon's Deathcap",
 "Cryptbloom",
+"Blackfire Torch",
 "Luden's Echo",
-"Shadowflame",
-"Rabadon's Deathcap"
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -18706,7 +18706,7 @@
 "Health Scaling Shard"
 ],
 "value": 91.52,
-"swaps": 10,
+"swaps": 13,
 "proven": true,
 "omega": 91.5,
 "modelled": 0.67,
@@ -19004,11 +19004,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
 "Infinity Edge",
 "The Collector",
+"Stormrazor",
 "Lord Dominik's Regards",
-"Voltaic Cyclosword"
+"Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "Lethal Tempo",
@@ -19020,35 +19020,35 @@
 "Bone Plating"
 ],
 "shards": [
-"Ability Haste Shard",
+"Adaptive Force Shard",
 "Health Scaling Shard",
 "Health Shard"
 ],
-"value": 110.37,
-"swaps": 13,
+"value": 110.86,
+"swaps": 11,
 "proven": true,
-"omega": 110.4,
+"omega": 110.9,
 "modelled": 0.83,
-"dps": 715,
-"burst": 1979,
+"dps": 741,
+"burst": 1805,
 "ehp": 5546,
-"sustain": 11,
-"utility": 0.9,
+"sustain": 28,
+"utility": 0.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 887,
-"ttk": 2.8
+"dps": 926,
+"ttk": 2.7
 },
 {
 "t": "Bruiser",
-"dps": 744,
-"ttk": 4.8
+"dps": 772,
+"ttk": 4.7
 },
 {
 "t": "Tank",
-"dps": 516,
-"ttk": 9.3
+"dps": 526,
+"ttk": 9.1
 }
 ]
 },
@@ -19328,11 +19328,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Infinity Edge",
 "Fiendhunter Bolts",
+"Infinity Edge",
 "Stormrazor",
-"Blade of the Ruined King"
+"Blade of the Ruined King",
+"Lord Dominik's Regards"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -19345,11 +19345,11 @@
 ],
 "shards": [
 "Attack Speed Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
 "value": 89.88,
-"swaps": 13,
+"swaps": 7,
 "proven": true,
 "omega": 89.9,
 "modelled": 1.0,
@@ -19653,10 +19653,10 @@
 "omega": {
 "items": [
 "Bastionbreaker",
-"Lord Dominik's Regards",
 "Umbral Glaive",
 "Axiom Arc",
-"Infinity Edge"
+"Infinity Edge",
+"Lord Dominik's Regards"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "First Strike",
@@ -19971,13 +19971,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Blackfire Torch",
-"Cryptbloom",
-"Shadowflame",
-"Rabadon's Deathcap",
-"Luden's Echo"
+"Lord Dominik's Regards",
+"Fiendhunter Bolts",
+"Infinity Edge",
+"Voltaic Cyclosword",
+"Essence Reaver"
 ],
-"boots": "Spellslinger's Shoes",
+"boots": "Gunmetal Greaves",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -19987,35 +19987,35 @@
 "Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Attack Speed Shard",
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 125.52,
-"swaps": 12,
+"value": 120.05,
+"swaps": 15,
 "proven": true,
-"omega": 125.5,
-"modelled": 0.67,
-"dps": 789,
-"burst": 2709,
+"omega": 120.0,
+"modelled": 1.0,
+"dps": 799,
+"burst": 2370,
 "ehp": 4759,
-"sustain": 0,
-"utility": 1.8,
+"sustain": 9,
+"utility": 1.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1054,
-"ttk": 2.4
+"dps": 982,
+"ttk": 2.5
 },
 {
 "t": "Bruiser",
-"dps": 806,
-"ttk": 4.5
+"dps": 826,
+"ttk": 4.4
 },
 {
 "t": "Tank",
-"dps": 507,
-"ttk": 9.5
+"dps": 590,
+"ttk": 8.1
 }
 ]
 },
@@ -20295,11 +20295,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
-"Voltaic Cyclosword",
 "Lord Dominik's Regards",
 "Infinity Edge",
-"Essence Reaver"
+"Essence Reaver",
+"Voltaic Cyclosword",
+"Fiendhunter Bolts"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -20307,39 +20307,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Second Wind"
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 90.31,
-"swaps": 8,
+"value": 96.79,
+"swaps": 16,
 "proven": true,
-"omega": 90.3,
+"omega": 96.8,
 "modelled": 1.0,
-"dps": 614,
-"burst": 2305,
+"dps": 700,
+"burst": 2417,
 "ehp": 4639,
-"sustain": 9,
+"sustain": 6,
 "utility": 5.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 747,
-"ttk": 3.3
+"dps": 852,
+"ttk": 2.9
 },
 {
 "t": "Bruiser",
-"dps": 636,
-"ttk": 5.7
+"dps": 726,
+"ttk": 5.0
 },
 {
 "t": "Tank",
-"dps": 459,
-"ttk": 10.5
+"dps": 522,
+"ttk": 9.2
 }
 ]
 },
@@ -20614,51 +20614,51 @@
 "objectives": {
 "omega": {
 "items": [
+"Infinity Edge",
 "Fiendhunter Bolts",
 "Lord Dominik's Regards",
-"Infinity Edge",
 "Umbral Glaive",
 "Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
 "shards": [
-"Health Scaling Shard",
 "Ability Haste Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 116.94,
-"swaps": 9,
+"value": 116.59,
+"swaps": 15,
 "proven": true,
-"omega": 116.9,
+"omega": 116.6,
 "modelled": 1.0,
-"dps": 603,
-"burst": 3146,
+"dps": 604,
+"burst": 3124,
 "ehp": 4915,
 "sustain": 6,
-"utility": 3.8,
+"utility": 3.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 786,
+"dps": 778,
 "ttk": 3.2
 },
 {
 "t": "Bruiser",
-"dps": 614,
-"ttk": 5.9
+"dps": 617,
+"ttk": 5.8
 },
 {
 "t": "Tank",
-"dps": 407,
-"ttk": 11.8
+"dps": 417,
+"ttk": 11.5
 }
 ]
 },
@@ -20933,51 +20933,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
+"Lord Dominik's Regards",
 "Infinity Edge",
-"Stormrazor",
-"Bastionbreaker",
-"Lord Dominik's Regards"
+"Fiendhunter Bolts",
+"Voltaic Cyclosword",
+"Essence Reaver"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "Lethal Tempo",
 "minors": [
+"Triumph",
+"Legend: Alacrity",
+"Cut Down",
 "Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
-"Coup de Grace",
-"Legend: Alacrity"
+"Ultimate Hunter"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 89.99,
-"swaps": 13,
+"value": 93.45,
+"swaps": 9,
 "proven": true,
-"omega": 90.0,
+"omega": 93.5,
 "modelled": 1.0,
-"dps": 624,
-"burst": 2396,
+"dps": 666,
+"burst": 2170,
 "ehp": 3897,
-"sustain": 7,
-"utility": 4.4,
+"sustain": 10,
+"utility": 5.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 808,
+"dps": 817,
 "ttk": 3.1
 },
 {
 "t": "Bruiser",
-"dps": 641,
-"ttk": 5.6
+"dps": 692,
+"ttk": 5.2
 },
 {
 "t": "Tank",
-"dps": 424,
-"ttk": 11.3
+"dps": 490,
+"ttk": 9.8
 }
 ]
 },
@@ -21252,51 +21252,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Bastionbreaker",
 "Infinity Edge",
-"Lord Dominik's Regards",
 "Stormrazor",
-"Fiendhunter Bolts"
+"The Collector",
+"Lord Dominik's Regards",
+"Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "First Strike",
+"keystone": "Lethal Tempo",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Triumph",
+"Legend: Alacrity",
+"Cut Down",
+"Sudden Impact",
+"Ultimate Hunter"
 ],
 "shards": [
 "Attack Speed Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 92.45,
-"swaps": 17,
+"value": 93.45,
+"swaps": 14,
 "proven": true,
-"omega": 92.5,
-"modelled": 1.0,
-"dps": 642,
-"burst": 2416,
+"omega": 93.5,
+"modelled": 0.83,
+"dps": 672,
+"burst": 2276,
 "ehp": 4670,
-"sustain": 7,
+"sustain": 10,
 "utility": 4.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 822,
-"ttk": 3.0
+"dps": 900,
+"ttk": 2.8
 },
 {
 "t": "Bruiser",
-"dps": 660,
-"ttk": 5.5
+"dps": 691,
+"ttk": 5.2
 },
 {
 "t": "Tank",
-"dps": 443,
-"ttk": 10.8
+"dps": 427,
+"ttk": 11.2
 }
 ]
 },
@@ -21571,11 +21571,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
+"Randuin's Omen",
 "Abyssal Mask",
-"Protoplasm Harness",
-"Iceborn Gauntlet"
+"Death's Dance",
+"Void Staff"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Aftershock",
@@ -21591,31 +21591,31 @@
 "Health Shard",
 "Ability Haste Shard"
 ],
-"value": 177.13,
-"swaps": 9,
+"value": 184.23,
+"swaps": 14,
 "proven": true,
-"omega": 177.1,
-"modelled": 0.67,
-"dps": 450,
-"burst": 2911,
-"ehp": 22499,
+"omega": 184.2,
+"modelled": 1.0,
+"dps": 477,
+"burst": 3810,
+"ehp": 21898,
 "sustain": 0,
-"utility": 1.9,
+"utility": 1.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 494,
-"ttk": 5.1
+"dps": 506,
+"ttk": 4.9
 },
 {
 "t": "Bruiser",
-"dps": 465,
-"ttk": 7.7
+"dps": 497,
+"ttk": 7.2
 },
 {
 "t": "Tank",
-"dps": 390,
-"ttk": 12.3
+"dps": 428,
+"ttk": 11.2
 }
 ]
 },
@@ -21895,10 +21895,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Warmog's Armor",
+"Death's Dance",
+"Protoplasm Harness",
 "Void Staff"
 ],
 "boots": "Spellslinger's Shoes",
@@ -21912,34 +21912,34 @@
 ],
 "shards": [
 "Health Scaling Shard",
-"Ability Haste Shard",
-"Adaptive Force Shard"
+"Health Shard",
+"Ability Haste Shard"
 ],
-"value": 122.08,
-"swaps": 20,
+"value": 122.8,
+"swaps": 23,
 "proven": true,
-"omega": 122.1,
+"omega": 122.8,
 "modelled": 1.0,
-"dps": 184,
-"burst": 1726,
-"ehp": 22779,
-"sustain": 7,
-"utility": 2.3,
+"dps": 199,
+"burst": 1698,
+"ehp": 22601,
+"sustain": 0,
+"utility": 2.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 232,
-"ttk": 10.8
+"dps": 251,
+"ttk": 9.9
 },
 {
 "t": "Bruiser",
-"dps": 190,
-"ttk": 19.0
+"dps": 206,
+"ttk": 17.5
 },
 {
 "t": "Tank",
-"dps": 129,
-"ttk": 37.2
+"dps": 140,
+"ttk": 34.2
 }
 ]
 },
@@ -22214,11 +22214,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Bastionbreaker",
-"Hextech Gunblade",
+"Stormrazor",
 "Lord Dominik's Regards",
 "Infinity Edge",
-"Stormrazor"
+"Bastionbreaker",
+"Hextech Gunblade"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -22235,7 +22235,7 @@
 "Health Scaling Shard"
 ],
 "value": 101.89,
-"swaps": 12,
+"swaps": 9,
 "proven": true,
 "omega": 101.9,
 "modelled": 1.0,
@@ -22534,10 +22534,10 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Luden's Echo",
-"Archangel's Staff",
 "Cryptbloom",
-"Fiendhunter Bolts"
+"Archangel's Staff",
+"Fiendhunter Bolts",
+"Luden's Echo"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -22554,7 +22554,7 @@
 "Adaptive Force Shard"
 ],
 "value": 118.21,
-"swaps": 15,
+"swaps": 9,
 "proven": true,
 "omega": 118.2,
 "modelled": 0.67,
@@ -22861,51 +22861,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
-"Fiendhunter Bolts",
-"Blackfire Torch",
 "Lord Dominik's Regards",
-"Luden's Echo"
+"Infinity Edge",
+"Stormrazor",
+"Bastionbreaker",
+"Fiendhunter Bolts"
 ],
-"boots": "Spellslinger's Shoes",
+"boots": "Gunmetal Greaves",
 "keystone": "Electrocute",
 "minors": [
-"Cheap Shot",
+"Sudden Impact",
 "Sixth Sense",
 "Ultimate Hunter",
 "Shield Bash",
 "Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
+"Attack Speed Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 81.44,
+"value": 85.55,
 "swaps": 14,
 "proven": true,
-"omega": 81.4,
-"modelled": 0.83,
-"dps": 370,
-"burst": 1935,
+"omega": 85.5,
+"modelled": 1.0,
+"dps": 447,
+"burst": 2006,
 "ehp": 4907,
-"sustain": 0,
-"utility": 4.9,
+"sustain": 4,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 456,
-"ttk": 5.5
+"dps": 575,
+"ttk": 4.3
 },
 {
 "t": "Bruiser",
-"dps": 378,
-"ttk": 9.5
+"dps": 458,
+"ttk": 7.9
 },
 {
 "t": "Tank",
-"dps": 276,
-"ttk": 17.4
+"dps": 309,
+"ttk": 15.5
 }
 ]
 },
@@ -23181,8 +23181,8 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Rabadon's Deathcap",
 "Cryptbloom",
+"Rabadon's Deathcap",
 "Hextech Gunblade",
 "Luden's Echo"
 ],
@@ -23201,7 +23201,7 @@
 "Health Scaling Shard"
 ],
 "value": 108.68,
-"swaps": 11,
+"swaps": 12,
 "proven": true,
 "omega": 108.7,
 "modelled": 0.83,
@@ -23500,17 +23500,17 @@
 "omega": {
 "items": [
 "Rabadon's Deathcap",
-"Blackfire Torch",
 "Cryptbloom",
-"Archangel's Staff",
-"Cosmic Drive"
+"Blackfire Torch",
+"Luden's Echo",
+"Archangel's Staff"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "First Strike",
+"keystone": "Electrocute",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
+"Cheap Shot",
+"Sixth Sense",
+"Ultimate Hunter",
 "Gathering Storm",
 "Absolute Focus"
 ],
@@ -23519,31 +23519,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 190.72,
-"swaps": 18,
+"value": 189.97,
+"swaps": 25,
 "proven": true,
-"omega": 190.7,
+"omega": 190.0,
 "modelled": 0.83,
-"dps": 1113,
-"burst": 4536,
-"ehp": 5624,
+"dps": 1127,
+"burst": 4897,
+"ehp": 4976,
 "sustain": 0,
-"utility": 6.1,
+"utility": 5.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1449,
+"dps": 1467,
 "ttk": 1.7
 },
 {
 "t": "Bruiser",
-"dps": 1143,
+"dps": 1157,
 "ttk": 3.1
 },
 {
 "t": "Tank",
-"dps": 748,
-"ttk": 6.4
+"dps": 757,
+"ttk": 6.3
 }
 ]
 },
@@ -23823,51 +23823,51 @@
 "objectives": {
 "omega": {
 "items": [
+"Lord Dominik's Regards",
 "Fiendhunter Bolts",
 "Infinity Edge",
-"Lord Dominik's Regards",
-"Stormrazor",
-"Blade of the Ruined King"
+"Bastionbreaker",
+"Stormrazor"
 ],
-"boots": "Gunmetal Greaves",
-"keystone": "First Strike",
+"boots": "Immortal Path",
+"keystone": "Lethal Tempo",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Triumph",
+"Legend: Alacrity",
+"Cut Down",
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
 "Attack Speed Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 109.58,
-"swaps": 12,
+"value": 108.94,
+"swaps": 11,
 "proven": true,
-"omega": 109.6,
+"omega": 108.9,
 "modelled": 1.0,
-"dps": 734,
-"burst": 1921,
-"ehp": 4431,
-"sustain": 25,
-"utility": 0.7,
+"dps": 686,
+"burst": 2149,
+"ehp": 4747,
+"sustain": 3,
+"utility": 0.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 895,
+"dps": 888,
 "ttk": 2.8
 },
 {
 "t": "Bruiser",
-"dps": 763,
-"ttk": 4.7
+"dps": 706,
+"ttk": 5.1
 },
 {
 "t": "Tank",
-"dps": 543,
-"ttk": 8.8
+"dps": 465,
+"ttk": 10.3
 }
 ]
 },
@@ -24149,9 +24149,9 @@
 "items": [
 "Blackfire Torch",
 "Cryptbloom",
-"Rabadon's Deathcap",
+"Archangel's Staff",
 "Hextech Gunblade",
-"Archangel's Staff"
+"Rabadon's Deathcap"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Conqueror",
@@ -24159,39 +24159,39 @@
 "Triumph",
 "Legend: Bloodline",
 "Cut Down",
-"Shield Bash",
-"Second Wind"
+"Gathering Storm",
+"Absolute Focus"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 76.82,
-"swaps": 5,
+"value": 79.94,
+"swaps": 8,
 "proven": true,
-"omega": 76.8,
+"omega": 79.9,
 "modelled": 0.67,
-"dps": 227,
-"burst": 910,
+"dps": 233,
+"burst": 932,
 "ehp": 4113,
-"sustain": 126,
+"sustain": 134,
 "utility": 6.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 293,
-"ttk": 8.5
+"dps": 301,
+"ttk": 8.3
 },
 {
 "t": "Bruiser",
-"dps": 234,
-"ttk": 15.4
+"dps": 240,
+"ttk": 15.0
 },
 {
 "t": "Tank",
-"dps": 155,
-"ttk": 30.9
+"dps": 160,
+"ttk": 30.1
 }
 ]
 },
@@ -24472,8 +24472,8 @@
 "omega": {
 "items": [
 "Rabadon's Deathcap",
-"Cryptbloom",
 "Blackfire Torch",
+"Cryptbloom",
 "Shadowflame",
 "Archangel's Staff"
 ],
@@ -24492,7 +24492,7 @@
 "Health Scaling Shard"
 ],
 "value": 102.32,
-"swaps": 12,
+"swaps": 8,
 "proven": true,
 "omega": 102.3,
 "modelled": 0.67,
@@ -24790,11 +24790,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Blackfire Torch",
-"Rabadon's Deathcap",
 "Cryptbloom",
+"Blackfire Torch",
 "Luden's Echo",
-"Archangel's Staff"
+"Archangel's Staff",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -24811,7 +24811,7 @@
 "Adaptive Force Shard"
 ],
 "value": 111.0,
-"swaps": 11,
+"swaps": 12,
 "proven": true,
 "omega": 111.0,
 "modelled": 0.83,
@@ -25114,11 +25114,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
+"Void Staff",
 "Blackfire Torch",
-"Luden's Echo",
 "Shadowflame",
-"Void Staff"
+"Rabadon's Deathcap",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -25135,7 +25135,7 @@
 "Health Scaling Shard"
 ],
 "value": 89.88,
-"swaps": 15,
+"swaps": 8,
 "proven": true,
 "omega": 89.9,
 "modelled": 0.83,
@@ -25433,13 +25433,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
-"Protoplasm Harness",
-"Cosmic Drive",
-"Frozen Heart"
+"Randuin's Omen",
+"Hextech Gunblade",
+"Death's Dance",
+"Cosmic Drive"
 ],
-"boots": "Gluttonous Greaves",
+"boots": "Crimson Lucidity",
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
@@ -25453,31 +25453,31 @@
 "Health Shard",
 "Ability Haste Shard"
 ],
-"value": 239.49,
-"swaps": 14,
+"value": 239.95,
+"swaps": 17,
 "proven": true,
-"omega": 239.5,
-"modelled": 0.5,
-"dps": 1780,
-"burst": 5095,
-"ehp": 22577,
-"sustain": 71,
-"utility": 10.6,
+"omega": 240.0,
+"modelled": 0.83,
+"dps": 1609,
+"burst": 5197,
+"ehp": 22840,
+"sustain": 161,
+"utility": 9.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1829,
-"ttk": 1.4
+"dps": 1658,
+"ttk": 1.5
 },
 {
 "t": "Bruiser",
-"dps": 1933,
-"ttk": 1.9
+"dps": 1746,
+"ttk": 2.1
 },
 {
 "t": "Tank",
-"dps": 1578,
-"ttk": 3.0
+"dps": 1422,
+"ttk": 3.4
 }
 ]
 },
@@ -25757,11 +25757,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Stormrazor",
-"The Collector",
-"Blade of the Ruined King"
+"Fiendhunter Bolts",
+"Voltaic Cyclosword",
+"Lord Dominik's Regards",
+"The Collector"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
@@ -25769,39 +25769,39 @@
 "Triumph",
 "Legend: Alacrity",
 "Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
-"Health Shard",
 "Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Ability Haste Shard"
 ],
-"value": 156.33,
-"swaps": 15,
+"value": 156.59,
+"swaps": 14,
 "proven": true,
-"omega": 156.3,
+"omega": 156.6,
 "modelled": 0.83,
-"dps": 1053,
-"burst": 2770,
-"ehp": 5024,
-"sustain": 41,
-"utility": 1.8,
+"dps": 1002,
+"burst": 3340,
+"ehp": 5241,
+"sustain": 3,
+"utility": 2.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1319,
-"ttk": 1.9
+"dps": 1236,
+"ttk": 2.0
 },
 {
 "t": "Bruiser",
-"dps": 1096,
-"ttk": 3.3
+"dps": 1042,
+"ttk": 3.5
 },
 {
 "t": "Tank",
-"dps": 744,
-"ttk": 6.5
+"dps": 728,
+"ttk": 6.6
 }
 ]
 },
@@ -26092,11 +26092,11 @@
 "Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Cheap Shot",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Coup de Grace",
 "Legend: Bloodline"
 ],
@@ -26105,31 +26105,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 75.55,
-"swaps": 13,
+"value": 75.11,
+"swaps": 10,
 "proven": true,
-"omega": 75.6,
+"omega": 75.1,
 "modelled": 0.83,
-"dps": 324,
-"burst": 1981,
+"dps": 321,
+"burst": 1971,
 "ehp": 4506,
 "sustain": 68,
 "utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 422,
-"ttk": 5.9
+"dps": 419,
+"ttk": 6.0
 },
 {
 "t": "Bruiser",
-"dps": 332,
-"ttk": 10.8
+"dps": 330,
+"ttk": 10.9
 },
 {
 "t": "Tank",
-"dps": 217,
-"ttk": 22.2
+"dps": 215,
+"ttk": 22.3
 }
 ]
 },
@@ -26405,10 +26405,10 @@
 "omega": {
 "items": [
 "Rabadon's Deathcap",
-"Blade of the Ruined King",
-"Hextech Gunblade",
+"Cryptbloom",
+"Voltaic Cyclosword",
 "Lord Dominik's Regards",
-"Infinity Edge"
+"Nashor's Tooth"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "Conqueror",
@@ -26421,34 +26421,34 @@
 ],
 "shards": [
 "Adaptive Force Shard",
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Health Scaling Shard"
 ],
-"value": 142.15,
-"swaps": 27,
+"value": 140.41,
+"swaps": 25,
 "proven": true,
-"omega": 142.1,
-"modelled": 1.0,
-"dps": 436,
-"burst": 1310,
+"omega": 140.4,
+"modelled": 0.83,
+"dps": 381,
+"burst": 1028,
 "ehp": 3983,
-"sustain": 303,
-"utility": 2.9,
+"sustain": 306,
+"utility": 4.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 526,
-"ttk": 4.7
+"dps": 452,
+"ttk": 5.5
 },
 {
 "t": "Bruiser",
-"dps": 457,
-"ttk": 7.9
+"dps": 400,
+"ttk": 9.0
 },
 {
 "t": "Tank",
-"dps": 326,
-"ttk": 14.7
+"dps": 291,
+"ttk": 16.5
 }
 ]
 },
@@ -26627,11 +26627,11 @@
 "value": 550.46,
 "swaps": 1,
 "proven": true,
-"omega": 119.3,
-"modelled": 0.17,
+"omega": 119.6,
+"modelled": 0.33,
 "dps": 99,
 "burst": 814,
-"ehp": 4588,
+"ehp": 4863,
 "sustain": 550,
 "utility": 3.1,
 "per_target": [
@@ -26728,10 +26728,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Voltaic Cyclosword",
-"Blade of the Ruined King",
 "Lord Dominik's Regards",
+"Voltaic Cyclosword",
 "Infinity Edge",
+"Blade of the Ruined King",
 "The Collector"
 ],
 "boots": "Gluttonous Greaves",
@@ -26749,7 +26749,7 @@
 "Adaptive Force Shard"
 ],
 "value": 147.65,
-"swaps": 13,
+"swaps": 14,
 "proven": true,
 "omega": 147.6,
 "modelled": 0.67,
@@ -27057,9 +27057,9 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
-"Infinity Edge",
 "Fiendhunter Bolts",
 "Death's Dance",
+"Infinity Edge",
 "Essence Reaver"
 ],
 "boots": "Gunmetal Greaves",
@@ -27077,7 +27077,7 @@
 "Adaptive Force Shard"
 ],
 "value": 93.07,
-"swaps": 12,
+"swaps": 11,
 "proven": true,
 "omega": 93.1,
 "modelled": 1.0,
@@ -27375,11 +27375,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
 "Cryptbloom",
 "Blackfire Torch",
 "Archangel's Staff",
-"Luden's Echo"
+"Luden's Echo",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -27392,8 +27392,8 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
 "value": 69.12,
 "swaps": 10,
@@ -27699,11 +27699,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Axiom Arc",
-"Hextech Gunblade",
 "Bastionbreaker",
-"Umbral Glaive",
-"Lord Dominik's Regards"
+"Hextech Gunblade",
+"Axiom Arc",
+"Lord Dominik's Regards",
+"Umbral Glaive"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Conqueror",
@@ -27720,7 +27720,7 @@
 "Health Scaling Shard"
 ],
 "value": 82.68,
-"swaps": 9,
+"swaps": 8,
 "proven": true,
 "omega": 82.7,
 "modelled": 0.67,
@@ -28023,18 +28023,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
+"Cryptbloom",
 "Blackfire Torch",
 "Shadowflame",
-"Cryptbloom",
+"Rabadon's Deathcap",
 "Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Cheap Shot",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Second Wind"
 ],
@@ -28043,31 +28043,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 74.6,
+"value": 74.2,
 "swaps": 11,
 "proven": true,
-"omega": 74.6,
+"omega": 74.2,
 "modelled": 0.67,
-"dps": 317,
-"burst": 2219,
+"dps": 312,
+"burst": 2218,
 "ehp": 4131,
 "sustain": 46,
 "utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 423,
-"ttk": 5.9
+"dps": 417,
+"ttk": 6.0
 },
 {
 "t": "Bruiser",
-"dps": 324,
-"ttk": 11.1
+"dps": 319,
+"ttk": 11.3
 },
 {
 "t": "Tank",
-"dps": 204,
-"ttk": 23.5
+"dps": 201,
+"ttk": 23.9
 }
 ]
 },
@@ -28342,8 +28342,8 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
+"Lord Dominik's Regards",
 "Voltaic Cyclosword",
 "Fiendhunter Bolts",
 "Blade of the Ruined King"
@@ -28363,7 +28363,7 @@
 "Health Shard"
 ],
 "value": 82.98,
-"swaps": 16,
+"swaps": 11,
 "proven": true,
 "omega": 83.0,
 "modelled": 1.0,
@@ -28687,7 +28687,7 @@
 "Health Scaling Shard"
 ],
 "value": 144.76,
-"swaps": 15,
+"swaps": 18,
 "proven": true,
 "omega": 144.8,
 "modelled": 0.83,
@@ -28989,14 +28989,14 @@
 "Rabadon's Deathcap",
 "Blackfire Torch",
 "Archangel's Staff",
-"Shadowflame"
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Cheap Shot",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -29005,31 +29005,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 162.33,
-"swaps": 19,
+"value": 163.67,
+"swaps": 22,
 "proven": true,
-"omega": 162.3,
-"modelled": 0.67,
-"dps": 794,
-"burst": 4640,
+"omega": 163.7,
+"modelled": 0.83,
+"dps": 807,
+"burst": 4486,
 "ehp": 4949,
 "sustain": 0,
-"utility": 5.4,
+"utility": 5.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1060,
+"dps": 1050,
 "ttk": 2.4
 },
 {
 "t": "Bruiser",
-"dps": 811,
-"ttk": 4.4
+"dps": 828,
+"ttk": 4.3
 },
 {
 "t": "Tank",
-"dps": 511,
-"ttk": 9.4
+"dps": 542,
+"ttk": 8.9
 }
 ]
 },
@@ -29310,50 +29310,50 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
-"Voltaic Cyclosword",
-"Fiendhunter Bolts",
-"The Collector",
-"Infinity Edge"
+"Infinity Edge",
+"Stormrazor",
+"Blade of the Ruined King",
+"Fiendhunter Bolts"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Alacrity",
-"Cut Down",
-"Shield Bash",
-"Overgrowth"
+"Magical Footwear",
+"Triple Tonic",
+"Jack of All Trades",
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
 "Health Scaling Shard",
-"Health Shard",
-"Ability Haste Shard"
+"Ability Haste Shard",
+"Health Shard"
 ],
-"value": 83.56,
+"value": 82.26,
 "swaps": 14,
 "proven": true,
-"omega": 83.6,
-"modelled": 0.83,
-"dps": 556,
-"burst": 1458,
-"ehp": 5367,
-"sustain": 8,
+"omega": 82.3,
+"modelled": 1.0,
+"dps": 555,
+"burst": 1382,
+"ehp": 5032,
+"sustain": 14,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 686,
-"ttk": 3.6
+"dps": 674,
+"ttk": 3.7
 },
 {
 "t": "Bruiser",
-"dps": 578,
+"dps": 577,
 "ttk": 6.2
 },
 {
 "t": "Tank",
-"dps": 405,
-"ttk": 11.9
+"dps": 414,
+"ttk": 11.6
 }
 ]
 },
@@ -29571,8 +29571,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Triumph",
-"Legend: Haste"
+"Shield Bash",
+"Second Wind"
 ],
 "shards": [
 "Tenacity Shard",
@@ -29582,28 +29582,28 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 20.6,
+"omega": 20.9,
 "modelled": 0.5,
-"dps": 69,
-"burst": 302,
+"dps": 71,
+"burst": 311,
 "ehp": 6352,
 "sustain": 3,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 93,
-"ttk": 26.9
+"dps": 96,
+"ttk": 26.1
 },
 {
 "t": "Bruiser",
-"dps": 70,
-"ttk": 51.2
+"dps": 72,
+"ttk": 49.7
 },
 {
 "t": "Tank",
-"dps": 44,
-"ttk": 110.3
+"dps": 45,
+"ttk": 107.1
 }
 ]
 }
@@ -29628,11 +29628,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Axiom Arc",
 "Infinity Edge",
 "Fiendhunter Bolts",
-"Bastionbreaker"
+"Bastionbreaker",
+"Lord Dominik's Regards"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Electrocute",
@@ -29640,39 +29640,39 @@
 "Sudden Impact",
 "Sixth Sense",
 "Ultimate Hunter",
-"Coup de Grace",
-"Legend: Alacrity"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 116.4,
-"swaps": 13,
+"value": 111.48,
+"swaps": 14,
 "proven": true,
-"omega": 116.4,
+"omega": 111.5,
 "modelled": 0.67,
-"dps": 694,
-"burst": 1992,
-"ehp": 4505,
+"dps": 643,
+"burst": 1900,
+"ehp": 4834,
 "sustain": 0,
 "utility": 7.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 866,
-"ttk": 2.9
+"dps": 800,
+"ttk": 3.1
 },
 {
 "t": "Bruiser",
-"dps": 705,
-"ttk": 5.1
+"dps": 653,
+"ttk": 5.5
 },
 {
 "t": "Tank",
-"dps": 512,
-"ttk": 9.4
+"dps": 476,
+"ttk": 10.1
 }
 ]
 },
@@ -29953,50 +29953,50 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Stormrazor",
+"Voltaic Cyclosword",
+"Fiendhunter Bolts",
 "Lord Dominik's Regards",
-"The Collector",
-"Bastionbreaker"
+"The Collector"
 ],
-"boots": "Immortal Path",
-"keystone": "Lethal Tempo",
+"boots": "Gunmetal Greaves",
+"keystone": "First Strike",
 "minors": [
-"Presence of Mind",
-"Legend: Alacrity",
-"Cut Down",
-"Shield Bash",
-"Overgrowth"
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
-"Attack Speed Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Ability Haste Shard",
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 144.63,
+"value": 141.57,
 "swaps": 15,
 "proven": true,
-"omega": 144.6,
+"omega": 141.6,
 "modelled": 0.83,
-"dps": 914,
-"burst": 3187,
-"ehp": 5274,
-"sustain": 0,
-"utility": 4.4,
+"dps": 909,
+"burst": 2987,
+"ehp": 4943,
+"sustain": 11,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1217,
-"ttk": 2.1
+"dps": 1135,
+"ttk": 2.2
 },
 {
 "t": "Bruiser",
-"dps": 939,
+"dps": 945,
 "ttk": 3.8
 },
 {
 "t": "Tank",
-"dps": 586,
-"ttk": 8.2
+"dps": 647,
+"ttk": 7.4
 }
 ]
 },
@@ -30286,8 +30286,8 @@
 "items": [
 "Cryptbloom",
 "Rabadon's Deathcap",
-"Blackfire Torch",
 "Hextech Gunblade",
+"Blackfire Torch",
 "Archangel's Staff"
 ],
 "boots": "Crimson Lucidity",
@@ -30296,39 +30296,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Second Wind"
+"Gathering Storm",
+"Absolute Focus"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 172.95,
-"swaps": 14,
+"value": 178.37,
+"swaps": 13,
 "proven": true,
-"omega": 173.0,
+"omega": 178.4,
 "modelled": 0.67,
-"dps": 946,
-"burst": 6087,
+"dps": 962,
+"burst": 6236,
 "ehp": 4260,
-"sustain": 239,
+"sustain": 256,
 "utility": 10.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1133,
+"dps": 1157,
 "ttk": 2.2
 },
 {
 "t": "Bruiser",
-"dps": 987,
+"dps": 1004,
 "ttk": 3.6
 },
 {
 "t": "Tank",
-"dps": 717,
-"ttk": 6.7
+"dps": 726,
+"ttk": 6.6
 }
 ]
 },
@@ -30603,13 +30603,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
 "Stormrazor",
-"Fiendhunter Bolts",
+"The Collector",
+"Lord Dominik's Regards",
 "Bastionbreaker"
 ],
-"boots": "Immortal Path",
+"boots": "Gunmetal Greaves",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -30623,31 +30623,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 166.59,
-"swaps": 17,
+"value": 171.53,
+"swaps": 16,
 "proven": true,
-"omega": 166.6,
-"modelled": 1.0,
-"dps": 1106,
-"burst": 3689,
+"omega": 171.5,
+"modelled": 0.83,
+"dps": 1173,
+"burst": 3833,
 "ehp": 5315,
-"sustain": 0,
+"sustain": 16,
 "utility": 2.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1404,
-"ttk": 1.8
+"dps": 1523,
+"ttk": 1.6
 },
 {
 "t": "Bruiser",
-"dps": 1134,
-"ttk": 3.2
+"dps": 1203,
+"ttk": 3.0
 },
 {
 "t": "Tank",
-"dps": 779,
-"ttk": 6.2
+"dps": 794,
+"ttk": 6.0
 }
 ]
 },
@@ -30936,9 +30936,9 @@
 "omega": {
 "items": [
 "Blackfire Torch",
+"Cryptbloom",
 "Luden's Echo",
 "Shadowflame",
-"Cryptbloom",
 "Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
@@ -30947,39 +30947,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Gathering Storm",
-"Absolute Focus"
+"Shield Bash",
+"Second Wind"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 111.76,
-"swaps": 12,
+"value": 108.64,
+"swaps": 13,
 "proven": true,
-"omega": 111.8,
+"omega": 108.6,
 "modelled": 0.67,
-"dps": 651,
-"burst": 2970,
+"dps": 632,
+"burst": 2880,
 "ehp": 4439,
-"sustain": 60,
+"sustain": 57,
 "utility": 5.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 869,
-"ttk": 2.9
+"dps": 844,
+"ttk": 3.0
 },
 {
 "t": "Bruiser",
-"dps": 665,
-"ttk": 5.4
+"dps": 645,
+"ttk": 5.6
 },
 {
 "t": "Tank",
-"dps": 419,
-"ttk": 11.5
+"dps": 406,
+"ttk": 11.8
 }
 ]
 },
@@ -31254,11 +31254,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Jak'Sho, The Protean",
+"Death's Dance",
 "Fiendhunter Bolts",
-"Lord Dominik's Regards",
-"Infinity Edge",
-"Essence Reaver",
-"Death's Dance"
+"Abyssal Mask",
+"Protoplasm Harness"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -31266,39 +31266,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Overgrowth"
+"Overgrowth",
+"Bone Plating"
 ],
 "shards": [
 "Ability Haste Shard",
 "Health Scaling Shard",
 "Health Shard"
 ],
-"value": 108.74,
-"swaps": 10,
+"value": 112.23,
+"swaps": 9,
 "proven": true,
-"omega": 108.7,
+"omega": 112.2,
 "modelled": 0.83,
-"dps": 437,
-"burst": 2723,
-"ehp": 9197,
+"dps": 272,
+"burst": 1651,
+"ehp": 21837,
 "sustain": 0,
-"utility": 6.9,
+"utility": 7.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 529,
-"ttk": 4.7
+"dps": 321,
+"ttk": 7.8
 },
 {
 "t": "Bruiser",
-"dps": 452,
-"ttk": 8.0
+"dps": 281,
+"ttk": 12.8
 },
 {
 "t": "Tank",
-"dps": 330,
-"ttk": 14.5
+"dps": 215,
+"ttk": 22.3
 }
 ]
 },
@@ -31574,10 +31574,10 @@
 "omega": {
 "items": [
 "Death's Dance",
-"Lord Dominik's Regards",
 "Fiendhunter Bolts",
 "Voltaic Cyclosword",
-"Axiom Arc"
+"Axiom Arc",
+"Lord Dominik's Regards"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -31594,7 +31594,7 @@
 "Adaptive Force Shard"
 ],
 "value": 162.75,
-"swaps": 19,
+"swaps": 12,
 "proven": true,
 "omega": 162.7,
 "modelled": 0.67,
@@ -31897,11 +31897,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
-"Lord Dominik's Regards",
 "Protoplasm Harness",
-"Warmog's Armor"
+"Lord Dominik's Regards",
+"Death's Dance",
+"Abyssal Mask"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Aftershock",
@@ -31917,31 +31917,31 @@
 "Ability Haste Shard",
 "Adaptive Force Shard"
 ],
-"value": 230.39,
+"value": 233.21,
 "swaps": 13,
 "proven": true,
-"omega": 230.4,
-"modelled": 0.67,
-"dps": 1315,
-"burst": 3973,
-"ehp": 22634,
-"sustain": 8,
-"utility": 11.8,
+"omega": 233.2,
+"modelled": 0.83,
+"dps": 1441,
+"burst": 4057,
+"ehp": 22499,
+"sustain": 0,
+"utility": 12.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1303,
-"ttk": 1.9
+"dps": 1427,
+"ttk": 1.8
 },
 {
 "t": "Bruiser",
-"dps": 1428,
-"ttk": 2.5
+"dps": 1564,
+"ttk": 2.3
 },
 {
 "t": "Tank",
-"dps": 1215,
-"ttk": 3.9
+"dps": 1331,
+"ttk": 3.6
 }
 ]
 },
@@ -32219,8 +32219,8 @@
 "Infinity Edge",
 "Lord Dominik's Regards",
 "Fiendhunter Bolts",
-"Axiom Arc",
-"Bastionbreaker"
+"Bastionbreaker",
+"Axiom Arc"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -32228,39 +32228,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
 "Ability Haste Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 82.08,
-"swaps": 9,
+"value": 81.4,
+"swaps": 10,
 "proven": true,
-"omega": 82.1,
+"omega": 81.4,
 "modelled": 0.67,
-"dps": 340,
-"burst": 1887,
-"ehp": 5219,
+"dps": 336,
+"burst": 1867,
+"ehp": 5564,
 "sustain": 0,
-"utility": 6.5,
+"utility": 6.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 447,
-"ttk": 5.6
+"dps": 437,
+"ttk": 5.7
 },
 {
 "t": "Bruiser",
-"dps": 347,
-"ttk": 10.4
+"dps": 344,
+"ttk": 10.5
 },
 {
 "t": "Tank",
-"dps": 226,
-"ttk": 21.2
+"dps": 228,
+"ttk": 21.1
 }
 ]
 },
@@ -32536,10 +32536,10 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"The Collector",
-"Fiendhunter Bolts",
 "Lord Dominik's Regards",
-"Voltaic Cyclosword"
+"Stormrazor",
+"Fiendhunter Bolts",
+"Bastionbreaker"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
@@ -32547,39 +32547,39 @@
 "Triumph",
 "Legend: Alacrity",
 "Cut Down",
-"Shield Bash",
-"Bone Plating"
+"Sudden Impact",
+"Ultimate Hunter"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 143.79,
-"swaps": 11,
+"value": 141.17,
+"swaps": 12,
 "proven": true,
-"omega": 143.8,
-"modelled": 0.83,
-"dps": 929,
-"burst": 2775,
-"ehp": 5426,
+"omega": 141.2,
+"modelled": 1.0,
+"dps": 888,
+"burst": 2804,
+"ehp": 5101,
 "sustain": 3,
-"utility": 2.7,
+"utility": 3.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1151,
+"dps": 1156,
 "ttk": 2.2
 },
 {
 "t": "Bruiser",
-"dps": 965,
-"ttk": 3.7
+"dps": 911,
+"ttk": 3.9
 },
 {
 "t": "Tank",
-"dps": 671,
-"ttk": 7.2
+"dps": 597,
+"ttk": 8.0
 }
 ]
 },
@@ -32863,51 +32863,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
-"The Collector",
-"Bastionbreaker",
 "Lord Dominik's Regards",
-"Stormrazor"
+"Infinity Edge",
+"Voltaic Cyclosword",
+"The Collector",
+"Immortal Shieldbow"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
 "minors": [
 "Triumph",
-"Legend: Bloodline",
+"Legend: Alacrity",
 "Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Bone Plating"
 ],
 "shards": [
 "Adaptive Force Shard",
-"Attack Speed Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Ability Haste Shard"
 ],
-"value": 168.84,
-"swaps": 18,
+"value": 163.71,
+"swaps": 22,
 "proven": true,
-"omega": 168.8,
+"omega": 163.7,
 "modelled": 0.83,
-"dps": 1153,
-"burst": 3113,
-"ehp": 4615,
-"sustain": 44,
+"dps": 1127,
+"burst": 2895,
+"ehp": 5676,
+"sustain": 3,
 "utility": 2.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1549,
-"ttk": 1.6
+"dps": 1419,
+"ttk": 1.8
 },
 {
 "t": "Bruiser",
-"dps": 1183,
-"ttk": 3.0
+"dps": 1173,
+"ttk": 3.1
 },
 {
 "t": "Tank",
-"dps": 726,
-"ttk": 6.6
+"dps": 788,
+"ttk": 6.1
 }
 ]
 },
@@ -33191,11 +33191,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
-"Rabadon's Deathcap",
 "Blackfire Torch",
 "Archangel's Staff",
-"Luden's Echo"
+"Cryptbloom",
+"Luden's Echo",
+"Rabadon's Deathcap"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -33203,39 +33203,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Second Wind"
+"Coup de Grace",
+"Legend: Haste"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 94.1,
-"swaps": 12,
+"value": 96.49,
+"swaps": 10,
 "proven": true,
-"omega": 94.1,
+"omega": 96.5,
 "modelled": 0.67,
-"dps": 318,
-"burst": 1636,
+"dps": 333,
+"burst": 1715,
 "ehp": 4701,
-"sustain": 82,
-"utility": 11.6,
+"sustain": 79,
+"utility": 12.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 408,
-"ttk": 6.1
+"dps": 428,
+"ttk": 5.8
 },
 {
 "t": "Bruiser",
-"dps": 327,
-"ttk": 11.0
+"dps": 343,
+"ttk": 10.5
 },
 {
 "t": "Tank",
-"dps": 218,
-"ttk": 22.0
+"dps": 229,
+"ttk": 21.0
 }
 ]
 },
@@ -33510,11 +33510,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
+"Blackfire Torch",
 "Cryptbloom",
 "Luden's Echo",
-"Blackfire Torch",
-"Shadowflame"
+"Shadowflame",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -33527,11 +33527,11 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
 "value": 92.78,
-"swaps": 11,
+"swaps": 16,
 "proven": true,
 "omega": 92.8,
 "modelled": 0.67,
@@ -33838,11 +33838,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Lord Dominik's Regards",
 "Blackfire Torch",
-"Luden's Echo",
-"Fiendhunter Bolts",
 "Abyssal Mask",
-"Lord Dominik's Regards"
+"Fiendhunter Bolts",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -33859,7 +33859,7 @@
 "Health Shard"
 ],
 "value": 133.73,
-"swaps": 11,
+"swaps": 17,
 "proven": true,
 "omega": 133.7,
 "modelled": 1.0,
@@ -34158,12 +34158,12 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Luden's Echo",
-"Fiendhunter Bolts",
+"Rabadon's Deathcap",
 "Archangel's Staff",
-"Cryptbloom"
+"Cryptbloom",
+"Luden's Echo"
 ],
-"boots": "Crimson Lucidity",
+"boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -34177,31 +34177,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 109.29,
-"swaps": 19,
+"value": 110.62,
+"swaps": 17,
 "proven": true,
-"omega": 109.3,
-"modelled": 0.67,
-"dps": 341,
-"burst": 2012,
+"omega": 110.6,
+"modelled": 0.83,
+"dps": 344,
+"burst": 2402,
 "ehp": 4579,
 "sustain": 0,
-"utility": 12.8,
+"utility": 11.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 406,
-"ttk": 6.2
+"dps": 436,
+"ttk": 5.7
 },
 {
 "t": "Bruiser",
-"dps": 350,
-"ttk": 10.3
+"dps": 355,
+"ttk": 10.1
 },
 {
 "t": "Tank",
-"dps": 266,
-"ttk": 18.0
+"dps": 240,
+"ttk": 20.0
 }
 ]
 },
@@ -34481,51 +34481,51 @@
 "objectives": {
 "omega": {
 "items": [
+"Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Cosmic Drive",
-"Death's Dance",
-"Hextech Rocketbelt"
+"Heartsteel",
+"Blade of the Ruined King"
 ],
-"boots": "Chainlaced Crushers",
+"boots": "Gunmetal Greaves",
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
 "Coup de Grace",
-"Triumph"
+"Legend: Alacrity"
 ],
 "shards": [
 "Health Scaling Shard",
 "Health Shard",
 "Ability Haste Shard"
 ],
-"value": 134.02,
+"value": 136.39,
 "swaps": 20,
 "proven": true,
-"omega": 134.0,
-"modelled": 0.83,
-"dps": 78,
-"burst": 533,
-"ehp": 22657,
-"sustain": 14,
-"utility": 5.3,
+"omega": 136.4,
+"modelled": 1.0,
+"dps": 204,
+"burst": 486,
+"ehp": 22778,
+"sustain": 12,
+"utility": 3.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 105,
-"ttk": 23.9
+"dps": 247,
+"ttk": 10.1
 },
 {
 "t": "Bruiser",
-"dps": 80,
-"ttk": 45.1
+"dps": 215,
+"ttk": 16.7
 },
 {
 "t": "Tank",
-"dps": 50,
-"ttk": 96.5
+"dps": 150,
+"ttk": 31.9
 }
 ]
 },
@@ -34810,10 +34810,10 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Bastionbreaker",
-"Umbral Glaive",
-"Axiom Arc",
-"Lord Dominik's Regards"
+"Fiendhunter Bolts",
+"Lord Dominik's Regards",
+"Hextech Gunblade",
+"Stormrazor"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -34825,35 +34825,35 @@
 "Legend: Alacrity"
 ],
 "shards": [
-"Ability Haste Shard",
+"Attack Speed Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 113.34,
-"swaps": 8,
+"value": 115.26,
+"swaps": 10,
 "proven": true,
-"omega": 113.3,
-"modelled": 0.83,
-"dps": 636,
-"burst": 3243,
+"omega": 115.3,
+"modelled": 1.0,
+"dps": 665,
+"burst": 2744,
 "ehp": 5561,
-"sustain": 79,
-"utility": 3.1,
+"sustain": 111,
+"utility": 1.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 881,
-"ttk": 2.8
+"dps": 841,
+"ttk": 3.0
 },
 {
 "t": "Bruiser",
-"dps": 647,
-"ttk": 5.6
+"dps": 686,
+"ttk": 5.2
 },
 {
 "t": "Tank",
-"dps": 379,
-"ttk": 12.7
+"dps": 469,
+"ttk": 10.2
 }
 ]
 },
@@ -35033,7 +35033,7 @@
 "swaps": 0,
 "proven": true,
 "omega": 88.4,
-"modelled": 0.17,
+"modelled": 0.33,
 "dps": 289,
 "burst": 1619,
 "ehp": 5194,
@@ -35134,50 +35134,50 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Fiendhunter Bolts",
 "Voltaic Cyclosword",
 "The Collector",
+"Fiendhunter Bolts",
 "Lord Dominik's Regards"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
-"Shield Bash",
-"Overgrowth"
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
 "Attack Speed Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 94.27,
-"swaps": 23,
+"value": 104.81,
+"swaps": 13,
 "proven": true,
-"omega": 94.3,
+"omega": 104.8,
 "modelled": 0.83,
-"dps": 545,
-"burst": 2192,
-"ehp": 5229,
-"sustain": 5,
+"dps": 648,
+"burst": 2312,
+"ehp": 4882,
+"sustain": 6,
 "utility": 1.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 678,
-"ttk": 3.7
+"dps": 798,
+"ttk": 3.1
 },
 {
 "t": "Bruiser",
-"dps": 564,
-"ttk": 6.4
+"dps": 672,
+"ttk": 5.4
 },
 {
 "t": "Tank",
-"dps": 393,
-"ttk": 12.2
+"dps": 474,
+"ttk": 10.1
 }
 ]
 },
@@ -35461,11 +35461,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Blade of the Ruined King",
+"Lord Dominik's Regards",
 "Voltaic Cyclosword",
-"Hextech Gunblade"
+"Hextech Gunblade",
+"Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -35482,7 +35482,7 @@
 "Health Scaling Shard"
 ],
 "value": 137.63,
-"swaps": 10,
+"swaps": 16,
 "proven": true,
 "omega": 137.6,
 "modelled": 1.0,
@@ -35685,7 +35685,7 @@
 "swaps": 2,
 "proven": true,
 "omega": 139.8,
-"modelled": 0.83,
+"modelled": 1.0,
 "dps": 684,
 "burst": 1895,
 "ehp": 4365,
@@ -35783,8 +35783,8 @@
 "Blackfire Torch",
 "Void Staff",
 "Luden's Echo",
-"Rabadon's Deathcap",
-"Hextech Gunblade"
+"Hextech Gunblade",
+"Rabadon's Deathcap"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "Electrocute",
@@ -35801,7 +35801,7 @@
 "Health Scaling Shard"
 ],
 "value": 150.45,
-"swaps": 16,
+"swaps": 14,
 "proven": true,
 "omega": 150.4,
 "modelled": 0.83,
@@ -36108,11 +36108,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Cryptbloom",
 "Blackfire Torch",
 "Fiendhunter Bolts",
-"Cryptbloom",
-"Luden's Echo",
-"Abyssal Mask"
+"Abyssal Mask",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -36129,7 +36129,7 @@
 "Health Scaling Shard"
 ],
 "value": 122.9,
-"swaps": 10,
+"swaps": 9,
 "proven": true,
 "omega": 122.9,
 "modelled": 0.83,
@@ -36432,51 +36432,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Infinity Edge",
 "Fiendhunter Bolts",
 "Stormrazor",
-"Bastionbreaker"
+"Infinity Edge",
+"Lord Dominik's Regards",
+"Blade of the Ruined King"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Immortal Path",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Sudden Impact",
-"Ultimate Hunter"
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 145.78,
-"swaps": 16,
+"value": 154.1,
+"swaps": 12,
 "proven": true,
-"omega": 145.8,
+"omega": 154.1,
 "modelled": 1.0,
-"dps": 953,
-"burst": 2666,
+"dps": 1056,
+"burst": 2535,
 "ehp": 4736,
-"sustain": 17,
-"utility": 0.9,
+"sustain": 37,
+"utility": 0.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1234,
-"ttk": 2.0
+"dps": 1282,
+"ttk": 1.9
 },
 {
 "t": "Bruiser",
-"dps": 978,
-"ttk": 3.7
+"dps": 1097,
+"ttk": 3.3
 },
 {
 "t": "Tank",
-"dps": 647,
-"ttk": 7.4
+"dps": 790,
+"ttk": 6.1
 }
 ]
 },
@@ -36758,49 +36758,49 @@
 "items": [
 "Death's Dance",
 "Jak'Sho, The Protean",
-"Abyssal Mask",
-"Cosmic Drive",
-"Unending Despair"
+"Protoplasm Harness",
+"Lord Dominik's Regards",
+"Frozen Heart"
 ],
 "boots": "Crimson Lucidity",
-"keystone": "First Strike",
+"keystone": "Aftershock",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
 "Shield Bash",
-"Bone Plating"
+"Bone Plating",
+"Overgrowth",
+"Coup de Grace",
+"Legend: Haste"
 ],
 "shards": [
 "Ability Haste Shard",
 "Health Scaling Shard",
 "Health Shard"
 ],
-"value": 220.95,
-"swaps": 9,
+"value": 228.61,
+"swaps": 17,
 "proven": true,
-"omega": 220.9,
-"modelled": 0.83,
-"dps": 1120,
-"burst": 2745,
-"ehp": 22303,
+"omega": 228.6,
+"modelled": 0.67,
+"dps": 1314,
+"burst": 3665,
+"ehp": 22682,
 "sustain": 0,
-"utility": 12.9,
+"utility": 12.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1230,
-"ttk": 2.0
+"dps": 1348,
+"ttk": 1.9
 },
 {
 "t": "Bruiser",
-"dps": 1205,
-"ttk": 3.0
+"dps": 1417,
+"ttk": 2.5
 },
 {
 "t": "Tank",
-"dps": 925,
-"ttk": 5.2
+"dps": 1176,
+"ttk": 4.1
 }
 ]
 },
@@ -37075,13 +37075,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Blade of the Ruined King",
+"Lord Dominik's Regards",
 "Voltaic Cyclosword",
 "Hextech Gunblade",
-"Lord Dominik's Regards",
-"Infinity Edge"
+"Blade of the Ruined King",
+"Kraken Slayer"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Gluttonous Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Triumph",
@@ -37095,31 +37095,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 107.62,
-"swaps": 7,
+"value": 98.4,
+"swaps": 12,
 "proven": true,
-"omega": 107.6,
-"modelled": 1.0,
-"dps": 728,
-"burst": 1924,
+"omega": 98.4,
+"modelled": 0.83,
+"dps": 629,
+"burst": 1523,
 "ehp": 3836,
 "sustain": 123,
 "utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 849,
-"ttk": 2.9
+"dps": 721,
+"ttk": 3.5
 },
 {
 "t": "Bruiser",
-"dps": 769,
-"ttk": 4.7
+"dps": 667,
+"ttk": 5.4
 },
 {
 "t": "Tank",
-"dps": 566,
-"ttk": 8.5
+"dps": 499,
+"ttk": 9.6
 }
 ]
 },
@@ -37394,18 +37394,18 @@
 "objectives": {
 "omega": {
 "items": [
+"Fiendhunter Bolts",
 "Lord Dominik's Regards",
 "Infinity Edge",
-"Fiendhunter Bolts",
-"Voltaic Cyclosword",
+"Stormrazor",
 "Blade of the Ruined King"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Bloodline",
-"Cut Down",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Second Wind"
 ],
@@ -37414,31 +37414,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 92.38,
-"swaps": 15,
+"value": 82.83,
+"swaps": 19,
 "proven": true,
-"omega": 92.4,
+"omega": 82.8,
 "modelled": 1.0,
-"dps": 692,
-"burst": 1613,
+"dps": 587,
+"burst": 1734,
 "ehp": 4133,
-"sustain": 43,
-"utility": 3.2,
+"sustain": 23,
+"utility": 2.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 812,
-"ttk": 3.1
+"dps": 716,
+"ttk": 3.5
 },
 {
 "t": "Bruiser",
-"dps": 727,
-"ttk": 4.9
+"dps": 610,
+"ttk": 5.9
 },
 {
 "t": "Tank",
-"dps": 538,
-"ttk": 8.9
+"dps": 435,
+"ttk": 11.0
 }
 ]
 },
@@ -37734,7 +37734,7 @@
 "Adaptive Force Shard"
 ],
 "value": 187.46,
-"swaps": 14,
+"swaps": 19,
 "proven": true,
 "omega": 187.5,
 "modelled": 0.83,
@@ -38032,11 +38032,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Jak'Sho, The Protean",
 "Abyssal Mask",
-"Randuin's Omen",
-"Death's Dance",
-"Cryptbloom"
+"Jak'Sho, The Protean",
+"Protoplasm Harness",
+"Unending Despair",
+"Death's Dance"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -38044,39 +38044,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Overgrowth",
+"Shield Bash",
 "Bone Plating"
 ],
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
-"Health Shard"
+"Adaptive Force Shard"
 ],
-"value": 118.21,
-"swaps": 15,
+"value": 117.78,
+"swaps": 20,
 "proven": true,
-"omega": 118.2,
-"modelled": 0.83,
-"dps": 266,
-"burst": 1676,
-"ehp": 21191,
+"omega": 117.8,
+"modelled": 1.0,
+"dps": 243,
+"burst": 1400,
+"ehp": 22528,
 "sustain": 0,
-"utility": 6.1,
+"utility": 6.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 291,
-"ttk": 8.6
+"dps": 277,
+"ttk": 9.0
 },
 {
 "t": "Bruiser",
-"dps": 284,
-"ttk": 12.7
+"dps": 259,
+"ttk": 13.9
 },
 {
 "t": "Tank",
-"dps": 224,
-"ttk": 21.4
+"dps": 193,
+"ttk": 24.9
 }
 ]
 },
@@ -38351,11 +38351,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Hextech Gunblade",
-"Blade of the Ruined King",
+"Fiendhunter Bolts",
 "Infinity Edge",
-"Stormrazor"
+"Voltaic Cyclosword",
+"Lord Dominik's Regards"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "Lethal Tempo",
@@ -38371,31 +38371,31 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 79.2,
-"swaps": 8,
+"value": 80.02,
+"swaps": 16,
 "proven": true,
-"omega": 79.2,
+"omega": 80.0,
 "modelled": 0.83,
-"dps": 487,
-"burst": 1283,
+"dps": 492,
+"burst": 1499,
 "ehp": 4603,
-"sustain": 82,
-"utility": 5.6,
+"sustain": 76,
+"utility": 6.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 593,
+"dps": 588,
 "ttk": 4.2
 },
 {
 "t": "Bruiser",
-"dps": 509,
-"ttk": 7.1
+"dps": 514,
+"ttk": 7.0
 },
 {
 "t": "Tank",
-"dps": 359,
-"ttk": 13.4
+"dps": 375,
+"ttk": 12.8
 }
 ]
 },
@@ -38670,11 +38670,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
+"Protoplasm Harness",
 "Randuin's Omen",
-"Abyssal Mask",
-"Protoplasm Harness"
+"Cryptbloom",
+"Death's Dance"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -38682,39 +38682,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
+"Overgrowth",
 "Bone Plating"
 ],
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
-"Adaptive Force Shard"
+"Health Shard"
 ],
-"value": 188.4,
+"value": 198.79,
 "swaps": 17,
 "proven": true,
-"omega": 188.4,
+"omega": 198.8,
 "modelled": 0.83,
-"dps": 563,
-"burst": 3046,
-"ehp": 22935,
+"dps": 685,
+"burst": 3593,
+"ehp": 22466,
 "sustain": 0,
-"utility": 6.3,
+"utility": 6.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 607,
-"ttk": 4.1
+"dps": 704,
+"ttk": 3.6
 },
 {
 "t": "Bruiser",
-"dps": 608,
-"ttk": 5.9
+"dps": 738,
+"ttk": 4.9
 },
 {
 "t": "Tank",
-"dps": 475,
-"ttk": 10.1
+"dps": 614,
+"ttk": 7.8
 }
 ]
 },
@@ -38991,9 +38991,9 @@
 "items": [
 "Death's Dance",
 "Jak'Sho, The Protean",
-"Abyssal Mask",
-"Cryptbloom",
-"Randuin's Omen"
+"Protoplasm Harness",
+"Warmog's Armor",
+"Cryptbloom"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Aftershock",
@@ -39007,33 +39007,33 @@
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
-"Health Shard"
+"Adaptive Force Shard"
 ],
-"value": 178.2,
-"swaps": 17,
+"value": 175.31,
+"swaps": 15,
 "proven": true,
-"omega": 178.2,
+"omega": 175.3,
 "modelled": 0.83,
-"dps": 578,
-"burst": 2643,
-"ehp": 22319,
-"sustain": 0,
-"utility": 3.6,
+"dps": 531,
+"burst": 2376,
+"ehp": 22573,
+"sustain": 7,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 594,
-"ttk": 4.2
+"dps": 546,
+"ttk": 4.6
 },
 {
 "t": "Bruiser",
-"dps": 622,
-"ttk": 5.8
+"dps": 572,
+"ttk": 6.3
 },
 {
 "t": "Tank",
-"dps": 517,
-"ttk": 9.3
+"dps": 475,
+"ttk": 10.1
 }
 ]
 },
@@ -39308,51 +39308,51 @@
 "objectives": {
 "omega": {
 "items": [
+"Jak'Sho, The Protean",
 "Death's Dance",
-"Warmog's Armor",
+"Protoplasm Harness",
 "Randuin's Omen",
-"Hextech Gunblade",
-"Jak'Sho, The Protean"
+"Hextech Gunblade"
 ],
-"boots": "Crimson Lucidity",
-"keystone": "First Strike",
+"boots": "Gluttonous Greaves",
+"keystone": "Aftershock",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
+"Shield Bash",
+"Bone Plating",
 "Overgrowth",
-"Bone Plating"
+"Coup de Grace",
+"Legend: Bloodline"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
+"Ability Haste Shard",
 "Health Shard"
 ],
-"value": 218.92,
-"swaps": 18,
+"value": 223.72,
+"swaps": 17,
 "proven": true,
-"omega": 218.9,
+"omega": 223.7,
 "modelled": 0.83,
-"dps": 1142,
-"burst": 8840,
-"ehp": 22588,
-"sustain": 133,
-"utility": 6.1,
+"dps": 1165,
+"burst": 9021,
+"ehp": 23246,
+"sustain": 185,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1194,
+"dps": 1218,
 "ttk": 2.1
 },
 {
 "t": "Bruiser",
-"dps": 1236,
+"dps": 1261,
 "ttk": 2.9
 },
 {
 "t": "Tank",
-"dps": 995,
-"ttk": 4.8
+"dps": 1015,
+"ttk": 4.7
 }
 ]
 },
@@ -39627,13 +39627,13 @@
 "objectives": {
 "omega": {
 "items": [
+"Infinity Edge",
+"Fiendhunter Bolts",
 "Lord Dominik's Regards",
 "Blade of the Ruined King",
-"Infinity Edge",
-"Stormrazor",
-"The Collector"
+"Stormrazor"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Gluttonous Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Triumph",
@@ -39647,31 +39647,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 130.33,
-"swaps": 13,
+"value": 121.07,
+"swaps": 11,
 "proven": true,
-"omega": 130.3,
+"omega": 121.1,
 "modelled": 0.83,
-"dps": 1100,
-"burst": 2063,
+"dps": 965,
+"burst": 1953,
 "ehp": 4460,
-"sustain": 72,
+"sustain": 83,
 "utility": 0.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1370,
-"ttk": 1.8
+"dps": 1178,
+"ttk": 2.1
 },
 {
 "t": "Bruiser",
-"dps": 1147,
-"ttk": 3.1
+"dps": 1006,
+"ttk": 3.6
 },
 {
 "t": "Tank",
-"dps": 784,
-"ttk": 6.1
+"dps": 711,
+"ttk": 6.8
 }
 ]
 },
@@ -39958,8 +39958,8 @@
 "Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Lord Dominik's Regards",
-"Cosmic Drive"
+"Black Cleaver",
+"Axiom Arc"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Aftershock",
@@ -39967,39 +39967,39 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Sudden Impact",
-"Ultimate Hunter"
+"Coup de Grace",
+"Legend: Haste"
 ],
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
 "Health Shard"
 ],
-"value": 215.56,
-"swaps": 14,
+"value": 209.47,
+"swaps": 13,
 "proven": true,
-"omega": 215.6,
-"modelled": 0.83,
-"dps": 707,
-"burst": 4552,
-"ehp": 22286,
+"omega": 209.5,
+"modelled": 0.67,
+"dps": 623,
+"burst": 3654,
+"ehp": 22566,
 "sustain": 0,
-"utility": 9.3,
+"utility": 10.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 765,
-"ttk": 3.3
+"dps": 710,
+"ttk": 3.5
 },
 {
 "t": "Bruiser",
-"dps": 757,
-"ttk": 4.8
+"dps": 667,
+"ttk": 5.4
 },
 {
 "t": "Tank",
-"dps": 598,
-"ttk": 8.0
+"dps": 492,
+"ttk": 9.8
 }
 ]
 },
@@ -40179,7 +40179,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 112.3,
-"modelled": 0.33,
+"modelled": 0.5,
 "dps": 843,
 "burst": 6098,
 "ehp": 4704,
@@ -40279,10 +40279,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Hextech Gunblade",
 "Fiendhunter Bolts",
 "Lord Dominik's Regards",
 "Infinity Edge",
+"Hextech Gunblade",
 "Essence Reaver"
 ],
 "boots": "Gluttonous Greaves",
@@ -40300,7 +40300,7 @@
 "Health Scaling Shard"
 ],
 "value": 72.58,
-"swaps": 17,
+"swaps": 15,
 "proven": true,
 "omega": 72.6,
 "modelled": 0.83,
@@ -40598,51 +40598,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Stormrazor",
-"Fiendhunter Bolts",
-"Blade of the Ruined King",
 "Lord Dominik's Regards",
-"Infinity Edge"
+"Infinity Edge",
+"Voltaic Cyclosword",
+"Essence Reaver",
+"Fiendhunter Bolts"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Electrocute",
+"keystone": "Lethal Tempo",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
+"Triumph",
+"Legend: Alacrity",
+"Cut Down",
 "Shield Bash",
 "Second Wind"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 58.95,
-"swaps": 26,
+"value": 68.9,
+"swaps": 6,
 "proven": true,
-"omega": 59.0,
+"omega": 68.9,
 "modelled": 1.0,
-"dps": 409,
-"burst": 1472,
+"dps": 507,
+"burst": 1570,
 "ehp": 3979,
-"sustain": 12,
-"utility": 1.9,
+"sustain": 10,
+"utility": 2.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 502,
-"ttk": 5.0
+"dps": 622,
+"ttk": 4.0
 },
 {
 "t": "Bruiser",
-"dps": 424,
-"ttk": 8.5
+"dps": 527,
+"ttk": 6.8
 },
 {
 "t": "Tank",
-"dps": 299,
-"ttk": 16.0
+"dps": 374,
+"ttk": 12.9
 }
 ]
 },
@@ -40924,49 +40924,49 @@
 "items": [
 "Rabadon's Deathcap",
 "Cosmic Drive",
-"Morellonomicon",
 "Death's Dance",
-"Hextech Rocketbelt"
+"Bloodletter's Curse",
+"Banshee's Veil"
 ],
 "boots": "Armored Advance",
 "keystone": "Conqueror",
 "minors": [
 "Triumph",
-"Legend: Haste",
+"Legend: Bloodline",
 "Cut Down",
 "Scorch",
 "Absolute Focus"
 ],
 "shards": [
-"Health Shard",
+"Ability Haste Shard",
 "Health Scaling Shard",
-"Ability Haste Shard"
+"Adaptive Force Shard"
 ],
-"value": 141.18,
-"swaps": 28,
+"value": 141.2,
+"swaps": 16,
 "proven": true,
 "omega": 141.2,
 "modelled": 0.67,
-"dps": 289,
-"burst": 514,
-"ehp": 11015,
-"sustain": 300,
-"utility": 4.3,
+"dps": 264,
+"burst": 536,
+"ehp": 11339,
+"sustain": 301,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 334,
-"ttk": 7.5
+"dps": 306,
+"ttk": 8.2
 },
 {
 "t": "Bruiser",
-"dps": 307,
-"ttk": 11.7
+"dps": 280,
+"ttk": 12.8
 },
 {
 "t": "Tank",
-"dps": 226,
-"ttk": 21.3
+"dps": 205,
+"ttk": 23.4
 }
 ]
 },
@@ -41246,11 +41246,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
 "Blackfire Torch",
+"Cryptbloom",
 "Rabadon's Deathcap",
-"Luden's Echo",
-"Shadowflame"
+"Shadowflame",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -41267,7 +41267,7 @@
 "Adaptive Force Shard"
 ],
 "value": 99.5,
-"swaps": 14,
+"swaps": 13,
 "proven": true,
 "omega": 99.5,
 "modelled": 0.67,
@@ -41566,8 +41566,8 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Cryptbloom",
 "Luden's Echo",
+"Cryptbloom",
 "Shadowflame",
 "Rabadon's Deathcap"
 ],
@@ -41586,7 +41586,7 @@
 "Health Scaling Shard"
 ],
 "value": 112.29,
-"swaps": 7,
+"swaps": 9,
 "proven": true,
 "omega": 112.3,
 "modelled": 0.67,
@@ -41885,10 +41885,10 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
-"Stormrazor",
 "Fiendhunter Bolts",
 "Infinity Edge",
-"Blade of the Ruined King"
+"Blade of the Ruined King",
+"Stormrazor"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -41905,7 +41905,7 @@
 "Health Scaling Shard"
 ],
 "value": 134.56,
-"swaps": 9,
+"swaps": 17,
 "proven": true,
 "omega": 134.6,
 "modelled": 1.0,
@@ -42210,7 +42210,7 @@
 "items": [
 "Death's Dance",
 "Jak'Sho, The Protean",
-"Randuin's Omen",
+"Unending Despair",
 "Protoplasm Harness",
 "Hextech Gunblade"
 ],
@@ -42228,31 +42228,31 @@
 "Health Shard",
 "Ability Haste Shard"
 ],
-"value": 246.22,
+"value": 246.54,
 "swaps": 13,
 "proven": true,
-"omega": 246.2,
-"modelled": 0.67,
-"dps": 3430,
+"omega": 246.5,
+"modelled": 0.83,
+"dps": 3700,
 "burst": 12801,
-"ehp": 23393,
-"sustain": 343,
-"utility": 7.2,
+"ehp": 22763,
+"sustain": 370,
+"utility": 7.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 3463,
+"dps": 3735,
 "ttk": 0.7
 },
 {
 "t": "Bruiser",
-"dps": 3737,
-"ttk": 1.0
+"dps": 4032,
+"ttk": 0.9
 },
 {
 "t": "Tank",
-"dps": 3089,
-"ttk": 1.6
+"dps": 3333,
+"ttk": 1.4
 }
 ]
 },
@@ -42528,9 +42528,9 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Cryptbloom",
 "Archangel's Staff",
 "Rabadon's Deathcap",
+"Cryptbloom",
 "Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
@@ -42548,7 +42548,7 @@
 "Health Scaling Shard"
 ],
 "value": 114.67,
-"swaps": 9,
+"swaps": 10,
 "proven": true,
 "omega": 114.7,
 "modelled": 0.83,
@@ -42847,10 +42847,10 @@
 "omega": {
 "items": [
 "Infinity Edge",
-"Stormrazor",
 "The Collector",
-"Bastionbreaker",
-"Lord Dominik's Regards"
+"Stormrazor",
+"Lord Dominik's Regards",
+"Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
 "keystone": "First Strike",
@@ -43170,10 +43170,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Stormrazor",
 "Fiendhunter Bolts",
+"Lord Dominik's Regards",
+"Stormrazor",
 "Blade of the Ruined King"
 ],
 "boots": "Immortal Path",
@@ -43191,7 +43191,7 @@
 "Health Shard"
 ],
 "value": 67.91,
-"swaps": 12,
+"swaps": 16,
 "proven": true,
 "omega": 67.9,
 "modelled": 1.0,
@@ -43494,51 +43494,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Fiendhunter Bolts",
 "Infinity Edge",
+"Fiendhunter Bolts",
+"Lord Dominik's Regards",
 "Stormrazor",
 "Blade of the Ruined King"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Immortal Path",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Overgrowth"
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
-"Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Attack Speed Shard",
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 103.27,
-"swaps": 18,
+"value": 109.95,
+"swaps": 15,
 "proven": true,
-"omega": 103.3,
+"omega": 109.9,
 "modelled": 1.0,
-"dps": 704,
-"burst": 1911,
-"ehp": 4836,
-"sustain": 25,
-"utility": 2.3,
+"dps": 766,
+"burst": 2083,
+"ehp": 4519,
+"sustain": 18,
+"utility": 2.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 861,
-"ttk": 2.9
+"dps": 937,
+"ttk": 2.7
 },
 {
 "t": "Bruiser",
-"dps": 732,
-"ttk": 4.9
+"dps": 796,
+"ttk": 4.5
 },
 {
 "t": "Tank",
-"dps": 518,
-"ttk": 9.3
+"dps": 564,
+"ttk": 8.5
 }
 ]
 },
@@ -43818,13 +43818,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Shadowflame",
-"Blackfire Torch",
-"Cryptbloom",
-"Rabadon's Deathcap",
-"Archangel's Staff"
+"Lord Dominik's Regards",
+"Infinity Edge",
+"Essence Reaver",
+"Fiendhunter Bolts",
+"Voltaic Cyclosword"
 ],
-"boots": "Spellslinger's Shoes",
+"boots": "Gunmetal Greaves",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -43838,31 +43838,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 108.6,
-"swaps": 18,
+"value": 107.39,
+"swaps": 21,
 "proven": true,
-"omega": 108.6,
-"modelled": 0.67,
-"dps": 375,
-"burst": 2725,
+"omega": 107.4,
+"modelled": 1.0,
+"dps": 523,
+"burst": 2408,
 "ehp": 4371,
-"sustain": 0,
-"utility": 8.9,
+"sustain": 5,
+"utility": 7.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 501,
-"ttk": 5.0
+"dps": 651,
+"ttk": 3.8
 },
 {
 "t": "Bruiser",
-"dps": 384,
-"ttk": 9.4
+"dps": 542,
+"ttk": 6.6
 },
 {
 "t": "Tank",
-"dps": 241,
-"ttk": 19.9
+"dps": 378,
+"ttk": 12.7
 }
 ]
 },
@@ -44137,51 +44137,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
 "Lord Dominik's Regards",
-"Stormrazor",
-"The Collector",
-"Bastionbreaker"
+"Infinity Edge",
+"Fiendhunter Bolts",
+"Voltaic Cyclosword",
+"The Collector"
 ],
-"boots": "Gunmetal Greaves",
+"boots": "Immortal Path",
 "keystone": "Lethal Tempo",
 "minors": [
 "Presence of Mind",
-"Legend: Bloodline",
+"Legend: Alacrity",
 "Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
-"Attack Speed Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Ability Haste Shard",
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 144.07,
-"swaps": 12,
+"value": 139.37,
+"swaps": 15,
 "proven": true,
-"omega": 144.1,
+"omega": 139.4,
 "modelled": 0.83,
-"dps": 945,
-"burst": 2876,
-"ehp": 4445,
-"sustain": 36,
+"dps": 934,
+"burst": 2765,
+"ehp": 4759,
+"sustain": 0,
 "utility": 3.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1270,
-"ttk": 2.0
+"dps": 1167,
+"ttk": 2.1
 },
 {
 "t": "Bruiser",
-"dps": 969,
+"dps": 972,
 "ttk": 3.7
 },
 {
 "t": "Tank",
-"dps": 596,
-"ttk": 8.1
+"dps": 663,
+"ttk": 7.2
 }
 ]
 },
@@ -44461,11 +44461,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Infinity Edge",
 "Stormrazor",
-"The Collector",
-"Lord Dominik's Regards"
+"Immortal Shieldbow",
+"Lord Dominik's Regards",
+"Death's Dance"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
@@ -44474,38 +44474,38 @@
 "Legend: Alacrity",
 "Cut Down",
 "Shield Bash",
-"Overgrowth"
+"Bone Plating"
 ],
 "shards": [
 "Health Scaling Shard",
 "Adaptive Force Shard",
 "Attack Speed Shard"
 ],
-"value": 130.72,
-"swaps": 16,
+"value": 131.48,
+"swaps": 18,
 "proven": true,
-"omega": 130.7,
-"modelled": 0.83,
-"dps": 893,
-"burst": 2899,
-"ehp": 8853,
+"omega": 131.5,
+"modelled": 1.0,
+"dps": 862,
+"burst": 2810,
+"ehp": 10137,
 "sustain": 3,
 "utility": 2.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1145,
-"ttk": 2.2
+"dps": 1094,
+"ttk": 2.3
 },
 {
 "t": "Bruiser",
-"dps": 925,
-"ttk": 3.9
+"dps": 893,
+"ttk": 4.0
 },
 {
 "t": "Tank",
-"dps": 609,
-"ttk": 7.9
+"dps": 598,
+"ttk": 8.0
 }
 ]
 },
@@ -44795,49 +44795,49 @@
 "items": [
 "Lord Dominik's Regards",
 "Infinity Edge",
-"Stormrazor",
 "Fiendhunter Bolts",
-"Blade of the Ruined King"
+"Voltaic Cyclosword",
+"The Collector"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "Lethal Tempo",
 "minors": [
 "Triumph",
-"Legend: Bloodline",
+"Legend: Alacrity",
 "Cut Down",
 "Shield Bash",
 "Second Wind"
 ],
 "shards": [
+"Attack Speed Shard",
 "Adaptive Force Shard",
-"Ability Haste Shard",
 "Health Scaling Shard"
 ],
-"value": 130.07,
+"value": 129.06,
 "swaps": 11,
 "proven": true,
-"omega": 130.1,
-"modelled": 0.83,
-"dps": 907,
-"burst": 2364,
+"omega": 129.1,
+"modelled": 0.67,
+"dps": 937,
+"burst": 2630,
 "ehp": 5172,
-"sustain": 91,
+"sustain": 43,
 "utility": 1.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1106,
-"ttk": 2.3
+"dps": 1159,
+"ttk": 2.2
 },
 {
 "t": "Bruiser",
-"dps": 944,
-"ttk": 3.8
+"dps": 975,
+"ttk": 3.7
 },
 {
 "t": "Tank",
-"dps": 670,
-"ttk": 7.2
+"dps": 675,
+"ttk": 7.1
 }
 ]
 },
@@ -45112,18 +45112,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Cryptbloom",
 "Rabadon's Deathcap",
-"Blackfire Torch",
 "Shadowflame",
-"Luden's Echo"
+"Luden's Echo",
+"Cryptbloom",
+"Blackfire Torch"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Cheap Shot",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Gathering Storm",
 "Absolute Focus"
 ],
@@ -45132,31 +45132,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 171.82,
-"swaps": 24,
+"value": 174.45,
+"swaps": 28,
 "proven": true,
-"omega": 171.8,
+"omega": 174.4,
 "modelled": 0.67,
-"dps": 983,
-"burst": 4214,
+"dps": 1003,
+"burst": 4269,
 "ehp": 4586,
 "sustain": 0,
 "utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1312,
+"dps": 1339,
 "ttk": 1.9
 },
 {
 "t": "Bruiser",
-"dps": 1004,
-"ttk": 3.6
+"dps": 1024,
+"ttk": 3.5
 },
 {
 "t": "Tank",
-"dps": 632,
-"ttk": 7.6
+"dps": 645,
+"ttk": 7.4
 }
 ]
 },
@@ -45336,7 +45336,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 115.3,
-"modelled": 0.33,
+"modelled": 0.5,
 "dps": 588,
 "burst": 2502,
 "ehp": 4271,
@@ -45436,10 +45436,10 @@
 "objectives": {
 "omega": {
 "items": [
+"Lord Dominik's Regards",
+"The Collector",
 "Infinity Edge",
 "Stormrazor",
-"The Collector",
-"Lord Dominik's Regards",
 "Bloodthirster"
 ],
 "boots": "Gunmetal Greaves",
@@ -45448,38 +45448,38 @@
 "Triumph",
 "Legend: Bloodline",
 "Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
-"Health Shard"
+"Health Shard",
+"Ability Haste Shard"
 ],
-"value": 174.03,
-"swaps": 18,
+"value": 173.84,
+"swaps": 15,
 "proven": true,
-"omega": 174.0,
+"omega": 173.8,
 "modelled": 0.67,
-"dps": 1420,
-"burst": 2751,
-"ehp": 4410,
-"sustain": 231,
-"utility": 1.2,
+"dps": 1412,
+"burst": 2728,
+"ehp": 4722,
+"sustain": 230,
+"utility": 1.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1856,
-"ttk": 1.3
+"dps": 1832,
+"ttk": 1.4
 },
 {
 "t": "Bruiser",
-"dps": 1464,
+"dps": 1458,
 "ttk": 2.5
 },
 {
 "t": "Tank",
-"dps": 939,
+"dps": 946,
 "ttk": 5.1
 }
 ]
@@ -45764,11 +45764,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
 "Hextech Gunblade",
 "Lord Dominik's Regards",
-"Ravenous Hydra",
-"Infinity Edge"
+"Fiendhunter Bolts",
+"Infinity Edge",
+"Ravenous Hydra"
 ],
 "boots": "Gluttonous Greaves",
 "keystone": "Electrocute",
@@ -45781,14 +45781,14 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
 "value": 131.81,
 "swaps": 14,
 "proven": true,
 "omega": 131.8,
-"modelled": 0.67,
+"modelled": 0.83,
 "dps": 668,
 "burst": 2999,
 "ehp": 4982,
@@ -46085,8 +46085,8 @@
 "items": [
 "Fiendhunter Bolts",
 "Infinity Edge",
-"Lord Dominik's Regards",
 "Stormrazor",
+"Lord Dominik's Regards",
 "Bastionbreaker"
 ],
 "boots": "Gunmetal Greaves",
@@ -46100,11 +46100,11 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Adaptive Force Shard",
-"Health Scaling Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
 "value": 119.98,
-"swaps": 11,
+"swaps": 8,
 "proven": true,
 "omega": 120.0,
 "modelled": 1.0,
@@ -46403,10 +46403,10 @@
 "omega": {
 "items": [
 "Fiendhunter Bolts",
+"Cryptbloom",
 "Lord Dominik's Regards",
 "Blackfire Torch",
-"Luden's Echo",
-"Cryptbloom"
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -46721,11 +46721,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
 "Luden's Echo",
 "Void Staff",
 "Blackfire Torch",
-"Shadowflame"
+"Shadowflame",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -46742,7 +46742,7 @@
 "Health Scaling Shard"
 ],
 "value": 96.97,
-"swaps": 16,
+"swaps": 13,
 "proven": true,
 "omega": 97.0,
 "modelled": 0.83,
@@ -47043,8 +47043,8 @@
 "Cryptbloom",
 "Blackfire Torch",
 "Rabadon's Deathcap",
-"Luden's Echo",
-"Shadowflame"
+"Shadowflame",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -47057,8 +47057,8 @@
 ],
 "shards": [
 "Ability Haste Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
 "value": 155.12,
 "swaps": 17,
@@ -47359,11 +47359,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Blackfire Torch",
+"Luden's Echo",
 "Cryptbloom",
 "Rabadon's Deathcap",
-"Blackfire Torch",
-"Hextech Gunblade",
-"Luden's Echo"
+"Hextech Gunblade"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -47380,7 +47380,7 @@
 "Health Scaling Shard"
 ],
 "value": 108.98,
-"swaps": 14,
+"swaps": 10,
 "proven": true,
 "omega": 109.0,
 "modelled": 0.83,
@@ -47679,10 +47679,10 @@
 "omega": {
 "items": [
 "Fiendhunter Bolts",
-"Blackfire Torch",
-"Luden's Echo",
 "Lord Dominik's Regards",
-"Death's Dance"
+"Blackfire Torch",
+"Death's Dance",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "Electrocute",
@@ -47699,7 +47699,7 @@
 "Health Shard"
 ],
 "value": 151.25,
-"swaps": 24,
+"swaps": 21,
 "proven": true,
 "omega": 151.3,
 "modelled": 1.0,
@@ -47902,7 +47902,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 128.3,
-"modelled": 0.33,
+"modelled": 0.5,
 "dps": 906,
 "burst": 1822,
 "ehp": 4596,
@@ -48002,51 +48002,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
 "Infinity Edge",
-"Voltaic Cyclosword",
 "Essence Reaver",
-"Fiendhunter Bolts"
+"Lord Dominik's Regards",
+"Voltaic Cyclosword",
+"The Collector"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "First Strike",
+"keystone": "Lethal Tempo",
 "minors": [
-"Magical Footwear",
-"Triple Tonic",
-"Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Presence of Mind",
+"Legend: Alacrity",
+"Cut Down",
+"Sudden Impact",
+"Ultimate Hunter"
 ],
 "shards": [
 "Attack Speed Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 121.37,
-"swaps": 10,
+"value": 122.66,
+"swaps": 5,
 "proven": true,
-"omega": 121.4,
-"modelled": 1.0,
-"dps": 803,
-"burst": 2148,
+"omega": 122.7,
+"modelled": 0.83,
+"dps": 819,
+"burst": 2115,
 "ehp": 5047,
 "sustain": 9,
-"utility": 4.9,
+"utility": 5.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 982,
-"ttk": 2.5
+"dps": 1048,
+"ttk": 2.4
 },
 {
 "t": "Bruiser",
-"dps": 833,
-"ttk": 4.3
+"dps": 851,
+"ttk": 4.2
 },
 {
 "t": "Tank",
-"dps": 593,
-"ttk": 8.1
+"dps": 559,
+"ttk": 8.6
 }
 ]
 },
@@ -48330,11 +48330,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
-"Luden's Echo",
-"Blackfire Torch",
 "Void Staff",
-"Shadowflame"
+"Rabadon's Deathcap",
+"Shadowflame",
+"Blackfire Torch",
+"Luden's Echo"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -48342,39 +48342,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Overgrowth"
+"Gathering Storm",
+"Absolute Focus"
 ],
 "shards": [
 "Ability Haste Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 113.19,
-"swaps": 14,
+"value": 116.3,
+"swaps": 13,
 "proven": true,
-"omega": 113.2,
+"omega": 116.3,
 "modelled": 0.83,
-"dps": 556,
-"burst": 3195,
-"ehp": 4654,
+"dps": 575,
+"burst": 3305,
+"ehp": 4339,
 "sustain": 0,
 "utility": 2.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 711,
-"ttk": 3.5
+"dps": 736,
+"ttk": 3.4
 },
 {
 "t": "Bruiser",
-"dps": 581,
-"ttk": 6.2
+"dps": 601,
+"ttk": 6.0
 },
 {
 "t": "Tank",
-"dps": 377,
-"ttk": 12.7
+"dps": 390,
+"ttk": 12.3
 }
 ]
 },
@@ -48649,13 +48649,13 @@
 "objectives": {
 "omega": {
 "items": [
-"Death's Dance",
 "Jak'Sho, The Protean",
+"Death's Dance",
+"Randuin's Omen",
 "Hextech Gunblade",
-"Abyssal Mask",
-"Randuin's Omen"
+"Protoplasm Harness"
 ],
-"boots": "Armored Advance",
+"boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
@@ -48669,31 +48669,31 @@
 "Ability Haste Shard",
 "Adaptive Force Shard"
 ],
-"value": 235.86,
-"swaps": 16,
+"value": 239.54,
+"swaps": 11,
 "proven": true,
-"omega": 235.9,
-"modelled": 0.83,
-"dps": 1112,
-"burst": 4298,
-"ehp": 22427,
-"sustain": 289,
-"utility": 4.6,
+"omega": 239.5,
+"modelled": 1.0,
+"dps": 1181,
+"burst": 4410,
+"ehp": 22711,
+"sustain": 307,
+"utility": 4.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1148,
-"ttk": 2.2
+"dps": 1242,
+"ttk": 2.0
 },
 {
 "t": "Bruiser",
-"dps": 1207,
-"ttk": 3.0
+"dps": 1282,
+"ttk": 2.8
 },
 {
 "t": "Tank",
-"dps": 981,
-"ttk": 4.9
+"dps": 1021,
+"ttk": 4.7
 }
 ]
 },
@@ -48970,9 +48970,9 @@
 "items": [
 "Death's Dance",
 "Jak'Sho, The Protean",
-"Randuin's Omen",
-"Abyssal Mask",
-"Cryptbloom"
+"Protoplasm Harness",
+"Cosmic Drive",
+"Abyssal Mask"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Aftershock",
@@ -48985,34 +48985,34 @@
 ],
 "shards": [
 "Adaptive Force Shard",
-"Health Shard",
-"Ability Haste Shard"
+"Ability Haste Shard",
+"Health Shard"
 ],
-"value": 222.46,
-"swaps": 12,
+"value": 223.25,
+"swaps": 16,
 "proven": true,
-"omega": 222.5,
-"modelled": 0.67,
-"dps": 745,
-"burst": 6406,
-"ehp": 22604,
+"omega": 223.2,
+"modelled": 0.83,
+"dps": 724,
+"burst": 5533,
+"ehp": 23494,
 "sustain": 0,
-"utility": 8.8,
+"utility": 10.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 775,
+"dps": 792,
 "ttk": 3.2
 },
 {
 "t": "Bruiser",
-"dps": 799,
-"ttk": 4.5
+"dps": 776,
+"ttk": 4.6
 },
 {
 "t": "Tank",
-"dps": 662,
-"ttk": 7.2
+"dps": 603,
+"ttk": 8.0
 }
 ]
 },
@@ -49192,7 +49192,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 101.4,
-"modelled": 0.5,
+"modelled": 0.67,
 "dps": 763,
 "burst": 7354,
 "ehp": 4718,
@@ -49293,12 +49293,12 @@
 "omega": {
 "items": [
 "Jak'Sho, The Protean",
-"Randuin's Omen",
+"Protoplasm Harness",
 "Black Cleaver",
-"Maw of Malmortius",
-"Death's Dance"
+"Death's Dance",
+"Trinity Force"
 ],
-"boots": "Spellslinger's Shoes",
+"boots": "Chainlaced Crushers",
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
@@ -49309,34 +49309,34 @@
 ],
 "shards": [
 "Health Scaling Shard",
-"Health Shard",
+"Adaptive Force Shard",
 "Ability Haste Shard"
 ],
-"value": 208.14,
-"swaps": 13,
+"value": 206.67,
+"swaps": 14,
 "proven": true,
-"omega": 208.1,
-"modelled": 1.0,
-"dps": 564,
-"burst": 1633,
-"ehp": 22660,
-"sustain": 371,
-"utility": 3.0,
+"omega": 206.7,
+"modelled": 0.83,
+"dps": 556,
+"burst": 1397,
+"ehp": 22582,
+"sustain": 366,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 660,
-"ttk": 3.8
+"dps": 642,
+"ttk": 3.9
 },
 {
 "t": "Bruiser",
-"dps": 597,
-"ttk": 6.0
+"dps": 589,
+"ttk": 6.1
 },
 {
 "t": "Tank",
-"dps": 434,
-"ttk": 11.1
+"dps": 436,
+"ttk": 11.0
 }
 ]
 },
@@ -49623,48 +49623,48 @@
 "Lord Dominik's Regards",
 "Infinity Edge",
 "Fiendhunter Bolts",
-"Stormrazor",
-"Blade of the Ruined King"
+"Voltaic Cyclosword",
+"The Collector"
 ],
-"boots": "Immortal Path",
+"boots": "Gunmetal Greaves",
 "keystone": "First Strike",
 "minors": [
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Overgrowth"
+"Coup de Grace",
+"Legend: Alacrity"
 ],
 "shards": [
-"Attack Speed Shard",
+"Ability Haste Shard",
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 142.53,
-"swaps": 15,
+"value": 155.34,
+"swaps": 16,
 "proven": true,
-"omega": 142.5,
-"modelled": 1.0,
-"dps": 918,
-"burst": 3298,
-"ehp": 5178,
-"sustain": 27,
-"utility": 2.5,
+"omega": 155.3,
+"modelled": 0.83,
+"dps": 1017,
+"burst": 3635,
+"ehp": 4827,
+"sustain": 15,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1117,
-"ttk": 2.2
+"dps": 1257,
+"ttk": 2.0
 },
 {
 "t": "Bruiser",
-"dps": 955,
-"ttk": 3.8
+"dps": 1058,
+"ttk": 3.4
 },
 {
 "t": "Tank",
-"dps": 680,
-"ttk": 7.1
+"dps": 736,
+"ttk": 6.5
 }
 ]
 },
@@ -49948,51 +49948,51 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
+"The Collector",
 "Lord Dominik's Regards",
 "Blade of the Ruined King",
-"The Collector",
-"Voltaic Cyclosword"
+"Stormrazor",
+"Infinity Edge"
 ],
 "boots": "Immortal Path",
 "keystone": "Lethal Tempo",
 "minors": [
 "Triumph",
-"Legend: Alacrity",
+"Legend: Bloodline",
 "Cut Down",
-"Sudden Impact",
-"Ultimate Hunter"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
 "Adaptive Force Shard",
-"Health Scaling Shard",
-"Health Shard"
+"Attack Speed Shard",
+"Health Scaling Shard"
 ],
-"value": 159.38,
-"swaps": 11,
+"value": 160.51,
+"swaps": 12,
 "proven": true,
-"omega": 159.4,
+"omega": 160.5,
 "modelled": 0.83,
-"dps": 1135,
-"burst": 2460,
-"ehp": 4694,
-"sustain": 42,
-"utility": 0.8,
+"dps": 1095,
+"burst": 2566,
+"ehp": 4895,
+"sustain": 71,
+"utility": 0.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1386,
+"dps": 1367,
 "ttk": 1.8
 },
 {
 "t": "Bruiser",
-"dps": 1191,
-"ttk": 3.0
+"dps": 1140,
+"ttk": 3.2
 },
 {
 "t": "Tank",
-"dps": 826,
-"ttk": 5.8
+"dps": 777,
+"ttk": 6.2
 }
 ]
 },
@@ -50272,11 +50272,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
-"Blackfire Torch",
-"Luden's Echo",
 "Cryptbloom",
-"Shadowflame"
+"Blackfire Torch",
+"Shadowflame",
+"Luden's Echo",
+"Rabadon's Deathcap"
 ],
 "boots": "Spellslinger's Shoes",
 "keystone": "First Strike",
@@ -50293,7 +50293,7 @@
 "Health Scaling Shard"
 ],
 "value": 101.98,
-"swaps": 15,
+"swaps": 11,
 "proven": true,
 "omega": 102.0,
 "modelled": 0.67,
@@ -50591,10 +50591,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Voltaic Cyclosword",
-"Lord Dominik's Regards",
 "Infinity Edge",
 "Fiendhunter Bolts",
+"Voltaic Cyclosword",
+"Lord Dominik's Regards",
 "Essence Reaver"
 ],
 "boots": "Gunmetal Greaves",
@@ -50603,39 +50603,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Coup de Grace",
-"Legend: Alacrity"
+"Shield Bash",
+"Overgrowth"
 ],
 "shards": [
-"Ability Haste Shard",
+"Attack Speed Shard",
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 143.6,
-"swaps": 21,
+"value": 134.28,
+"swaps": 15,
 "proven": true,
-"omega": 143.6,
+"omega": 134.3,
 "modelled": 1.0,
-"dps": 851,
-"burst": 2942,
-"ehp": 4900,
-"sustain": 11,
-"utility": 7.3,
+"dps": 777,
+"burst": 2806,
+"ehp": 5239,
+"sustain": 10,
+"utility": 6.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1042,
-"ttk": 2.4
+"dps": 951,
+"ttk": 2.6
 },
 {
 "t": "Bruiser",
-"dps": 884,
-"ttk": 4.1
+"dps": 807,
+"ttk": 4.5
 },
 {
 "t": "Tank",
-"dps": 628,
-"ttk": 7.6
+"dps": 573,
+"ttk": 8.4
 }
 ]
 },
@@ -50915,18 +50915,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Fiendhunter Bolts",
 "Infinity Edge",
 "Lord Dominik's Regards",
 "Bastionbreaker",
+"Fiendhunter Bolts",
 "Umbral Glaive"
 ],
 "boots": "Immortal Path",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Sudden Impact",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -50935,26 +50935,26 @@
 "Health Scaling Shard",
 "Adaptive Force Shard"
 ],
-"value": 130.01,
-"swaps": 12,
+"value": 129.38,
+"swaps": 9,
 "proven": true,
-"omega": 130.0,
+"omega": 129.4,
 "modelled": 1.0,
-"dps": 706,
-"burst": 3121,
+"dps": 691,
+"burst": 3158,
 "ehp": 5316,
 "sustain": 0,
-"utility": 3.8,
+"utility": 3.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 886,
-"ttk": 2.8
+"dps": 855,
+"ttk": 2.9
 },
 {
 "t": "Bruiser",
-"dps": 718,
-"ttk": 5.0
+"dps": 703,
+"ttk": 5.1
 },
 {
 "t": "Tank",
@@ -51237,7 +51237,7 @@
 "Jak'Sho, The Protean",
 "Death's Dance",
 "Randuin's Omen",
-"Heartsteel",
+"Protoplasm Harness",
 "Lord Dominik's Regards"
 ],
 "boots": "Spellslinger's Shoes",
@@ -51254,31 +51254,31 @@
 "Ability Haste Shard",
 "Health Shard"
 ],
-"value": 191.74,
-"swaps": 14,
+"value": 195.08,
+"swaps": 13,
 "proven": true,
-"omega": 191.7,
+"omega": 195.1,
 "modelled": 1.0,
-"dps": 477,
+"dps": 524,
 "burst": 4195,
 "ehp": 22672,
 "sustain": 0,
-"utility": 4.3,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 535,
-"ttk": 4.7
+"dps": 583,
+"ttk": 4.3
 },
 {
 "t": "Bruiser",
-"dps": 509,
-"ttk": 7.1
+"dps": 561,
+"ttk": 6.4
 },
 {
 "t": "Tank",
-"dps": 386,
-"ttk": 12.4
+"dps": 429,
+"ttk": 11.2
 }
 ]
 },
@@ -51458,7 +51458,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 110.1,
-"modelled": 0.33,
+"modelled": 0.5,
 "dps": 612,
 "burst": 4900,
 "ehp": 4546,
@@ -51553,10 +51553,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Rabadon's Deathcap",
 "Shadowflame",
-"Luden's Echo",
 "Cryptbloom",
+"Luden's Echo",
+"Rabadon's Deathcap",
 "Blackfire Torch"
 ],
 "boots": "Spellslinger's Shoes",
@@ -51574,7 +51574,7 @@
 "Adaptive Force Shard"
 ],
 "value": 88.31,
-"swaps": 14,
+"swaps": 16,
 "proven": true,
 "omega": 88.3,
 "modelled": 0.67,
@@ -51884,10 +51884,10 @@
 "Death's Dance",
 "Jak'Sho, The Protean",
 "Randuin's Omen",
-"Black Cleaver",
-"Cryptbloom"
+"Cosmic Drive",
+"Black Cleaver"
 ],
-"boots": "Chainlaced Crushers",
+"boots": "Spellslinger's Shoes",
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
@@ -51898,34 +51898,34 @@
 ],
 "shards": [
 "Health Scaling Shard",
-"Health Shard",
+"Adaptive Force Shard",
 "Ability Haste Shard"
 ],
-"value": 231.98,
-"swaps": 15,
+"value": 232.15,
+"swaps": 22,
 "proven": true,
-"omega": 232.0,
-"modelled": 0.67,
-"dps": 965,
-"burst": 5892,
-"ehp": 22523,
+"omega": 232.2,
+"modelled": 1.0,
+"dps": 968,
+"burst": 5745,
+"ehp": 23087,
 "sustain": 21,
-"utility": 3.1,
+"utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 938,
-"ttk": 2.7
+"dps": 1012,
+"ttk": 2.5
 },
 {
 "t": "Bruiser",
-"dps": 1045,
+"dps": 1052,
 "ttk": 3.4
 },
 {
 "t": "Tank",
-"dps": 911,
-"ttk": 5.3
+"dps": 841,
+"ttk": 5.7
 }
 ]
 },
@@ -52105,7 +52105,7 @@
 "swaps": 1,
 "proven": true,
 "omega": 102.4,
-"modelled": 0.17,
+"modelled": 0.33,
 "dps": 1018,
 "burst": 6397,
 "ehp": 4768,
@@ -52206,8 +52206,8 @@
 "omega": {
 "items": [
 "Lord Dominik's Regards",
-"Stormrazor",
 "Infinity Edge",
+"Stormrazor",
 "Blade of the Ruined King",
 "Essence Reaver"
 ],
@@ -52226,7 +52226,7 @@
 "Adaptive Force Shard"
 ],
 "value": 109.03,
-"swaps": 9,
+"swaps": 15,
 "proven": true,
 "omega": 109.0,
 "modelled": 1.0,
@@ -52533,10 +52533,10 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Fiendhunter Bolts",
-"Infinity Edge",
+"Axiom Arc",
 "Bastionbreaker",
+"Infinity Edge",
+"Lord Dominik's Regards",
 "Umbral Glaive"
 ],
 "boots": "Gunmetal Greaves",
@@ -52545,39 +52545,39 @@
 "Magical Footwear",
 "Triple Tonic",
 "Cosmic Insight",
-"Shield Bash",
-"Overgrowth"
+"Sudden Impact",
+"Ultimate Hunter"
 ],
 "shards": [
 "Ability Haste Shard",
-"Health Scaling Shard",
-"Adaptive Force Shard"
+"Adaptive Force Shard",
+"Health Scaling Shard"
 ],
-"value": 120.54,
-"swaps": 11,
+"value": 121.7,
+"swaps": 10,
 "proven": true,
-"omega": 120.5,
-"modelled": 1.0,
-"dps": 547,
-"burst": 3398,
-"ehp": 5964,
+"omega": 121.7,
+"modelled": 0.83,
+"dps": 518,
+"burst": 3552,
+"ehp": 5599,
 "sustain": 4,
-"utility": 3.7,
+"utility": 4.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 705,
+"dps": 716,
 "ttk": 3.5
 },
 {
 "t": "Bruiser",
-"dps": 561,
-"ttk": 6.4
+"dps": 527,
+"ttk": 6.8
 },
 {
 "t": "Tank",
-"dps": 376,
-"ttk": 12.8
+"dps": 312,
+"ttk": 15.4
 }
 ]
 },
@@ -52858,8 +52858,8 @@
 "omega": {
 "items": [
 "Jak'Sho, The Protean",
-"Death's Dance",
 "Randuin's Omen",
+"Death's Dance",
 "Abyssal Mask",
 "Cryptbloom"
 ],
@@ -52878,7 +52878,7 @@
 "Adaptive Force Shard"
 ],
 "value": 189.96,
-"swaps": 13,
+"swaps": 17,
 "proven": true,
 "omega": 190.0,
 "modelled": 0.83,
@@ -53177,8 +53177,8 @@
 "omega": {
 "items": [
 "Jak'Sho, The Protean",
-"Randuin's Omen",
 "Death's Dance",
+"Randuin's Omen",
 "Protoplasm Harness",
 "Lord Dominik's Regards"
 ],
@@ -53186,7 +53186,7 @@
 "keystone": "Aftershock",
 "minors": [
 "Shield Bash",
-"Bone Plating",
+"Second Wind",
 "Overgrowth",
 "Sudden Impact",
 "Ultimate Hunter"
@@ -53194,33 +53194,33 @@
 "shards": [
 "Health Scaling Shard",
 "Ability Haste Shard",
-"Health Shard"
+"Adaptive Force Shard"
 ],
-"value": 129.03,
-"swaps": 10,
+"value": 129.55,
+"swaps": 15,
 "proven": true,
-"omega": 129.0,
-"modelled": 0.67,
-"dps": 396,
-"burst": 712,
-"ehp": 22754,
-"sustain": 0,
+"omega": 129.5,
+"modelled": 0.83,
+"dps": 399,
+"burst": 726,
+"ehp": 22626,
+"sustain": 3,
 "utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 434,
-"ttk": 5.8
+"dps": 438,
+"ttk": 5.7
 },
 {
 "t": "Bruiser",
-"dps": 424,
-"ttk": 8.5
+"dps": 427,
+"ttk": 8.4
 },
 {
 "t": "Tank",
-"dps": 332,
-"ttk": 14.5
+"dps": 334,
+"ttk": 14.4
 }
 ]
 },
@@ -53495,18 +53495,18 @@
 "objectives": {
 "omega": {
 "items": [
-"Infinity Edge",
 "Lord Dominik's Regards",
+"Infinity Edge",
 "Stormrazor",
 "Blade of the Ruined King",
-"The Collector"
+"Fiendhunter Bolts"
 ],
 "boots": "Gunmetal Greaves",
-"keystone": "Lethal Tempo",
+"keystone": "First Strike",
 "minors": [
-"Triumph",
-"Legend: Alacrity",
-"Cut Down",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -53515,31 +53515,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 141.47,
-"swaps": 13,
+"value": 123.5,
+"swaps": 14,
 "proven": true,
-"omega": 141.5,
-"modelled": 0.83,
-"dps": 958,
-"burst": 2561,
+"omega": 123.5,
+"modelled": 1.0,
+"dps": 755,
+"burst": 2580,
 "ehp": 4917,
-"sustain": 47,
+"sustain": 34,
 "utility": 1.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1196,
-"ttk": 2.1
+"dps": 922,
+"ttk": 2.7
 },
 {
 "t": "Bruiser",
-"dps": 998,
-"ttk": 3.6
+"dps": 786,
+"ttk": 4.6
 },
 {
 "t": "Tank",
-"dps": 682,
-"ttk": 7.0
+"dps": 558,
+"ttk": 8.6
 }
 ]
 },
@@ -53815,17 +53815,17 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Rabadon's Deathcap",
-"Shadowflame",
+"Cryptbloom",
 "Luden's Echo",
-"Cryptbloom"
+"Rabadon's Deathcap",
+"Shadowflame"
 ],
 "boots": "Spellslinger's Shoes",
-"keystone": "Electrocute",
+"keystone": "First Strike",
 "minors": [
-"Cheap Shot",
-"Sixth Sense",
-"Ultimate Hunter",
+"Magical Footwear",
+"Triple Tonic",
+"Cosmic Insight",
 "Shield Bash",
 "Overgrowth"
 ],
@@ -53834,31 +53834,31 @@
 "Adaptive Force Shard",
 "Health Scaling Shard"
 ],
-"value": 129.98,
-"swaps": 18,
+"value": 129.71,
+"swaps": 16,
 "proven": true,
-"omega": 130.0,
+"omega": 129.7,
 "modelled": 0.67,
-"dps": 773,
-"burst": 2825,
+"dps": 774,
+"burst": 2812,
 "ehp": 4886,
 "sustain": 0,
 "utility": 4.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 1032,
+"dps": 1033,
 "ttk": 2.4
 },
 {
 "t": "Bruiser",
-"dps": 789,
+"dps": 790,
 "ttk": 4.6
 },
 {
 "t": "Tank",
-"dps": 497,
-"ttk": 9.7
+"dps": 498,
+"ttk": 9.6
 }
 ]
 },
@@ -54133,11 +54133,11 @@
 "objectives": {
 "omega": {
 "items": [
+"Cryptbloom",
 "Rabadon's Deathcap",
 "Blackfire Torch",
-"Cryptbloom",
-"Archangel's Staff",
-"Hextech Gunblade"
+"Hextech Gunblade",
+"Archangel's Staff"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "Fleet Footwork",
@@ -54154,7 +54154,7 @@
 "Health Scaling Shard"
 ],
 "value": 51.06,
-"swaps": 6,
+"swaps": 7,
 "proven": true,
 "omega": 51.1,
 "modelled": 0.67,
@@ -54452,9 +54452,9 @@
 "objectives": {
 "omega": {
 "items": [
+"Void Staff",
 "Fiendhunter Bolts",
 "Lord Dominik's Regards",
-"Void Staff",
 "Luden's Echo",
 "Blackfire Torch"
 ],
@@ -54473,7 +54473,7 @@
 "Adaptive Force Shard"
 ],
 "value": 114.69,
-"swaps": 16,
+"swaps": 15,
 "proven": true,
 "omega": 114.7,
 "modelled": 1.0,
@@ -54777,9 +54777,9 @@
 "omega": {
 "items": [
 "Blackfire Torch",
-"Shadowflame",
-"Luden's Echo",
 "Rabadon's Deathcap",
+"Luden's Echo",
+"Shadowflame",
 "Void Staff"
 ],
 "boots": "Spellslinger's Shoes",
@@ -54797,7 +54797,7 @@
 "Health Scaling Shard"
 ],
 "value": 79.84,
-"swaps": 13,
+"swaps": 9,
 "proven": true,
 "omega": 79.8,
 "modelled": 0.83,
