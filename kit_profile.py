@@ -86,8 +86,11 @@ def auto_uptime(name, ranged=None):
     p = kit_profile(name)
     r = p['auto_reliance']
     base = 0.90 if (CH[name]['stats']['range'] >= 350 if ranged is None else ranged) else 0.75
-    # floor 0.18 (you auto between casts), ceiling `base` (a true auto-attacker)
-    return round(0.18 + (base - 0.18) * (r ** 1.35), 3)
+    # floor 0.06 (a caster throws the odd auto, no more), ceiling `base` (a true auto-attacker).
+    # The exponent 1.7 makes the curve steep: only genuinely auto-reliant kits get meaningful auto
+    # value. The old 0.18 floor / 1.35 exponent had Ahri "auto-attacking" 22% of a fight, which made
+    # 35 AD + 25% crit items score well on pure mages and converged half the roster onto them.
+    return round(0.06 + (base - 0.06) * (r ** 1.7), 3)
 
 
 # ---------- OMEGA: the kit-weighted composite ("maximize THIS champion") ----------

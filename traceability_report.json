@@ -1,0 +1,17 @@
+{
+ "ability cooldowns": {
+  "checks": 144,
+  "ok": 144,
+  "mismatches": []
+ },
+ "item base stats": {
+  "checks": 86,
+  "ok": 86,
+  "mismatches": []
+ },
+ "item gold cost": {
+  "checks": 22,
+  "ok": 22,
+  "mismatches": []
+ }
+}

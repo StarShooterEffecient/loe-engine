@@ -13,10 +13,18 @@ we no longer have to assume which damage sources proc which items — the wiki t
 Also acts as a THIRD authority on damage TYPE, cross-validated against the ability templates.
 Output: damage_dna.json + a conflict report (never silently reconciled).
 """
-import re, json, sqlite3
+import re, json, sqlite3, sys
 
 cx = sqlite3.connect('wiki.db'); C = cx.cursor()
-DD = C.execute("SELECT text FROM pages WHERE title='Module:DamageData/data'").fetchone()[0]
+_row = C.execute("SELECT text FROM pages WHERE title='Module:DamageData/data'").fetchone()
+if _row is None:
+    sys.stderr.write(
+        "FATAL: 'Module:DamageData/data' is not in wiki.db.\n"
+        "The mirror did not fetch it. Run mirror_fetch.py (it lists this in CRITICAL_PAGES) "
+        "before this stage. Damage typing depends on it, so the pipeline stops rather than "
+        "produce builds with unknown damage types.\n")
+    sys.exit(2)
+DD = _row[0]
 
 def lua_flags(body):
     return {k: (v == 'true') for k, v in re.findall(r'\["(\w+)"\]\s*=\s*(true|false)', body)}
