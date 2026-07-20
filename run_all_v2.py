@@ -10,7 +10,15 @@ import os
 # actually reflect fresh wiki data rather than a shipped file.
 def data_fingerprint():
     h = hashlib.sha256()
+    # DATA: if the wiki changed, results must be recomputed.
     for f in ('champion_dna.json', 'item_dna.json', 'rune_dna.json', 'damage_dna.json'):
+        if os.path.exists(f):
+            h.update(open(f, 'rb').read())
+    # CODE: if the MODEL changed, results must ALSO be recomputed. Without this, improving the
+    # combat model or item effects silently reuses stale builds — the wiki hadn't changed, so the
+    # old fingerprint matched and the engine skipped the work it was just told to redo.
+    for f in ('combat.py', 'kit_profile.py', 'item_effects.py', 'rune_effects.py',
+              'optimizer.py', 'frontier.py', 'core.py', 'item_groups.py', 'named_effects.py'):
         if os.path.exists(f):
             h.update(open(f, 'rb').read())
     return h.hexdigest()[:16]
