@@ -48,7 +48,16 @@ def kit_profile(name):
             v = rec['values'][4] if isinstance(rec, dict) else rec
             as_amp = max(as_amp, v)
     if as_amp: auto_sig += 1.5 + min(1.5, as_amp / 40.0)
-    if any('reset' in (a.get('tags') or []) for a in ab.values()): auto_sig += 1.5
+    # An attack RESET only counts if the ability actually involves attacking (Riven Q, Nasus Q).
+    # Seraphine's passive/ult carry a 'reset' tag for ability echoes, not auto-attack resets —
+    # crediting those made a support mage look ~40% auto-reliant and bought her AS/crit items.
+    def real_attack_reset(a):
+        tags = a.get('tags') or []
+        if 'reset' not in tags: return False
+        return bool(a.get('triggers_onhit') or a.get('onhit_flag')
+                    or (a.get('ad_total') or 0) or (a.get('ad_bonus') or 0)
+                    or 'on_hit' in tags)
+    if any(real_attack_reset(a) for a in ab.values()): auto_sig += 1.5
     # ChampionData: a kit built to auto-attack grows attack speed
     auto_sig += min(1.5, s['as_lvl'] / 3.0)
     # total-AD scaling means items bought for autos also feed the kit
@@ -59,6 +68,14 @@ def kit_profile(name):
     ability_sig = 0.0
     ratio_mass = sum((a.get('ap', 0) or 0) + (a.get('ad_total', 0) or 0) + (a.get('ad_bonus', 0) or 0)
                      + 6.0 * (a.get('max_hp', 0) or 0) for k, a in ab.items() if k != 'I')
+    # Heal and shield AP scaling is ability power the kit genuinely uses. Ignoring it made enchanters
+    # and support mages (Seraphine, Soraka, Lulu) look far less ability-reliant than they are.
+    for k, a in ab.items():
+        if k == 'I': continue
+        ratio_mass += (a.get('heal_ap', 0) or 0) + (a.get('heal_ad', 0) or 0)
+        for e in (a.get('effects') or []):
+            if e.get('kind') in ('SHIELD', 'SUSTAIN'):
+                ratio_mass += (e.get('ap', 0) or 0) + (e.get('ad_total', 0) or 0)
     ability_sig += min(4.0, ratio_mass * 1.1)
     cds = [a['cd'][4] for k, a in ab.items() if k in 'QWE' and a.get('cd')]
     if cds:
@@ -131,3 +148,90 @@ if __name__ == '__main__':
         p = kit_profile(nm); u = auto_uptime(nm); w = omega_weights(nm)
         ws = ' '.join(f'{k[:3]}{v:.2f}' for k, v in w.items())
         print(f'{nm:14s} {p["auto_signal"]:6.2f} {p["ability_signal"]:6.2f} {p["auto_reliance"]:9.2f} {u:7.2f}   {ws}')
+
+
+# ---------------------------------------------------------------------------
+# STAT AFFINITY — how much of a stat this champion's KIT can actually convert
+# into output, derived entirely from DNA (no meta, no hand-authored per-champion lists).
+#
+# Used as a SOFT modifier on the Omega (identity-fit) score only. Raw dps/burst/ehp stay
+# pure math, so a genuinely strong off-kit build still shows up on those objectives and on
+# the frontier. Nothing is ever removed from the pool — off-kit items are simply worth less
+# to a kit that cannot cash them in, and on-kit items are worth a little more.
+# ---------------------------------------------------------------------------
+FLOOR = 0.15          # even a "useless" stat keeps this much value — never zero, never banned
+
+
+def _clamp(v, lo=FLOOR, hi=1.0):
+    return max(lo, min(hi, v))
+
+
+def stat_affinity(name):
+    c = CH[name]; ab = c['abilities']; s = c['stats']
+    p = kit_profile(name)
+    up = auto_uptime(name)
+
+    # --- how much the kit scales with each damage source ---
+    ap_mass = sum(a.get('ap', 0) or 0 for a in ab.values())
+    ap_mass += sum((a.get('heal_ap', 0) or 0) for a in ab.values())
+    for a in ab.values():
+        for e in (a.get('effects') or []):
+            if e.get('kind') in ('SHIELD', 'SUSTAIN'):
+                ap_mass += e.get('ap', 0) or 0
+    ad_mass = sum((a.get('ad_total', 0) or 0) + (a.get('ad_bonus', 0) or 0) for a in ab.values())
+    hp_mass = sum(a.get('max_hp', 0) or 0 for a in ab.values())
+    onhit = p.get('onhit_abilities', 0)
+
+    # --- ability haste: worth more to short-cooldown kits and ult-centric kits ---
+    cds = [a['cd'][4] for k, a in ab.items() if k in 'QWE' and a.get('cd')]
+    mean_cd = (sum(cds) / len(cds)) if cds else 12.0
+    r_cd = ((ab.get('R') or {}).get('cd') or [100.0])[-1] or 100.0
+    ult_centric = _clamp((140.0 - r_cd) / 100.0, 0.2, 1.0)
+
+    # --- mana: only matters if the kit actually spends it ---
+    costs = [max(a.get('cost') or [0]) for a in ab.values() if a.get('cost')]
+    mana_use = _clamp((sum(costs) / max(len(costs), 1)) / 90.0, 0.2, 1.0) if costs else 0.2
+
+    aff = {
+        # AP is worth what the kit's ability/heal/shield ratios can convert
+        'ap':        _clamp(0.25 + 0.75 * min(1.0, ap_mass / 2.0)),
+        # AD serves both ability AD-scaling and auto-attacks
+        'ad':        _clamp(0.20 + 0.55 * min(1.0, ad_mass / 2.0) + 0.45 * up),
+        # attack speed only pays out through attacking (and on-hit ability kits love it)
+        'as':        _clamp(0.10 + 0.75 * up + 0.25 * min(1.0, onhit / 2.0)),
+        # crit ONLY applies to basic attacks — a caster cannot use it at all
+        'crit':      _clamp(0.06 + 0.94 * up),
+        'lifesteal': _clamp(0.06 + 0.94 * up),
+        # penetration follows the damage type the kit actually deals
+        'armpen':    _clamp(0.15 + 0.50 * min(1.0, ad_mass / 2.0) + 0.40 * up),
+        'lethality': _clamp(0.15 + 0.50 * min(1.0, ad_mass / 2.0) + 0.40 * up),
+        'mpen':      _clamp(0.20 + 0.80 * min(1.0, ap_mass / 2.0)),
+        # durability is useful to everyone, more so to HP-scaling kits
+        'hp':        _clamp(0.45 + 0.55 * min(1.0, hp_mass * 4.0)),
+        'armor':     _clamp(0.50 + 0.30 * min(1.0, hp_mass * 4.0)),
+        'mr':        _clamp(0.50 + 0.30 * min(1.0, hp_mass * 4.0)),
+        # haste: short cooldowns and big ultimates both want it
+        'ah':        _clamp(0.35 + 0.40 * _clamp((16.0 - mean_cd) / 10.0, 0.0, 1.0) + 0.35 * ult_centric),
+        'mana':      _clamp(0.15 + 0.85 * mana_use),
+        'ms':        0.55,
+        'hsp':       _clamp(0.15 + 0.85 * min(1.0, sum((a.get('heal_ap', 0) or 0) for a in ab.values()) * 3)),
+    }
+    return {k: round(v, 3) for k, v in aff.items()}
+
+
+def build_affinity(name, item_stats):
+    """Gold-weighted average affinity of a build's stat allocation: 0..1.
+    item_stats is a dict of stat -> total amount across the build."""
+    aff = stat_affinity(name)
+    # rough gold-per-point so big-ticket stats dominate the average sensibly
+    GOLD = dict(ap=20.0, ad=35.0, **{'as': 25.0}, crit=40.0, hp=2.7, armor=20.0, mr=20.0,
+                ah=26.7, mana=4.0, ms=30.0, lifesteal=40.0, armpen=41.7, lethality=35.0,
+                mpen=35.0, hsp=20.0)
+    num = den = 0.0
+    for stat, amount in (item_stats or {}).items():
+        if not amount:
+            continue
+        g = GOLD.get(stat, 15.0) * abs(amount)
+        num += g * aff.get(stat, 0.5)
+        den += g
+    return (num / den) if den else 1.0

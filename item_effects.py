@@ -196,8 +196,22 @@ def compile_item(name):
         # Modeling the family once benefits every item that shares it (Lich Bane/Iceborn/Dusk = Spellblade).
         ename = (e.get('name') or '').lower()
         if not made:
+            # ULTIMATE HASTE (Malignance "Scorn": "Gain 20 ultimate haste"). Previously dropped
+            # entirely — which is why Malignance never scored on champions built around their ult.
+            uh = re.search(r'([\d.]+)\s*(?:</?[^>]*>)?\s*(?:haste[#\s]*)?ultimate haste', text, re.I) \
+                 or re.search(r'gain\s+([\d.]+)[^.]{0,25}ultimate haste', text, re.I)
+            if uh:
+                nodes.append(dict(item=name, name=e['name'], source='family:ult_haste',
+                                  hook='ALWAYS', op='ult_haste', value=float(uh.group(1))))
+                made = True
+            # generic ABILITY HASTE granted by a passive (not the flat 'ah' stat, which is separate)
+            elif re.search(r'gain\s+([\d.]+)\s+ability haste', text, re.I):
+                ah = re.search(r'gain\s+([\d.]+)\s+ability haste', text, re.I)
+                nodes.append(dict(item=name, name=e['name'], source='family:haste',
+                                  hook='ALWAYS', op='grant_ah', value=float(ah.group(1))))
+                made = True
             # SPELLBLADE: after an ability, next attack deals bonus on-hit (base-AD + AP scaling)
-            if 'spellblade' in ename or ('next basic attack' in text.lower() and 'ability' in text.lower()):
+            elif 'spellblade' in ename or ('next basic attack' in text.lower() and 'ability' in text.lower()):
                 base_ad = re.search(r'([\d.]+)\s*%\s*base\s*AD', text, re.I)
                 ap = re.search(r'\+\s*([\d.]+)\s*%\s*AP', text, re.I)
                 if base_ad or ap:

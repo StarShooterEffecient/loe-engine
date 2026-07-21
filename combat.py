@@ -86,7 +86,7 @@ def resolve_items(pieces, st, base, kit):
     nodes = IE.build_nodes(pieces) + RE.rune_nodes(pieces)
     d = dict(shred_ar=0.0, shred_mr=0.0, amp=1.0, amp_magic=1.0, amp_vs_hp=0.0,
              crit_dmg=0.0, ehp_mult=1.0, shield=0.0, heal_ps=0.0,
-             onhit=[], onability=[], regen=0.0, mult_ap=1.0, procs=[], antiheal=0.0)
+             onhit=[], onability=[], regen=0.0, mult_ap=1.0, procs=[], antiheal=0.0, ult_haste=0.0)
     # PASS 1: conversions (mana->AP etc). They must land BEFORE the multipliers.
     for n in nodes:
         if n['op'] == 'convert':
@@ -145,6 +145,10 @@ def resolve_items(pieces, st, base, kit):
             d['shield'] += st['HP'] * 0.06          # blocks one ability ~ a modest effective-HP buffer
         elif op == 'antiheal':
             d['antiheal'] = n['value']              # utility: reduces enemy healing (tracked, not damage)
+        elif op == 'ult_haste':
+            d['ult_haste'] += n['value']            # more frequent ultimates (Malignance, Hexplate)
+        elif op == 'grant_ah':
+            st['AH'] += n['value']                  # passive-granted ability haste
         elif op == 'damage_reduction':
             d['ehp_mult'] *= 1 / (1 - n['value'])
         elif op == 'crit_reduction':
@@ -279,7 +283,14 @@ def simulate(name, pieces, L=18):
             mana_scale = min(1.0, budget / ab_cost)
             ab_dmg *= mana_scale
             cast_time_used *= mana_scale
-        ability_dps = (ab_dmg + ULT_CASTS * ult) / WINDOW
+        # ULTIMATE FREQUENCY (GAME): ultimate haste shortens R's cooldown, so a kit built around its
+        # ult gets measurably more of it. This was hardcoded at 1 cast, which meant ultimate haste
+        # (Malignance's whole purpose) contributed literally nothing and such items never scored.
+        r_ab = core.CH[name]['abilities'].get('R') or {}
+        r_cd = (r_ab.get('cd') or [100.0])[-1] or 100.0
+        eff_r_cd = r_cd / (1.0 + (st['AH'] + FX['ult_haste']) / 100.0)
+        ult_casts = ULT_CASTS + max(0.0, WINDOW / max(eff_r_cd, 1.0))
+        ability_dps = (ab_dmg + ult_casts * ult) / WINDOW
 
         # TIME BUDGET (GAME): time spent casting is time NOT spent auto-attacking.
         # This is why an ability-centric kit cannot also auto at full rate — and why it should
@@ -352,6 +363,23 @@ def simulate(name, pieces, L=18):
     raw = dict(dps=mean_dps, burst=sum(t['burst'] for t in per_target) / 3,
                ehp=ehp, sustain=sustain, utility=utility)
     omega = sum(W[k] * min(2.5, raw[k] / REF[k]) for k in W) * 100
+
+    # ---- KIT AFFINITY (DNA): how much of what this build BUYS can the kit actually use? ----
+    # Applied to Omega only — the "is this build right for this champion" score. Raw dps/burst/ehp
+    # stay pure math, so a genuinely strong off-kit build still shows on those objectives and on the
+    # frontier. Off-kit stats are worth less, never nothing: the multiplier floors at AFF_FLOOR, so
+    # no item is banned and surprising builds remain discoverable.
+    bought = {}
+    for p in pieces:
+        for k, v in (IT.get(p, {}).get('stats') or {}).items():
+            bought[k] = bought.get(k, 0.0) + v
+    affinity = KP.build_affinity(name, bought)
+    # Real builds land roughly in 0.50 (heavily off-kit) .. 0.95 (perfectly on-kit). Normalise across
+    # that band so the modifier actually discriminates, then floor it: the worst off-kit build still
+    # keeps AFF_FLOOR of its Omega, so nothing is banned — only ranked lower.
+    AFF_FLOOR = 0.70
+    norm = max(0.0, min(1.0, (affinity - 0.50) / 0.45))
+    omega *= AFF_FLOOR + (1.0 - AFF_FLOOR) * norm
 
     return dict(
         omega=omega, omega_weights=W,
