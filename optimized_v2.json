@@ -1,5 +1,5 @@
 {
-"_fingerprint": "5c0e79a98fc0d08f",
+"_fingerprint": "1025866f2565afa9",
 "Aatrox": {
 "objectives": {
 "omega": {
@@ -166,8 +166,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -177,12 +177,12 @@
 "value": 33891.45,
 "swaps": 0,
 "proven": true,
-"omega": 60.2,
+"omega": 60.0,
 "modelled": 0.67,
 "dps": 94,
 "burst": 623,
 "ehp": 33891,
-"sustain": 32,
+"sustain": 30,
 "utility": 4.5,
 "per_target": [
 {
@@ -494,8 +494,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -505,12 +505,12 @@
 "value": 30693.61,
 "swaps": 0,
 "proven": true,
-"omega": 31.2,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 48,
 "burst": 423,
 "ehp": 30694,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -813,8 +813,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -824,12 +824,12 @@
 "value": 33631.43,
 "swaps": 0,
 "proven": true,
-"omega": 45.5,
+"omega": 45.4,
 "modelled": 0.67,
 "dps": 163,
 "burst": 806,
 "ehp": 33631,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.8,
 "per_target": [
 {
@@ -1137,8 +1137,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1148,12 +1148,12 @@
 "value": 31686.21,
 "swaps": 0,
 "proven": true,
-"omega": 29.5,
+"omega": 29.4,
 "modelled": 0.67,
 "dps": 52,
 "burst": 372,
 "ehp": 31686,
-"sustain": 10,
+"sustain": 8,
 "utility": 0.0,
 "per_target": [
 {
@@ -1237,8 +1237,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Shield Bash",
-"Second Wind"
+"Taste of Blood",
+"Sixth Sense"
 ],
 "shards": [
 "Tenacity Shard",
@@ -1248,28 +1248,28 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 16.4,
+"omega": 16.1,
 "modelled": 0.5,
-"dps": 74,
-"burst": 397,
+"dps": 72,
+"burst": 386,
 "ehp": 6086,
 "sustain": 3,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 101,
-"ttk": 24.7
+"dps": 98,
+"ttk": 25.4
 },
 {
 "t": "Bruiser",
-"dps": 76,
-"ttk": 47.3
+"dps": 74,
+"ttk": 48.7
 },
 {
 "t": "Tank",
-"dps": 46,
-"ttk": 104.5
+"dps": 45,
+"ttk": 107.7
 }
 ]
 }
@@ -1461,8 +1461,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1472,12 +1472,12 @@
 "value": 34812.42,
 "swaps": 0,
 "proven": true,
-"omega": 46.7,
+"omega": 46.6,
 "modelled": 0.67,
 "dps": 72,
 "burst": 486,
 "ehp": 34812,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.7,
 "per_target": [
 {
@@ -1780,8 +1780,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1791,12 +1791,12 @@
 "value": 35245.39,
 "swaps": 0,
 "proven": true,
-"omega": 53.4,
+"omega": 53.3,
 "modelled": 0.67,
 "dps": 46,
 "burst": 510,
 "ehp": 35245,
-"sustain": 11,
+"sustain": 8,
 "utility": 7.7,
 "per_target": [
 {
@@ -2104,8 +2104,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2115,12 +2115,12 @@
 "value": 31139.24,
 "swaps": 0,
 "proven": true,
-"omega": 35.1,
+"omega": 34.9,
 "modelled": 0.67,
 "dps": 81,
 "burst": 543,
 "ehp": 31139,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -2423,8 +2423,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2434,12 +2434,12 @@
 "value": 29019.66,
 "swaps": 0,
 "proven": true,
-"omega": 34.9,
+"omega": 34.8,
 "modelled": 0.67,
 "dps": 64,
 "burst": 350,
 "ehp": 29020,
-"sustain": 10,
+"sustain": 7,
 "utility": 3.6,
 "per_target": [
 {
@@ -2742,8 +2742,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2753,12 +2753,12 @@
 "value": 29596.22,
 "swaps": 0,
 "proven": true,
-"omega": 29.8,
+"omega": 29.5,
 "modelled": 0.67,
 "dps": 79,
 "burst": 553,
 "ehp": 29596,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.2,
 "per_target": [
 {
@@ -3061,8 +3061,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3072,12 +3072,12 @@
 "value": 30966.43,
 "swaps": 0,
 "proven": true,
-"omega": 37.1,
+"omega": 37.0,
 "modelled": 0.67,
 "dps": 86,
 "burst": 622,
 "ehp": 30966,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.6,
 "per_target": [
 {
@@ -3385,8 +3385,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3396,12 +3396,12 @@
 "value": 29169.18,
 "swaps": 0,
 "proven": true,
-"omega": 34.3,
+"omega": 34.2,
 "modelled": 0.67,
 "dps": 62,
 "burst": 428,
 "ehp": 29169,
-"sustain": 10,
+"sustain": 7,
 "utility": 3.3,
 "per_target": [
 {
@@ -3704,8 +3704,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3715,12 +3715,12 @@
 "value": 31813.44,
 "swaps": 0,
 "proven": true,
-"omega": 37.8,
+"omega": 37.7,
 "modelled": 0.67,
 "dps": 56,
 "burst": 538,
 "ehp": 31813,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.0,
 "per_target": [
 {
@@ -4028,8 +4028,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4039,12 +4039,12 @@
 "value": 31736.4,
 "swaps": 0,
 "proven": true,
-"omega": 32.1,
+"omega": 31.7,
 "modelled": 0.67,
 "dps": 55,
 "burst": 598,
 "ehp": 31736,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.1,
 "per_target": [
 {
@@ -4347,8 +4347,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4358,12 +4358,12 @@
 "value": 31904.19,
 "swaps": 0,
 "proven": true,
-"omega": 23.7,
+"omega": 23.1,
 "modelled": 0.67,
 "dps": 25,
 "burst": 213,
 "ehp": 31904,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -4671,8 +4671,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4687,7 +4687,7 @@
 "dps": 489,
 "burst": 730,
 "ehp": 32303,
-"sustain": 412,
+"sustain": 409,
 "utility": 2.9,
 "per_target": [
 {
@@ -4999,8 +4999,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5010,12 +5010,12 @@
 "value": 32886.81,
 "swaps": 0,
 "proven": true,
-"omega": 79.1,
+"omega": 79.0,
 "modelled": 0.67,
 "dps": 75,
 "burst": 661,
 "ehp": 32887,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.6,
 "per_target": [
 {
@@ -5323,8 +5323,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5334,12 +5334,12 @@
 "value": 30794.34,
 "swaps": 0,
 "proven": true,
-"omega": 35.9,
+"omega": 35.8,
 "modelled": 0.67,
 "dps": 68,
 "burst": 513,
 "ehp": 30794,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -5642,8 +5642,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5653,12 +5653,12 @@
 "value": 37672.33,
 "swaps": 0,
 "proven": true,
-"omega": 51.9,
+"omega": 51.8,
 "modelled": 0.67,
 "dps": 64,
 "burst": 512,
 "ehp": 37672,
-"sustain": 11,
+"sustain": 8,
 "utility": 8.3,
 "per_target": [
 {
@@ -5970,8 +5970,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5981,12 +5981,12 @@
 "value": 31074.83,
 "swaps": 0,
 "proven": true,
-"omega": 43.1,
+"omega": 43.0,
 "modelled": 0.67,
 "dps": 85,
 "burst": 866,
 "ehp": 31075,
-"sustain": 19,
+"sustain": 16,
 "utility": 5.0,
 "per_target": [
 {
@@ -6302,8 +6302,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6313,12 +6313,12 @@
 "value": 31534.55,
 "swaps": 0,
 "proven": true,
-"omega": 49.4,
+"omega": 49.3,
 "modelled": 0.67,
 "dps": 249,
 "burst": 887,
 "ehp": 31535,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -6621,8 +6621,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6632,12 +6632,12 @@
 "value": 31879.75,
 "swaps": 0,
 "proven": true,
-"omega": 72.3,
+"omega": 71.7,
 "modelled": 0.67,
 "dps": 98,
 "burst": 391,
 "ehp": 31880,
-"sustain": 65,
+"sustain": 63,
 "utility": 6.3,
 "per_target": [
 {
@@ -6949,8 +6949,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6960,12 +6960,12 @@
 "value": 30599.25,
 "swaps": 0,
 "proven": true,
-"omega": 37.7,
+"omega": 37.6,
 "modelled": 0.67,
 "dps": 141,
 "burst": 526,
 "ehp": 30599,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -7273,8 +7273,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7284,12 +7284,12 @@
 "value": 31399.4,
 "swaps": 0,
 "proven": true,
-"omega": 48.7,
+"omega": 48.6,
 "modelled": 0.67,
 "dps": 166,
 "burst": 1258,
 "ehp": 31399,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -7592,8 +7592,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7603,12 +7603,12 @@
 "value": 30830.29,
 "swaps": 0,
 "proven": true,
-"omega": 39.4,
+"omega": 39.2,
 "modelled": 0.67,
 "dps": 135,
 "burst": 656,
 "ehp": 30830,
-"sustain": 10,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -7911,8 +7911,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7922,12 +7922,12 @@
 "value": 36908.06,
 "swaps": 0,
 "proven": true,
-"omega": 42.8,
+"omega": 42.7,
 "modelled": 0.67,
 "dps": 93,
 "burst": 797,
 "ehp": 36908,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -8235,8 +8235,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8246,12 +8246,12 @@
 "value": 32626.39,
 "swaps": 0,
 "proven": true,
-"omega": 30.7,
+"omega": 30.5,
 "modelled": 0.67,
 "dps": 61,
 "burst": 595,
 "ehp": 32626,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.0,
 "per_target": [
 {
@@ -8554,8 +8554,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8565,12 +8565,12 @@
 "value": 32190.09,
 "swaps": 0,
 "proven": true,
-"omega": 39.8,
+"omega": 39.7,
 "modelled": 0.67,
 "dps": 142,
 "burst": 631,
 "ehp": 32190,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -8882,8 +8882,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8893,12 +8893,12 @@
 "value": 31759.53,
 "swaps": 0,
 "proven": true,
-"omega": 31.2,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 57,
 "burst": 507,
 "ehp": 31760,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -9210,8 +9210,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9221,12 +9221,12 @@
 "value": 31590.79,
 "swaps": 0,
 "proven": true,
-"omega": 52.6,
+"omega": 51.9,
 "modelled": 0.67,
 "dps": 72,
 "burst": 612,
 "ehp": 31591,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.1,
 "per_target": [
 {
@@ -9529,8 +9529,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9540,12 +9540,12 @@
 "value": 31992.14,
 "swaps": 0,
 "proven": true,
-"omega": 29.9,
+"omega": 29.8,
 "modelled": 0.67,
 "dps": 63,
 "burst": 450,
 "ehp": 31992,
-"sustain": 11,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -9848,8 +9848,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9859,12 +9859,12 @@
 "value": 33702.14,
 "swaps": 0,
 "proven": true,
-"omega": 85.9,
+"omega": 85.8,
 "modelled": 0.67,
 "dps": 122,
 "burst": 1212,
 "ehp": 33702,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -10176,8 +10176,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10187,12 +10187,12 @@
 "value": 30661.82,
 "swaps": 0,
 "proven": true,
-"omega": 46.9,
+"omega": 46.8,
 "modelled": 0.67,
 "dps": 133,
 "burst": 1216,
 "ehp": 30662,
-"sustain": 10,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -10495,8 +10495,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10506,12 +10506,12 @@
 "value": 32158.57,
 "swaps": 0,
 "proven": true,
-"omega": 32.2,
+"omega": 32.0,
 "modelled": 0.67,
 "dps": 32,
 "burst": 272,
 "ehp": 32159,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -10814,8 +10814,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10825,12 +10825,12 @@
 "value": 31738.09,
 "swaps": 0,
 "proven": true,
-"omega": 26.0,
+"omega": 25.5,
 "modelled": 0.67,
 "dps": 66,
 "burst": 466,
 "ehp": 31738,
-"sustain": 12,
+"sustain": 10,
 "utility": 2.1,
 "per_target": [
 {
@@ -11138,8 +11138,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11149,12 +11149,12 @@
 "value": 32298.85,
 "swaps": 0,
 "proven": true,
-"omega": 39.7,
+"omega": 39.6,
 "modelled": 0.67,
 "dps": 106,
 "burst": 649,
 "ehp": 32299,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.1,
 "per_target": [
 {
@@ -11457,8 +11457,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11468,12 +11468,12 @@
 "value": 34236.75,
 "swaps": 0,
 "proven": true,
-"omega": 47.6,
+"omega": 47.5,
 "modelled": 0.67,
 "dps": 58,
 "burst": 543,
 "ehp": 34237,
-"sustain": 11,
+"sustain": 8,
 "utility": 7.3,
 "per_target": [
 {
@@ -11776,8 +11776,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11787,12 +11787,12 @@
 "value": 33396.93,
 "swaps": 0,
 "proven": true,
-"omega": 26.5,
+"omega": 26.0,
 "modelled": 0.67,
 "dps": 125,
 "burst": 395,
 "ehp": 33397,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -12095,8 +12095,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12106,12 +12106,12 @@
 "value": 31608.04,
 "swaps": 0,
 "proven": true,
-"omega": 34.7,
+"omega": 34.6,
 "modelled": 0.67,
 "dps": 68,
 "burst": 638,
 "ehp": 31608,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.2,
 "per_target": [
 {
@@ -12414,8 +12414,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12425,12 +12425,12 @@
 "value": 27797.87,
 "swaps": 0,
 "proven": true,
-"omega": 174.7,
+"omega": 174.6,
 "modelled": 0.67,
 "dps": 324,
 "burst": 3144,
 "ehp": 27798,
-"sustain": 10,
+"sustain": 7,
 "utility": 5.7,
 "per_target": [
 {
@@ -12738,8 +12738,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12749,12 +12749,12 @@
 "value": 34080.05,
 "swaps": 0,
 "proven": true,
-"omega": 167.7,
+"omega": 167.6,
 "modelled": 0.67,
 "dps": 623,
 "burst": 3005,
 "ehp": 34080,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -13057,8 +13057,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13068,12 +13068,12 @@
 "value": 32272.1,
 "swaps": 0,
 "proven": true,
-"omega": 41.8,
+"omega": 41.7,
 "modelled": 0.67,
 "dps": 91,
 "burst": 894,
 "ehp": 32272,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -13381,8 +13381,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13392,12 +13392,12 @@
 "value": 33917.76,
 "swaps": 0,
 "proven": true,
-"omega": 43.5,
+"omega": 43.0,
 "modelled": 0.67,
 "dps": 104,
 "burst": 468,
 "ehp": 33918,
-"sustain": 43,
+"sustain": 40,
 "utility": 2.1,
 "per_target": [
 {
@@ -13705,8 +13705,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13716,12 +13716,12 @@
 "value": 33028.54,
 "swaps": 0,
 "proven": true,
-"omega": 45.5,
+"omega": 45.2,
 "modelled": 0.67,
 "dps": 61,
 "burst": 666,
 "ehp": 33029,
-"sustain": 18,
+"sustain": 15,
 "utility": 4.1,
 "per_target": [
 {
@@ -14024,8 +14024,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14035,12 +14035,12 @@
 "value": 30519.79,
 "swaps": 0,
 "proven": true,
-"omega": 28.3,
+"omega": 28.2,
 "modelled": 0.67,
 "dps": 30,
 "burst": 283,
 "ehp": 30520,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -14343,8 +14343,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14354,12 +14354,12 @@
 "value": 31509.3,
 "swaps": 0,
 "proven": true,
-"omega": 34.5,
+"omega": 34.4,
 "modelled": 0.67,
 "dps": 78,
 "burst": 558,
 "ehp": 31509,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -14662,8 +14662,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14673,12 +14673,12 @@
 "value": 34060.69,
 "swaps": 0,
 "proven": true,
-"omega": 30.9,
+"omega": 30.7,
 "modelled": 0.67,
 "dps": 41,
 "burst": 332,
 "ehp": 34061,
-"sustain": 11,
+"sustain": 8,
 "utility": 1.7,
 "per_target": [
 {
@@ -14981,8 +14981,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14992,12 +14992,12 @@
 "value": 33633.63,
 "swaps": 0,
 "proven": true,
-"omega": 33.2,
+"omega": 33.1,
 "modelled": 0.67,
 "dps": 69,
 "burst": 569,
 "ehp": 33634,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -15300,8 +15300,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15311,12 +15311,12 @@
 "value": 30983.79,
 "swaps": 0,
 "proven": true,
-"omega": 30.6,
+"omega": 30.2,
 "modelled": 0.67,
 "dps": 85,
 "burst": 339,
 "ehp": 30984,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -15619,8 +15619,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15630,12 +15630,12 @@
 "value": 29529.01,
 "swaps": 0,
 "proven": true,
-"omega": 26.4,
+"omega": 25.8,
 "modelled": 0.67,
 "dps": 46,
 "burst": 367,
 "ehp": 29529,
-"sustain": 10,
+"sustain": 7,
 "utility": 5.8,
 "per_target": [
 {
@@ -15947,8 +15947,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15958,12 +15958,12 @@
 "value": 34152.85,
 "swaps": 0,
 "proven": true,
-"omega": 38.1,
+"omega": 37.6,
 "modelled": 0.67,
 "dps": 67,
 "burst": 599,
 "ehp": 34153,
-"sustain": 26,
+"sustain": 24,
 "utility": 6.3,
 "per_target": [
 {
@@ -16275,8 +16275,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16286,12 +16286,12 @@
 "value": 34046.6,
 "swaps": 0,
 "proven": true,
-"omega": 175.2,
+"omega": 175.1,
 "modelled": 0.67,
 "dps": 453,
 "burst": 3426,
 "ehp": 34047,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -16599,8 +16599,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16610,12 +16610,12 @@
 "value": 31892.37,
 "swaps": 0,
 "proven": true,
-"omega": 43.7,
+"omega": 43.6,
 "modelled": 0.67,
 "dps": 196,
 "burst": 706,
 "ehp": 31892,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -16918,8 +16918,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16929,12 +16929,12 @@
 "value": 31253.66,
 "swaps": 0,
 "proven": true,
-"omega": 38.5,
+"omega": 38.4,
 "modelled": 0.67,
 "dps": 110,
 "burst": 707,
 "ehp": 31254,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -17242,8 +17242,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17253,12 +17253,12 @@
 "value": 34556.59,
 "swaps": 0,
 "proven": true,
-"omega": 48.9,
+"omega": 48.8,
 "modelled": 0.67,
 "dps": 87,
 "burst": 714,
 "ehp": 34557,
-"sustain": 11,
+"sustain": 8,
 "utility": 7.2,
 "per_target": [
 {
@@ -17566,8 +17566,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17577,12 +17577,12 @@
 "value": 30954.25,
 "swaps": 0,
 "proven": true,
-"omega": 21.4,
+"omega": 20.7,
 "modelled": 0.67,
 "dps": 52,
 "burst": 396,
 "ehp": 30954,
-"sustain": 15,
+"sustain": 13,
 "utility": 1.8,
 "per_target": [
 {
@@ -17890,8 +17890,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17901,12 +17901,12 @@
 "value": 32394.25,
 "swaps": 0,
 "proven": true,
-"omega": 70.5,
+"omega": 70.4,
 "modelled": 0.67,
 "dps": 83,
 "burst": 895,
 "ehp": 32394,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.3,
 "per_target": [
 {
@@ -18209,8 +18209,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18220,12 +18220,12 @@
 "value": 32322.05,
 "swaps": 0,
 "proven": true,
-"omega": 26.6,
+"omega": 26.2,
 "modelled": 0.67,
 "dps": 42,
 "burst": 290,
 "ehp": 32322,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
@@ -18528,8 +18528,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18539,12 +18539,12 @@
 "value": 31871.54,
 "swaps": 0,
 "proven": true,
-"omega": 34.6,
+"omega": 34.5,
 "modelled": 0.67,
 "dps": 106,
 "burst": 454,
 "ehp": 31872,
-"sustain": 11,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -18847,8 +18847,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18858,12 +18858,12 @@
 "value": 31865.92,
 "swaps": 0,
 "proven": true,
-"omega": 31.5,
+"omega": 31.2,
 "modelled": 0.67,
 "dps": 94,
 "burst": 456,
 "ehp": 31866,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.0,
 "per_target": [
 {
@@ -19166,8 +19166,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19177,12 +19177,12 @@
 "value": 33044.6,
 "swaps": 0,
 "proven": true,
-"omega": 29.3,
+"omega": 29.2,
 "modelled": 0.67,
 "dps": 47,
 "burst": 377,
 "ehp": 33045,
-"sustain": 11,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -19490,8 +19490,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19501,12 +19501,12 @@
 "value": 29797.54,
 "swaps": 0,
 "proven": true,
-"omega": 27.8,
+"omega": 27.5,
 "modelled": 0.67,
 "dps": 46,
 "burst": 477,
 "ehp": 29798,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -19814,8 +19814,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19825,12 +19825,12 @@
 "value": 32479.64,
 "swaps": 0,
 "proven": true,
-"omega": 33.6,
+"omega": 33.2,
 "modelled": 0.67,
 "dps": 92,
 "burst": 644,
 "ehp": 32480,
-"sustain": 18,
+"sustain": 15,
 "utility": 2.9,
 "per_target": [
 {
@@ -20133,8 +20133,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20144,12 +20144,12 @@
 "value": 30798.28,
 "swaps": 0,
 "proven": true,
-"omega": 35.6,
+"omega": 35.4,
 "modelled": 0.67,
 "dps": 113,
 "burst": 607,
 "ehp": 30798,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -20457,8 +20457,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20468,12 +20468,12 @@
 "value": 31512.84,
 "swaps": 0,
 "proven": true,
-"omega": 31.5,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 64,
 "burst": 468,
 "ehp": 31513,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -20776,8 +20776,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20787,12 +20787,12 @@
 "value": 31383.86,
 "swaps": 0,
 "proven": true,
-"omega": 49.7,
+"omega": 49.5,
 "modelled": 0.67,
 "dps": 66,
 "burst": 536,
 "ehp": 31384,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -21095,8 +21095,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21106,12 +21106,12 @@
 "value": 29048.43,
 "swaps": 0,
 "proven": true,
-"omega": 42.5,
+"omega": 42.2,
 "modelled": 0.83,
 "dps": 42,
 "burst": 404,
 "ehp": 29048,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -21414,8 +21414,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21425,12 +21425,12 @@
 "value": 31563.7,
 "swaps": 0,
 "proven": true,
-"omega": 42.3,
+"omega": 42.0,
 "modelled": 0.67,
 "dps": 39,
 "burst": 404,
 "ehp": 31564,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -21733,8 +21733,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21744,12 +21744,12 @@
 "value": 30728.99,
 "swaps": 0,
 "proven": true,
-"omega": 178.0,
+"omega": 177.9,
 "modelled": 0.67,
 "dps": 2108,
 "burst": 2216,
 "ehp": 30729,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -22057,8 +22057,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22068,12 +22068,12 @@
 "value": 31211.84,
 "swaps": 0,
 "proven": true,
-"omega": 91.5,
+"omega": 91.4,
 "modelled": 0.67,
 "dps": 116,
 "burst": 941,
 "ehp": 31212,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -22376,8 +22376,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22387,12 +22387,12 @@
 "value": 32891.86,
 "swaps": 0,
 "proven": true,
-"omega": 32.6,
+"omega": 32.1,
 "modelled": 0.67,
 "dps": 100,
 "burst": 960,
 "ehp": 32892,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.0,
 "per_target": [
 {
@@ -22695,8 +22695,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22706,12 +22706,12 @@
 "value": 37804.87,
 "swaps": 0,
 "proven": true,
-"omega": 44.6,
+"omega": 44.5,
 "modelled": 0.67,
 "dps": 84,
 "burst": 580,
 "ehp": 37805,
-"sustain": 10,
+"sustain": 8,
 "utility": 6.4,
 "per_target": [
 {
@@ -23023,8 +23023,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23034,12 +23034,12 @@
 "value": 31390.59,
 "swaps": 0,
 "proven": true,
-"omega": 32.1,
+"omega": 32.0,
 "modelled": 0.67,
 "dps": 41,
 "burst": 401,
 "ehp": 31391,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -23342,8 +23342,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23353,12 +23353,12 @@
 "value": 31564.3,
 "swaps": 0,
 "proven": true,
-"omega": 35.8,
+"omega": 35.4,
 "modelled": 0.67,
 "dps": 90,
 "burst": 618,
 "ehp": 31564,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.7,
 "per_target": [
 {
@@ -23661,8 +23661,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23672,12 +23672,12 @@
 "value": 32695.14,
 "swaps": 0,
 "proven": true,
-"omega": 36.7,
+"omega": 36.6,
 "modelled": 0.67,
 "dps": 77,
 "burst": 657,
 "ehp": 32695,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -23985,8 +23985,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23996,12 +23996,12 @@
 "value": 30864.99,
 "swaps": 0,
 "proven": true,
-"omega": 29.3,
+"omega": 29.2,
 "modelled": 0.67,
 "dps": 53,
 "burst": 385,
 "ehp": 30865,
-"sustain": 10,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -24309,8 +24309,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24320,12 +24320,12 @@
 "value": 29702.76,
 "swaps": 0,
 "proven": true,
-"omega": 23.6,
+"omega": 23.1,
 "modelled": 0.67,
 "dps": 49,
 "burst": 342,
 "ehp": 29703,
-"sustain": 10,
+"sustain": 7,
 "utility": 3.4,
 "per_target": [
 {
@@ -24633,8 +24633,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24644,12 +24644,12 @@
 "value": 30761.35,
 "swaps": 0,
 "proven": true,
-"omega": 32.6,
+"omega": 32.3,
 "modelled": 0.67,
 "dps": 92,
 "burst": 653,
 "ehp": 30761,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
@@ -24952,8 +24952,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24963,12 +24963,12 @@
 "value": 34885.91,
 "swaps": 0,
 "proven": true,
-"omega": 54.8,
+"omega": 54.7,
 "modelled": 0.67,
 "dps": 101,
 "burst": 660,
 "ehp": 34886,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.2,
 "per_target": [
 {
@@ -25276,8 +25276,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25287,12 +25287,12 @@
 "value": 30526.81,
 "swaps": 0,
 "proven": true,
-"omega": 31.2,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 56,
 "burst": 457,
 "ehp": 30527,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -25595,8 +25595,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25611,7 +25611,7 @@
 "dps": 1085,
 "burst": 5022,
 "ehp": 33584,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.7,
 "per_target": [
 {
@@ -25919,8 +25919,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25930,12 +25930,12 @@
 "value": 32402.61,
 "swaps": 0,
 "proven": true,
-"omega": 32.9,
+"omega": 32.8,
 "modelled": 0.67,
 "dps": 62,
 "burst": 593,
 "ehp": 32403,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -26247,8 +26247,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26258,12 +26258,12 @@
 "value": 31082.59,
 "swaps": 0,
 "proven": true,
-"omega": 27.4,
+"omega": 26.9,
 "modelled": 0.67,
 "dps": 63,
 "burst": 556,
 "ehp": 31083,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.2,
 "per_target": [
 {
@@ -26566,8 +26566,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26577,12 +26577,12 @@
 "value": 29236.86,
 "swaps": 0,
 "proven": true,
-"omega": 22.5,
+"omega": 22.0,
 "modelled": 0.67,
 "dps": 37,
 "burst": 295,
 "ehp": 29237,
-"sustain": 10,
+"sustain": 7,
 "utility": 3.4,
 "per_target": [
 {
@@ -26890,8 +26890,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26901,12 +26901,12 @@
 "value": 30509.95,
 "swaps": 0,
 "proven": true,
-"omega": 31.0,
+"omega": 30.9,
 "modelled": 0.67,
 "dps": 82,
 "burst": 411,
 "ehp": 30510,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -27056,11 +27056,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Lord Dominik's Regards",
-"Infinity Edge",
-"Essence Reaver",
-"Fiendhunter Bolts",
-"Death's Dance"
+"Jak'Sho, The Protean",
+"Death's Dance",
+"Protoplasm Harness",
+"Randuin's Omen",
+"Cryptbloom"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -27069,38 +27069,38 @@
 "Triple Tonic",
 "Cosmic Insight",
 "Shield Bash",
-"Overgrowth"
+"Bone Plating"
 ],
 "shards": [
-"Ability Haste Shard",
 "Health Scaling Shard",
-"Adaptive Force Shard"
+"Ability Haste Shard",
+"Health Shard"
 ],
-"value": 64.44,
-"swaps": 12,
+"value": 81.47,
+"swaps": 10,
 "proven": true,
-"omega": 64.4,
-"modelled": 0.83,
-"dps": 350,
-"burst": 2097,
-"ehp": 8423,
+"omega": 81.5,
+"modelled": 0.67,
+"dps": 146,
+"burst": 551,
+"ehp": 22617,
 "sustain": 0,
-"utility": 5.2,
+"utility": 5.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 437,
-"ttk": 5.7
+"dps": 187,
+"ttk": 13.3
 },
 {
 "t": "Bruiser",
-"dps": 358,
-"ttk": 10.1
+"dps": 150,
+"ttk": 24.0
 },
 {
 "t": "Tank",
-"dps": 256,
-"ttk": 18.8
+"dps": 100,
+"ttk": 48.1
 }
 ]
 },
@@ -27126,31 +27126,31 @@
 "Adaptive Force Shard",
 "Tenacity Shard"
 ],
-"value": 542.14,
+"value": 523.2,
 "swaps": 0,
 "proven": true,
-"omega": 61.0,
+"omega": 57.4,
 "modelled": 1.0,
-"dps": 542,
-"burst": 1857,
+"dps": 523,
+"burst": 1827,
 "ehp": 4527,
-"sustain": 17,
+"sustain": 16,
 "utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 641,
-"ttk": 3.9
+"dps": 618,
+"ttk": 4.0
 },
 {
 "t": "Bruiser",
-"dps": 567,
-"ttk": 6.4
+"dps": 547,
+"ttk": 6.6
 },
 {
 "t": "Tank",
-"dps": 419,
-"ttk": 11.5
+"dps": 405,
+"ttk": 11.9
 }
 ]
 },
@@ -27176,31 +27176,31 @@
 "Tenacity Shard",
 "Move Speed Shard"
 ],
-"value": 2496.24,
+"value": 2445.81,
 "swaps": 0,
 "proven": true,
-"omega": 54.1,
+"omega": 51.7,
 "modelled": 0.67,
-"dps": 243,
-"burst": 2496,
+"dps": 236,
+"burst": 2446,
 "ehp": 4527,
 "sustain": 0,
 "utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 326,
-"ttk": 7.7
+"dps": 317,
+"ttk": 7.9
 },
 {
 "t": "Bruiser",
-"dps": 248,
-"ttk": 14.5
+"dps": 242,
+"ttk": 14.9
 },
 {
 "t": "Tank",
-"dps": 154,
-"ttk": 31.2
+"dps": 150,
+"ttk": 32.1
 }
 ]
 },
@@ -27218,8 +27218,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27229,28 +27229,28 @@
 "value": 32279.69,
 "swaps": 0,
 "proven": true,
-"omega": 51.3,
+"omega": 69.5,
 "modelled": 0.67,
 "dps": 69,
-"burst": 419,
+"burst": 414,
 "ehp": 32280,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 93,
-"ttk": 26.9
+"dps": 92,
+"ttk": 27.1
 },
 {
 "t": "Bruiser",
-"dps": 71,
-"ttk": 50.8
+"dps": 70,
+"ttk": 51.2
 },
 {
 "t": "Tank",
 "dps": 44,
-"ttk": 108.5
+"ttk": 109.5
 }
 ]
 },
@@ -27276,31 +27276,31 @@
 "Adaptive Force Shard",
 "Tenacity Shard"
 ],
-"value": 69.49,
+"value": 68.03,
 "swaps": 0,
 "proven": true,
-"omega": 45.7,
+"omega": 44.3,
 "modelled": 0.67,
-"dps": 283,
-"burst": 1398,
+"dps": 277,
+"burst": 1381,
 "ehp": 4527,
-"sustain": 69,
+"sustain": 68,
 "utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 339,
-"ttk": 7.4
+"dps": 332,
+"ttk": 7.5
 },
 {
 "t": "Bruiser",
-"dps": 293,
-"ttk": 12.3
+"dps": 286,
+"ttk": 12.6
 },
 {
 "t": "Tank",
-"dps": 218,
-"ttk": 22.1
+"dps": 213,
+"ttk": 22.5
 }
 ]
 },
@@ -27329,10 +27329,10 @@
 "value": 8.14,
 "swaps": 0,
 "proven": true,
-"omega": 45.6,
+"omega": 47.2,
 "modelled": 0.5,
 "dps": 199,
-"burst": 606,
+"burst": 600,
 "ehp": 5935,
 "sustain": 0,
 "utility": 8.1,
@@ -27340,17 +27340,17 @@
 {
 "t": "Squishy",
 "dps": 267,
-"ttk": 9.3
+"ttk": 9.4
 },
 {
 "t": "Bruiser",
 "dps": 203,
-"ttk": 17.7
+"ttk": 17.8
 },
 {
 "t": "Tank",
-"dps": 127,
-"ttk": 37.8
+"dps": 126,
+"ttk": 37.9
 }
 ]
 }
@@ -27359,7 +27359,7 @@
 "conversion": {
 "ap_scaling": 1.15,
 "ad_scaling": 1.2,
-"hp_scaling": 0.13,
+"hp_scaling": 0.26,
 "ability_count": 2,
 "mean_basic_cd": 10.0,
 "haste_dependency": 1.0,
@@ -27537,8 +27537,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27548,12 +27548,12 @@
 "value": 31105.9,
 "swaps": 0,
 "proven": true,
-"omega": 35.6,
+"omega": 35.1,
 "modelled": 0.67,
 "dps": 37,
 "burst": 433,
 "ehp": 31106,
-"sustain": 13,
+"sustain": 11,
 "utility": 3.4,
 "per_target": [
 {
@@ -27861,8 +27861,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27872,12 +27872,12 @@
 "value": 31800.31,
 "swaps": 0,
 "proven": true,
-"omega": 27.4,
+"omega": 26.7,
 "modelled": 0.67,
 "dps": 50,
 "burst": 431,
 "ehp": 31800,
-"sustain": 23,
+"sustain": 21,
 "utility": 4.7,
 "per_target": [
 {
@@ -28185,8 +28185,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28196,12 +28196,12 @@
 "value": 29730.81,
 "swaps": 0,
 "proven": true,
-"omega": 29.2,
+"omega": 28.8,
 "modelled": 0.67,
 "dps": 57,
 "burst": 566,
 "ehp": 29731,
-"sustain": 10,
+"sustain": 7,
 "utility": 2.4,
 "per_target": [
 {
@@ -28504,8 +28504,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28515,12 +28515,12 @@
 "value": 35813.19,
 "swaps": 0,
 "proven": true,
-"omega": 28.9,
+"omega": 28.8,
 "modelled": 0.83,
 "dps": 38,
 "burst": 287,
 "ehp": 35813,
-"sustain": 11,
+"sustain": 9,
 "utility": 1.2,
 "per_target": [
 {
@@ -28828,8 +28828,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28839,12 +28839,12 @@
 "value": 32428.61,
 "swaps": 0,
 "proven": true,
-"omega": 48.5,
+"omega": 48.4,
 "modelled": 0.67,
 "dps": 99,
 "burst": 747,
 "ehp": 32429,
-"sustain": 10,
+"sustain": 8,
 "utility": 6.7,
 "per_target": [
 {
@@ -29147,8 +29147,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29158,12 +29158,12 @@
 "value": 31500.19,
 "swaps": 0,
 "proven": true,
-"omega": 46.6,
+"omega": 46.5,
 "modelled": 0.67,
 "dps": 140,
 "burst": 1156,
 "ehp": 31500,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -29471,8 +29471,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29482,12 +29482,12 @@
 "value": 32459.86,
 "swaps": 0,
 "proven": true,
-"omega": 27.5,
+"omega": 27.4,
 "modelled": 0.67,
 "dps": 27,
 "burst": 223,
 "ehp": 32460,
-"sustain": 11,
+"sustain": 8,
 "utility": 0.0,
 "per_target": [
 {
@@ -29571,8 +29571,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Shield Bash",
-"Second Wind"
+"Taste of Blood",
+"Sixth Sense"
 ],
 "shards": [
 "Tenacity Shard",
@@ -29582,28 +29582,28 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 14.5,
+"omega": 14.2,
 "modelled": 0.5,
-"dps": 59,
-"burst": 311,
+"dps": 58,
+"burst": 302,
 "ehp": 6352,
 "sustain": 3,
 "utility": 0.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 80,
-"ttk": 31.2
+"dps": 78,
+"ttk": 32.2
 },
 {
 "t": "Bruiser",
-"dps": 61,
-"ttk": 59.3
+"dps": 59,
+"ttk": 61.1
 },
 {
 "t": "Tank",
-"dps": 38,
-"ttk": 127.2
+"dps": 37,
+"ttk": 131.0
 }
 ]
 }
@@ -29790,8 +29790,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29801,12 +29801,12 @@
 "value": 31062.95,
 "swaps": 0,
 "proven": true,
-"omega": 38.3,
+"omega": 38.2,
 "modelled": 0.67,
 "dps": 82,
 "burst": 217,
 "ehp": 31063,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.0,
 "per_target": [
 {
@@ -30114,8 +30114,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30125,12 +30125,12 @@
 "value": 32592.36,
 "swaps": 0,
 "proven": true,
-"omega": 38.6,
+"omega": 38.5,
 "modelled": 0.67,
 "dps": 73,
 "burst": 631,
 "ehp": 32592,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -30446,8 +30446,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30457,12 +30457,12 @@
 "value": 30190.23,
 "swaps": 0,
 "proven": true,
-"omega": 85.2,
+"omega": 84.6,
 "modelled": 0.67,
 "dps": 276,
 "burst": 2490,
 "ehp": 30190,
-"sustain": 10,
+"sustain": 7,
 "utility": 5.8,
 "per_target": [
 {
@@ -30765,8 +30765,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30776,12 +30776,12 @@
 "value": 33861.78,
 "swaps": 0,
 "proven": true,
-"omega": 39.6,
+"omega": 39.5,
 "modelled": 0.67,
 "dps": 126,
 "burst": 809,
 "ehp": 33862,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.2,
 "per_target": [
 {
@@ -31097,8 +31097,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31108,12 +31108,12 @@
 "value": 30975.03,
 "swaps": 0,
 "proven": true,
-"omega": 32.5,
+"omega": 32.2,
 "modelled": 0.67,
 "dps": 97,
 "burst": 659,
 "ehp": 30975,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
@@ -31416,8 +31416,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31427,12 +31427,12 @@
 "value": 33468.39,
 "swaps": 0,
 "proven": true,
-"omega": 71.0,
+"omega": 70.9,
 "modelled": 0.67,
 "dps": 114,
 "burst": 1095,
 "ehp": 33468,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -31735,8 +31735,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31746,12 +31746,12 @@
 "value": 35378.45,
 "swaps": 0,
 "proven": true,
-"omega": 101.1,
+"omega": 101.0,
 "modelled": 0.67,
 "dps": 185,
 "burst": 1666,
 "ehp": 35378,
-"sustain": 11,
+"sustain": 8,
 "utility": 6.1,
 "per_target": [
 {
@@ -32059,8 +32059,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32075,7 +32075,7 @@
 "dps": 583,
 "burst": 2486,
 "ehp": 33192,
-"sustain": 11,
+"sustain": 8,
 "utility": 7.5,
 "per_target": [
 {
@@ -32378,8 +32378,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32389,12 +32389,12 @@
 "value": 33461.57,
 "swaps": 0,
 "proven": true,
-"omega": 33.9,
+"omega": 33.8,
 "modelled": 0.67,
 "dps": 39,
 "burst": 362,
 "ehp": 33462,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.1,
 "per_target": [
 {
@@ -32697,8 +32697,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32708,12 +32708,12 @@
 "value": 33105.3,
 "swaps": 0,
 "proven": true,
-"omega": 32.0,
+"omega": 31.9,
 "modelled": 0.67,
 "dps": 65,
 "burst": 438,
 "ehp": 33105,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -33025,8 +33025,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33036,12 +33036,12 @@
 "value": 31478.59,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.0,
 "modelled": 0.67,
 "dps": 73,
 "burst": 421,
 "ehp": 31479,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -33353,8 +33353,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33364,12 +33364,12 @@
 "value": 31688.1,
 "swaps": 0,
 "proven": true,
-"omega": 33.4,
+"omega": 33.0,
 "modelled": 0.67,
 "dps": 54,
 "burst": 514,
 "ehp": 31688,
-"sustain": 10,
+"sustain": 8,
 "utility": 6.1,
 "per_target": [
 {
@@ -33672,8 +33672,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33683,12 +33683,12 @@
 "value": 36443.76,
 "swaps": 0,
 "proven": true,
-"omega": 36.4,
+"omega": 36.3,
 "modelled": 0.67,
 "dps": 50,
 "burst": 470,
 "ehp": 36444,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -34000,8 +34000,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34011,12 +34011,12 @@
 "value": 31551.63,
 "swaps": 0,
 "proven": true,
-"omega": 79.9,
+"omega": 79.7,
 "modelled": 0.67,
 "dps": 146,
 "burst": 782,
 "ehp": 31552,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -34319,8 +34319,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34335,7 +34335,7 @@
 "dps": 64,
 "burst": 648,
 "ehp": 31368,
-"sustain": 10,
+"sustain": 8,
 "utility": 6.4,
 "per_target": [
 {
@@ -34643,8 +34643,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34654,12 +34654,12 @@
 "value": 29895.06,
 "swaps": 0,
 "proven": true,
-"omega": 111.6,
+"omega": 111.3,
 "modelled": 0.67,
 "dps": 48,
 "burst": 405,
 "ehp": 29895,
-"sustain": 10,
+"sustain": 7,
 "utility": 3.4,
 "per_target": [
 {
@@ -34971,8 +34971,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34982,12 +34982,12 @@
 "value": 35992.47,
 "swaps": 0,
 "proven": true,
-"omega": 31.6,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 69,
 "burst": 582,
 "ehp": 35992,
-"sustain": 36,
+"sustain": 33,
 "utility": 2.1,
 "per_target": [
 {
@@ -35295,8 +35295,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35306,12 +35306,12 @@
 "value": 32299.09,
 "swaps": 0,
 "proven": true,
-"omega": 29.5,
+"omega": 29.3,
 "modelled": 0.67,
 "dps": 48,
 "burst": 369,
 "ehp": 32299,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -35623,8 +35623,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35634,12 +35634,12 @@
 "value": 31713.32,
 "swaps": 0,
 "proven": true,
-"omega": 35.5,
+"omega": 34.9,
 "modelled": 0.67,
 "dps": 75,
 "burst": 733,
 "ehp": 31713,
-"sustain": 47,
+"sustain": 45,
 "utility": 3.0,
 "per_target": [
 {
@@ -35942,8 +35942,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35953,12 +35953,12 @@
 "value": 32808.64,
 "swaps": 0,
 "proven": true,
-"omega": 38.9,
+"omega": 38.6,
 "modelled": 0.67,
 "dps": 222,
 "burst": 389,
 "ehp": 32809,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
@@ -36270,8 +36270,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36281,12 +36281,12 @@
 "value": 33148.09,
 "swaps": 0,
 "proven": true,
-"omega": 33.9,
+"omega": 33.8,
 "modelled": 0.67,
 "dps": 97,
 "burst": 474,
 "ehp": 33148,
-"sustain": 11,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -36594,8 +36594,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36605,12 +36605,12 @@
 "value": 31922.87,
 "swaps": 0,
 "proven": true,
-"omega": 32.3,
+"omega": 32.2,
 "modelled": 0.67,
 "dps": 92,
 "burst": 394,
 "ehp": 31923,
-"sustain": 11,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -36918,8 +36918,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36929,12 +36929,12 @@
 "value": 34052.18,
 "swaps": 0,
 "proven": true,
-"omega": 161.2,
+"omega": 161.1,
 "modelled": 0.67,
 "dps": 566,
 "burst": 2348,
 "ehp": 34052,
-"sustain": 11,
+"sustain": 8,
 "utility": 6.9,
 "per_target": [
 {
@@ -37237,8 +37237,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37248,12 +37248,12 @@
 "value": 28735.97,
 "swaps": 0,
 "proven": true,
-"omega": 25.5,
+"omega": 24.9,
 "modelled": 0.67,
 "dps": 53,
 "burst": 591,
 "ehp": 28736,
-"sustain": 13,
+"sustain": 11,
 "utility": 3.4,
 "per_target": [
 {
@@ -37556,8 +37556,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37567,12 +37567,12 @@
 "value": 29798.53,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 30.9,
 "modelled": 0.67,
 "dps": 42,
 "burst": 393,
 "ehp": 29799,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.4,
 "per_target": [
 {
@@ -37875,8 +37875,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37886,12 +37886,12 @@
 "value": 33575.37,
 "swaps": 0,
 "proven": true,
-"omega": 144.4,
+"omega": 144.3,
 "modelled": 0.67,
 "dps": 277,
 "burst": 2029,
 "ehp": 33575,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -38194,8 +38194,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38205,12 +38205,12 @@
 "value": 31214.98,
 "swaps": 0,
 "proven": true,
-"omega": 88.6,
+"omega": 88.5,
 "modelled": 0.67,
 "dps": 120,
 "burst": 1016,
 "ehp": 31215,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.1,
 "per_target": [
 {
@@ -38513,8 +38513,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38524,12 +38524,12 @@
 "value": 31377.18,
 "swaps": 0,
 "proven": true,
-"omega": 34.9,
+"omega": 34.2,
 "modelled": 0.67,
 "dps": 64,
 "burst": 380,
 "ehp": 31377,
-"sustain": 10,
+"sustain": 8,
 "utility": 6.1,
 "per_target": [
 {
@@ -38832,8 +38832,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38843,12 +38843,12 @@
 "value": 30938.6,
 "swaps": 0,
 "proven": true,
-"omega": 149.6,
+"omega": 149.5,
 "modelled": 0.67,
 "dps": 328,
 "burst": 2410,
 "ehp": 30939,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -39151,8 +39151,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39162,12 +39162,12 @@
 "value": 31305.54,
 "swaps": 0,
 "proven": true,
-"omega": 134.6,
+"omega": 134.5,
 "modelled": 0.67,
 "dps": 264,
 "burst": 1692,
 "ehp": 31306,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -39470,8 +39470,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39481,12 +39481,12 @@
 "value": 30417.81,
 "swaps": 0,
 "proven": true,
-"omega": 177.2,
+"omega": 177.0,
 "modelled": 0.67,
 "dps": 866,
 "burst": 8231,
 "ehp": 30418,
-"sustain": 10,
+"sustain": 7,
 "utility": 4.6,
 "per_target": [
 {
@@ -39789,8 +39789,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39800,12 +39800,12 @@
 "value": 30980.29,
 "swaps": 0,
 "proven": true,
-"omega": 22.0,
+"omega": 21.6,
 "modelled": 0.67,
 "dps": 35,
 "burst": 265,
 "ehp": 30980,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.0,
 "per_target": [
 {
@@ -40117,8 +40117,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40133,7 +40133,7 @@
 "dps": 321,
 "burst": 2920,
 "ehp": 32894,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.8,
 "per_target": [
 {
@@ -40441,8 +40441,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40452,12 +40452,12 @@
 "value": 30156.2,
 "swaps": 0,
 "proven": true,
-"omega": 24.4,
+"omega": 23.7,
 "modelled": 0.67,
 "dps": 71,
 "burst": 570,
 "ehp": 30156,
-"sustain": 11,
+"sustain": 9,
 "utility": 2.4,
 "per_target": [
 {
@@ -40760,8 +40760,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40771,12 +40771,12 @@
 "value": 29241.79,
 "swaps": 0,
 "proven": true,
-"omega": 28.3,
+"omega": 28.0,
 "modelled": 0.67,
 "dps": 42,
 "burst": 435,
 "ehp": 29242,
-"sustain": 10,
+"sustain": 7,
 "utility": 2.2,
 "per_target": [
 {
@@ -41084,8 +41084,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41095,12 +41095,12 @@
 "value": 30007.75,
 "swaps": 0,
 "proven": true,
-"omega": 86.7,
+"omega": 86.1,
 "modelled": 0.67,
 "dps": 139,
 "burst": 280,
 "ehp": 30008,
-"sustain": 10,
+"sustain": 7,
 "utility": 2.4,
 "per_target": [
 {
@@ -41408,8 +41408,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41419,12 +41419,12 @@
 "value": 30887.15,
 "swaps": 0,
 "proven": true,
-"omega": 46.2,
+"omega": 46.1,
 "modelled": 0.67,
 "dps": 112,
 "burst": 588,
 "ehp": 30887,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.6,
 "per_target": [
 {
@@ -41727,8 +41727,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41738,12 +41738,12 @@
 "value": 34729.05,
 "swaps": 0,
 "proven": true,
-"omega": 33.9,
+"omega": 33.6,
 "modelled": 0.67,
 "dps": 83,
 "burst": 555,
 "ehp": 34729,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.1,
 "per_target": [
 {
@@ -42046,8 +42046,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42057,12 +42057,12 @@
 "value": 30245.74,
 "swaps": 0,
 "proven": true,
-"omega": 31.8,
+"omega": 31.7,
 "modelled": 0.67,
 "dps": 71,
 "burst": 559,
 "ehp": 30246,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.4,
 "per_target": [
 {
@@ -42370,8 +42370,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42386,7 +42386,7 @@
 "dps": 2621,
 "burst": 12668,
 "ehp": 32558,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.5,
 "per_target": [
 {
@@ -42689,8 +42689,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42700,12 +42700,12 @@
 "value": 30580.64,
 "swaps": 0,
 "proven": true,
-"omega": 40.7,
+"omega": 40.6,
 "modelled": 0.67,
 "dps": 73,
 "burst": 397,
 "ehp": 30581,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.7,
 "per_target": [
 {
@@ -43008,8 +43008,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43019,12 +43019,12 @@
 "value": 33146.57,
 "swaps": 0,
 "proven": true,
-"omega": 33.1,
+"omega": 33.0,
 "modelled": 0.67,
 "dps": 57,
 "burst": 452,
 "ehp": 33147,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -43332,8 +43332,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43343,12 +43343,12 @@
 "value": 32382.31,
 "swaps": 0,
 "proven": true,
-"omega": 36.9,
+"omega": 36.7,
 "modelled": 0.67,
 "dps": 19,
 "burst": 239,
 "ehp": 32382,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.2,
 "per_target": [
 {
@@ -43656,8 +43656,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43667,12 +43667,12 @@
 "value": 31175.5,
 "swaps": 0,
 "proven": true,
-"omega": 46.0,
+"omega": 45.9,
 "modelled": 0.67,
 "dps": 286,
 "burst": 550,
 "ehp": 31175,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -43980,8 +43980,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43991,12 +43991,12 @@
 "value": 30256.06,
 "swaps": 0,
 "proven": true,
-"omega": 45.9,
+"omega": 45.8,
 "modelled": 0.67,
 "dps": 85,
 "burst": 834,
 "ehp": 30256,
-"sustain": 11,
+"sustain": 8,
 "utility": 5.5,
 "per_target": [
 {
@@ -44299,8 +44299,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44310,12 +44310,12 @@
 "value": 30938.25,
 "swaps": 0,
 "proven": true,
-"omega": 35.6,
+"omega": 35.5,
 "modelled": 0.67,
 "dps": 64,
 "burst": 613,
 "ehp": 30938,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -44623,8 +44623,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44634,12 +44634,12 @@
 "value": 33189.32,
 "swaps": 0,
 "proven": true,
-"omega": 81.5,
+"omega": 81.4,
 "modelled": 0.67,
 "dps": 103,
 "burst": 826,
 "ehp": 33189,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -44955,8 +44955,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44966,12 +44966,12 @@
 "value": 33313.71,
 "swaps": 0,
 "proven": true,
-"omega": 27.2,
+"omega": 27.0,
 "modelled": 0.67,
 "dps": 55,
 "burst": 442,
 "ehp": 33314,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -45274,8 +45274,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45285,12 +45285,12 @@
 "value": 31434.14,
 "swaps": 0,
 "proven": true,
-"omega": 43.2,
+"omega": 43.1,
 "modelled": 0.67,
 "dps": 145,
 "burst": 897,
 "ehp": 31434,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -45598,8 +45598,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45609,12 +45609,12 @@
 "value": 30406.28,
 "swaps": 0,
 "proven": true,
-"omega": 28.2,
+"omega": 28.1,
 "modelled": 0.67,
 "dps": 77,
 "burst": 319,
 "ehp": 30406,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -45926,8 +45926,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45937,12 +45937,12 @@
 "value": 32628.58,
 "swaps": 0,
 "proven": true,
-"omega": 70.1,
+"omega": 69.4,
 "modelled": 0.67,
 "dps": 142,
 "burst": 1058,
 "ehp": 32629,
-"sustain": 32,
+"sustain": 29,
 "utility": 6.7,
 "per_target": [
 {
@@ -46245,8 +46245,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46256,12 +46256,12 @@
 "value": 30847.28,
 "swaps": 0,
 "proven": true,
-"omega": 37.9,
+"omega": 37.8,
 "modelled": 0.67,
 "dps": 60,
 "burst": 695,
 "ehp": 30847,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.6,
 "per_target": [
 {
@@ -46564,8 +46564,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46575,12 +46575,12 @@
 "value": 30682.23,
 "swaps": 0,
 "proven": true,
-"omega": 63.6,
+"omega": 63.4,
 "modelled": 0.67,
 "dps": 173,
 "burst": 1310,
 "ehp": 30682,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -46883,8 +46883,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46894,12 +46894,12 @@
 "value": 31703.97,
 "swaps": 0,
 "proven": true,
-"omega": 32.7,
+"omega": 32.6,
 "modelled": 0.67,
 "dps": 71,
 "burst": 523,
 "ehp": 31704,
-"sustain": 10,
+"sustain": 8,
 "utility": 1.2,
 "per_target": [
 {
@@ -47202,8 +47202,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47213,12 +47213,12 @@
 "value": 30856.18,
 "swaps": 0,
 "proven": true,
-"omega": 44.8,
+"omega": 44.7,
 "modelled": 0.67,
 "dps": 184,
 "burst": 957,
 "ehp": 30856,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -47521,8 +47521,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47532,12 +47532,12 @@
 "value": 30863.13,
 "swaps": 0,
 "proven": true,
-"omega": 32.5,
+"omega": 32.0,
 "modelled": 0.67,
 "dps": 85,
 "burst": 709,
 "ehp": 30863,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.1,
 "per_target": [
 {
@@ -47840,8 +47840,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47851,12 +47851,12 @@
 "value": 32517.02,
 "swaps": 0,
 "proven": true,
-"omega": 64.4,
+"omega": 64.2,
 "modelled": 0.67,
 "dps": 235,
 "burst": 544,
 "ehp": 32517,
-"sustain": 10,
+"sustain": 8,
 "utility": 4.3,
 "per_target": [
 {
@@ -48164,8 +48164,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48175,12 +48175,12 @@
 "value": 32892.73,
 "swaps": 0,
 "proven": true,
-"omega": 34.8,
+"omega": 34.7,
 "modelled": 0.67,
 "dps": 76,
 "burst": 413,
 "ehp": 32893,
-"sustain": 11,
+"sustain": 8,
 "utility": 4.1,
 "per_target": [
 {
@@ -48492,8 +48492,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48503,12 +48503,12 @@
 "value": 30541.87,
 "swaps": 0,
 "proven": true,
-"omega": 36.7,
+"omega": 36.6,
 "modelled": 0.67,
 "dps": 95,
 "burst": 686,
 "ehp": 30542,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.2,
 "per_target": [
 {
@@ -48811,8 +48811,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48822,12 +48822,12 @@
 "value": 31728.12,
 "swaps": 0,
 "proven": true,
-"omega": 159.9,
+"omega": 159.4,
 "modelled": 0.67,
 "dps": 764,
 "burst": 3523,
 "ehp": 31728,
-"sustain": 111,
+"sustain": 108,
 "utility": 3.6,
 "per_target": [
 {
@@ -49130,8 +49130,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49141,12 +49141,12 @@
 "value": 32918.04,
 "swaps": 0,
 "proven": true,
-"omega": 185.8,
+"omega": 185.7,
 "modelled": 0.67,
 "dps": 353,
 "burst": 4502,
 "ehp": 32918,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.1,
 "per_target": [
 {
@@ -49454,8 +49454,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49465,12 +49465,12 @@
 "value": 31536.96,
 "swaps": 0,
 "proven": true,
-"omega": 158.5,
+"omega": 158.0,
 "modelled": 0.67,
 "dps": 311,
 "burst": 1016,
 "ehp": 31537,
-"sustain": 195,
+"sustain": 192,
 "utility": 2.1,
 "per_target": [
 {
@@ -49782,8 +49782,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49793,12 +49793,12 @@
 "value": 33301.13,
 "swaps": 0,
 "proven": true,
-"omega": 65.7,
+"omega": 65.6,
 "modelled": 0.67,
 "dps": 107,
 "burst": 947,
 "ehp": 33301,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -50110,8 +50110,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50121,12 +50121,12 @@
 "value": 31428.14,
 "swaps": 0,
 "proven": true,
-"omega": 31.0,
+"omega": 30.9,
 "modelled": 0.67,
 "dps": 59,
 "burst": 454,
 "ehp": 31428,
-"sustain": 10,
+"sustain": 8,
 "utility": 0.9,
 "per_target": [
 {
@@ -50434,8 +50434,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50445,12 +50445,12 @@
 "value": 31327.08,
 "swaps": 0,
 "proven": true,
-"omega": 35.9,
+"omega": 35.8,
 "modelled": 0.67,
 "dps": 68,
 "burst": 570,
 "ehp": 31327,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.6,
 "per_target": [
 {
@@ -50753,8 +50753,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50764,12 +50764,12 @@
 "value": 32395.1,
 "swaps": 0,
 "proven": true,
-"omega": 42.3,
+"omega": 42.2,
 "modelled": 0.67,
 "dps": 76,
 "burst": 596,
 "ehp": 32395,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.7,
 "per_target": [
 {
@@ -51077,8 +51077,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51088,12 +51088,12 @@
 "value": 32660.23,
 "swaps": 0,
 "proven": true,
-"omega": 41.6,
+"omega": 41.4,
 "modelled": 0.67,
 "dps": 153,
 "burst": 649,
 "ehp": 32660,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -51396,8 +51396,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51407,12 +51407,12 @@
 "value": 32340.15,
 "swaps": 0,
 "proven": true,
-"omega": 151.8,
+"omega": 151.7,
 "modelled": 0.67,
 "dps": 292,
 "burst": 2762,
 "ehp": 32340,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.9,
 "per_target": [
 {
@@ -51715,8 +51715,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51726,12 +51726,12 @@
 "value": 35252.52,
 "swaps": 0,
 "proven": true,
-"omega": 46.3,
+"omega": 46.2,
 "modelled": 0.67,
 "dps": 75,
 "burst": 520,
 "ehp": 35253,
-"sustain": 11,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -52043,8 +52043,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52054,12 +52054,12 @@
 "value": 31636.09,
 "swaps": 0,
 "proven": true,
-"omega": 192.7,
+"omega": 192.6,
 "modelled": 0.67,
 "dps": 527,
 "burst": 4558,
 "ehp": 31636,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -52367,8 +52367,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52378,12 +52378,12 @@
 "value": 26291.75,
 "swaps": 0,
 "proven": true,
-"omega": 29.7,
+"omega": 29.3,
 "modelled": 0.83,
 "dps": 29,
 "burst": 235,
 "ehp": 26292,
-"sustain": 10,
+"sustain": 8,
 "utility": 5.0,
 "per_target": [
 {
@@ -52695,8 +52695,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52706,12 +52706,12 @@
 "value": 35921.91,
 "swaps": 0,
 "proven": true,
-"omega": 50.2,
+"omega": 50.1,
 "modelled": 0.67,
 "dps": 93,
 "burst": 821,
 "ehp": 35922,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -53019,8 +53019,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53030,12 +53030,12 @@
 "value": 33282.93,
 "swaps": 0,
 "proven": true,
-"omega": 133.5,
+"omega": 133.4,
 "modelled": 0.67,
 "dps": 363,
 "burst": 1825,
 "ehp": 33283,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -53338,8 +53338,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53349,12 +53349,12 @@
 "value": 31802.74,
 "swaps": 0,
 "proven": true,
-"omega": 99.0,
+"omega": 98.9,
 "modelled": 0.67,
 "dps": 188,
 "burst": 372,
 "ehp": 31803,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.9,
 "per_target": [
 {
@@ -53657,8 +53657,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53668,12 +53668,12 @@
 "value": 31520.03,
 "swaps": 0,
 "proven": true,
-"omega": 35.4,
+"omega": 35.2,
 "modelled": 0.67,
 "dps": 73,
 "burst": 673,
 "ehp": 31520,
-"sustain": 11,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -53976,8 +53976,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53987,12 +53987,12 @@
 "value": 31350.41,
 "swaps": 0,
 "proven": true,
-"omega": 37.8,
+"omega": 37.7,
 "modelled": 0.67,
 "dps": 111,
 "burst": 632,
 "ehp": 31350,
-"sustain": 10,
+"sustain": 8,
 "utility": 3.3,
 "per_target": [
 {
@@ -54295,8 +54295,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54306,12 +54306,12 @@
 "value": 30379.69,
 "swaps": 0,
 "proven": true,
-"omega": 19.1,
+"omega": 18.3,
 "modelled": 0.67,
 "dps": 26,
 "burst": 236,
 "ehp": 30380,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
@@ -54614,8 +54614,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54625,12 +54625,12 @@
 "value": 31502.94,
 "swaps": 0,
 "proven": true,
-"omega": 33.1,
+"omega": 33.0,
 "modelled": 0.67,
 "dps": 80,
 "burst": 490,
 "ehp": 31503,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.1,
 "per_target": [
 {
@@ -54938,8 +54938,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Taste of Blood",
-"Sixth Sense"
+"Magical Footwear",
+"Triple Tonic"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54949,12 +54949,12 @@
 "value": 29723.42,
 "swaps": 0,
 "proven": true,
-"omega": 33.0,
+"omega": 32.9,
 "modelled": 0.67,
 "dps": 57,
 "burst": 504,
 "ehp": 29723,
-"sustain": 10,
+"sustain": 8,
 "utility": 2.4,
 "per_target": [
 {
