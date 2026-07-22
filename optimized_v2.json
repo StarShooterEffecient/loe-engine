@@ -1,5 +1,5 @@
 {
-"_fingerprint": "1025866f2565afa9",
+"_fingerprint": "5c0e79a98fc0d08f",
 "Aatrox": {
 "objectives": {
 "omega": {
@@ -166,8 +166,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -177,13 +177,13 @@
 "value": 33891.45,
 "swaps": 0,
 "proven": true,
-"omega": 60.0,
+"omega": 60.4,
 "modelled": 0.67,
 "dps": 94,
 "burst": 623,
 "ehp": 33891,
 "sustain": 30,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -494,8 +494,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -505,28 +505,28 @@
 "value": 30693.61,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.2,
 "modelled": 0.67,
 "dps": 48,
 "burst": 423,
 "ehp": 30694,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 64,
-"ttk": 38.8
+"dps": 65,
+"ttk": 38.7
 },
 {
 "t": "Bruiser",
 "dps": 49,
-"ttk": 73.4
+"ttk": 73.2
 },
 {
 "t": "Tank",
 "dps": 31,
-"ttk": 156.7
+"ttk": 156.4
 }
 ]
 },
@@ -813,8 +813,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -824,13 +824,13 @@
 "value": 33631.43,
 "swaps": 0,
 "proven": true,
-"omega": 45.4,
+"omega": 45.7,
 "modelled": 0.67,
-"dps": 163,
+"dps": 164,
 "burst": 806,
 "ehp": 33631,
 "sustain": 8,
-"utility": 3.8,
+"utility": 3.9,
 "per_target": [
 {
 "t": "Squishy",
@@ -839,13 +839,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 166,
+"dps": 167,
 "ttk": 21.6
 },
 {
 "t": "Tank",
 "dps": 104,
-"ttk": 46.2
+"ttk": 46.0
 }
 ]
 },
@@ -1137,8 +1137,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1159,7 +1159,7 @@
 {
 "t": "Squishy",
 "dps": 70,
-"ttk": 35.9
+"ttk": 35.8
 },
 {
 "t": "Bruiser",
@@ -1169,7 +1169,7 @@
 {
 "t": "Tank",
 "dps": 33,
-"ttk": 144.6
+"ttk": 144.5
 }
 ]
 },
@@ -1237,8 +1237,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Taste of Blood",
-"Sixth Sense"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Tenacity Shard",
@@ -1248,12 +1248,12 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 16.1,
+"omega": 15.9,
 "modelled": 0.5,
 "dps": 72,
 "burst": 386,
 "ehp": 6086,
-"sustain": 3,
+"sustain": 0,
 "utility": 0.0,
 "per_target": [
 {
@@ -1264,12 +1264,12 @@
 {
 "t": "Bruiser",
 "dps": 74,
-"ttk": 48.7
+"ttk": 48.6
 },
 {
 "t": "Tank",
 "dps": 45,
-"ttk": 107.7
+"ttk": 107.6
 }
 ]
 }
@@ -1461,8 +1461,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1472,18 +1472,18 @@
 "value": 34812.42,
 "swaps": 0,
 "proven": true,
-"omega": 46.6,
+"omega": 47.3,
 "modelled": 0.67,
 "dps": 72,
 "burst": 486,
 "ehp": 34812,
 "sustain": 8,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 88,
-"ttk": 28.3
+"dps": 89,
+"ttk": 28.2
 },
 {
 "t": "Bruiser",
@@ -1780,8 +1780,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -1791,28 +1791,28 @@
 "value": 35245.39,
 "swaps": 0,
 "proven": true,
-"omega": 53.3,
+"omega": 54.1,
 "modelled": 0.67,
 "dps": 46,
 "burst": 510,
 "ehp": 35245,
 "sustain": 8,
-"utility": 7.7,
+"utility": 8.0,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 58,
-"ttk": 43.3
+"ttk": 43.1
 },
 {
 "t": "Bruiser",
-"dps": 47,
-"ttk": 75.9
+"dps": 48,
+"ttk": 75.6
 },
 {
 "t": "Tank",
 "dps": 31,
-"ttk": 152.9
+"ttk": 152.4
 }
 ]
 },
@@ -2104,8 +2104,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2115,28 +2115,28 @@
 "value": 31139.24,
 "swaps": 0,
 "proven": true,
-"omega": 34.9,
+"omega": 35.2,
 "modelled": 0.67,
 "dps": 81,
 "burst": 543,
 "ehp": 31139,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 108,
-"ttk": 23.1
+"dps": 109,
+"ttk": 23.0
 },
 {
 "t": "Bruiser",
-"dps": 82,
-"ttk": 43.7
+"dps": 83,
+"ttk": 43.6
 },
 {
 "t": "Tank",
-"dps": 51,
-"ttk": 93.3
+"dps": 52,
+"ttk": 93.1
 }
 ]
 },
@@ -2423,8 +2423,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2434,28 +2434,28 @@
 "value": 29019.66,
 "swaps": 0,
 "proven": true,
-"omega": 34.8,
+"omega": 35.2,
 "modelled": 0.67,
-"dps": 64,
+"dps": 65,
 "burst": 350,
 "ehp": 29020,
 "sustain": 7,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 86,
-"ttk": 29.1
+"dps": 87,
+"ttk": 28.8
 },
 {
 "t": "Bruiser",
-"dps": 65,
-"ttk": 55.1
+"dps": 66,
+"ttk": 54.4
 },
 {
 "t": "Tank",
 "dps": 41,
-"ttk": 117.6
+"ttk": 116.2
 }
 ]
 },
@@ -2742,8 +2742,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -2753,28 +2753,28 @@
 "value": 29596.22,
 "swaps": 0,
 "proven": true,
-"omega": 29.5,
+"omega": 29.7,
 "modelled": 0.67,
 "dps": 79,
 "burst": 553,
 "ehp": 29596,
 "sustain": 8,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 106,
-"ttk": 23.6
+"ttk": 23.5
 },
 {
 "t": "Bruiser",
 "dps": 81,
-"ttk": 44.6
+"ttk": 44.5
 },
 {
 "t": "Tank",
-"dps": 50,
-"ttk": 95.2
+"dps": 51,
+"ttk": 94.9
 }
 ]
 },
@@ -3061,8 +3061,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3072,28 +3072,28 @@
 "value": 30966.43,
 "swaps": 0,
 "proven": true,
-"omega": 37.0,
+"omega": 37.4,
 "modelled": 0.67,
 "dps": 86,
 "burst": 622,
 "ehp": 30966,
 "sustain": 8,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 115,
-"ttk": 21.8
+"dps": 116,
+"ttk": 21.6
 },
 {
 "t": "Bruiser",
-"dps": 88,
-"ttk": 40.9
+"dps": 89,
+"ttk": 40.7
 },
 {
 "t": "Tank",
 "dps": 55,
-"ttk": 87.8
+"ttk": 87.3
 }
 ]
 },
@@ -3385,8 +3385,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3396,28 +3396,28 @@
 "value": 29169.18,
 "swaps": 0,
 "proven": true,
-"omega": 34.2,
+"omega": 34.4,
 "modelled": 0.67,
 "dps": 62,
 "burst": 428,
 "ehp": 29169,
 "sustain": 7,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 83,
-"ttk": 30.2
+"ttk": 30.1
 },
 {
 "t": "Bruiser",
 "dps": 63,
-"ttk": 57.2
+"ttk": 57.1
 },
 {
 "t": "Tank",
 "dps": 39,
-"ttk": 122.2
+"ttk": 121.8
 }
 ]
 },
@@ -3704,8 +3704,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -3715,28 +3715,28 @@
 "value": 31813.44,
 "swaps": 0,
 "proven": true,
-"omega": 37.7,
+"omega": 38.1,
 "modelled": 0.67,
 "dps": 56,
 "burst": 538,
 "ehp": 31813,
 "sustain": 8,
-"utility": 5.0,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 75,
-"ttk": 33.5
+"ttk": 33.4
 },
 {
 "t": "Bruiser",
 "dps": 57,
-"ttk": 63.4
+"ttk": 63.2
 },
 {
 "t": "Tank",
-"dps": 35,
-"ttk": 135.3
+"dps": 36,
+"ttk": 134.9
 }
 ]
 },
@@ -4028,8 +4028,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4039,28 +4039,28 @@
 "value": 31736.4,
 "swaps": 0,
 "proven": true,
-"omega": 31.7,
+"omega": 32.1,
 "modelled": 0.67,
 "dps": 55,
 "burst": 598,
 "ehp": 31736,
 "sustain": 8,
-"utility": 5.1,
+"utility": 5.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 73,
-"ttk": 34.0
+"dps": 74,
+"ttk": 33.8
 },
 {
 "t": "Bruiser",
 "dps": 56,
-"ttk": 64.3
+"ttk": 63.9
 },
 {
 "t": "Tank",
 "dps": 35,
-"ttk": 137.4
+"ttk": 136.6
 }
 ]
 },
@@ -4347,8 +4347,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4358,13 +4358,13 @@
 "value": 31904.19,
 "swaps": 0,
 "proven": true,
-"omega": 23.1,
+"omega": 23.4,
 "modelled": 0.67,
 "dps": 25,
 "burst": 213,
 "ehp": 31904,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -4671,8 +4671,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -4682,13 +4682,13 @@
 "value": 32302.69,
 "swaps": 0,
 "proven": true,
-"omega": 120.4,
+"omega": 120.5,
 "modelled": 0.67,
 "dps": 489,
 "burst": 730,
 "ehp": 32303,
 "sustain": 409,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -4999,8 +4999,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5010,28 +5010,28 @@
 "value": 32886.81,
 "swaps": 0,
 "proven": true,
-"omega": 79.0,
+"omega": 79.9,
 "modelled": 0.67,
-"dps": 75,
+"dps": 77,
 "burst": 661,
 "ehp": 32887,
 "sustain": 8,
-"utility": 5.6,
+"utility": 5.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 99,
-"ttk": 25.2
+"dps": 102,
+"ttk": 24.6
 },
 {
 "t": "Bruiser",
-"dps": 77,
-"ttk": 46.5
+"dps": 79,
+"ttk": 45.5
 },
 {
 "t": "Tank",
-"dps": 49,
-"ttk": 97.4
+"dps": 50,
+"ttk": 95.3
 }
 ]
 },
@@ -5323,8 +5323,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5334,13 +5334,13 @@
 "value": 30794.34,
 "swaps": 0,
 "proven": true,
-"omega": 35.8,
+"omega": 36.0,
 "modelled": 0.67,
 "dps": 68,
 "burst": 513,
 "ehp": 30794,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -5349,13 +5349,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 69,
-"ttk": 51.8
+"dps": 70,
+"ttk": 51.7
 },
 {
 "t": "Tank",
 "dps": 45,
-"ttk": 107.0
+"ttk": 106.8
 }
 ]
 },
@@ -5642,8 +5642,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5653,28 +5653,28 @@
 "value": 37672.33,
 "swaps": 0,
 "proven": true,
-"omega": 51.8,
+"omega": 53.1,
 "modelled": 0.67,
 "dps": 64,
 "burst": 512,
 "ehp": 37672,
 "sustain": 8,
-"utility": 8.3,
+"utility": 8.6,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 86,
-"ttk": 29.1
+"ttk": 29.0
 },
 {
 "t": "Bruiser",
 "dps": 66,
-"ttk": 54.9
+"ttk": 54.7
 },
 {
 "t": "Tank",
 "dps": 41,
-"ttk": 117.4
+"ttk": 117.1
 }
 ]
 },
@@ -5970,8 +5970,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -5981,13 +5981,13 @@
 "value": 31074.83,
 "swaps": 0,
 "proven": true,
-"omega": 43.0,
+"omega": 43.4,
 "modelled": 0.67,
 "dps": 85,
 "burst": 866,
 "ehp": 31075,
 "sustain": 16,
-"utility": 5.0,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -5997,12 +5997,12 @@
 {
 "t": "Bruiser",
 "dps": 87,
-"ttk": 41.3
+"ttk": 41.2
 },
 {
 "t": "Tank",
 "dps": 54,
-"ttk": 88.6
+"ttk": 88.4
 }
 ]
 },
@@ -6302,8 +6302,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6313,13 +6313,13 @@
 "value": 31534.55,
 "swaps": 0,
 "proven": true,
-"omega": 49.3,
+"omega": 49.5,
 "modelled": 0.67,
 "dps": 249,
 "burst": 887,
 "ehp": 31535,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -6328,13 +6328,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 254,
+"dps": 255,
 "ttk": 14.1
 },
 {
 "t": "Tank",
 "dps": 159,
-"ttk": 30.3
+"ttk": 30.2
 }
 ]
 },
@@ -6621,8 +6621,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6632,13 +6632,13 @@
 "value": 31879.75,
 "swaps": 0,
 "proven": true,
-"omega": 71.7,
+"omega": 72.2,
 "modelled": 0.67,
 "dps": 98,
 "burst": 391,
 "ehp": 31880,
 "sustain": 63,
-"utility": 6.3,
+"utility": 6.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -6949,8 +6949,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -6960,13 +6960,13 @@
 "value": 30599.25,
 "swaps": 0,
 "proven": true,
-"omega": 37.6,
+"omega": 37.8,
 "modelled": 0.67,
 "dps": 141,
 "burst": 526,
 "ehp": 30599,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -7273,8 +7273,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7284,28 +7284,28 @@
 "value": 31399.4,
 "swaps": 0,
 "proven": true,
-"omega": 48.6,
+"omega": 48.9,
 "modelled": 0.67,
-"dps": 166,
+"dps": 167,
 "burst": 1258,
 "ehp": 31399,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 203,
-"ttk": 12.3
+"dps": 204,
+"ttk": 12.2
 },
 {
 "t": "Bruiser",
-"dps": 168,
-"ttk": 21.4
+"dps": 169,
+"ttk": 21.2
 },
 {
 "t": "Tank",
-"dps": 127,
-"ttk": 37.9
+"dps": 128,
+"ttk": 37.5
 }
 ]
 },
@@ -7592,8 +7592,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7603,9 +7603,9 @@
 "value": 30830.29,
 "swaps": 0,
 "proven": true,
-"omega": 39.2,
+"omega": 39.6,
 "modelled": 0.67,
-"dps": 135,
+"dps": 141,
 "burst": 656,
 "ehp": 30830,
 "sustain": 8,
@@ -7613,18 +7613,18 @@
 "per_target": [
 {
 "t": "Squishy",
-"dps": 181,
-"ttk": 13.8
+"dps": 189,
+"ttk": 13.3
 },
 {
 "t": "Bruiser",
-"dps": 138,
-"ttk": 26.0
+"dps": 144,
+"ttk": 24.9
 },
 {
 "t": "Tank",
-"dps": 86,
-"ttk": 55.8
+"dps": 90,
+"ttk": 53.5
 }
 ]
 },
@@ -7911,8 +7911,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -7922,28 +7922,28 @@
 "value": 36908.06,
 "swaps": 0,
 "proven": true,
-"omega": 42.7,
+"omega": 43.2,
 "modelled": 0.67,
-"dps": 93,
+"dps": 94,
 "burst": 797,
 "ehp": 36908,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 112,
-"ttk": 22.2
+"dps": 113,
+"ttk": 22.1
 },
 {
 "t": "Bruiser",
 "dps": 95,
-"ttk": 38.1
+"ttk": 37.8
 },
 {
 "t": "Tank",
 "dps": 72,
-"ttk": 66.8
+"ttk": 66.3
 }
 ]
 },
@@ -8235,8 +8235,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8246,28 +8246,28 @@
 "value": 32626.39,
 "swaps": 0,
 "proven": true,
-"omega": 30.5,
+"omega": 30.7,
 "modelled": 0.67,
 "dps": 61,
 "burst": 595,
 "ehp": 32626,
 "sustain": 8,
-"utility": 3.0,
+"utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 82,
-"ttk": 30.6
+"ttk": 30.5
 },
 {
 "t": "Bruiser",
-"dps": 62,
-"ttk": 57.9
+"dps": 63,
+"ttk": 57.6
 },
 {
 "t": "Tank",
 "dps": 39,
-"ttk": 123.7
+"ttk": 123.1
 }
 ]
 },
@@ -8554,8 +8554,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8565,13 +8565,13 @@
 "value": 32190.09,
 "swaps": 0,
 "proven": true,
-"omega": 39.7,
+"omega": 39.8,
 "modelled": 0.67,
 "dps": 142,
 "burst": 631,
 "ehp": 32190,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -8882,8 +8882,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -8893,28 +8893,28 @@
 "value": 31759.53,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.2,
 "modelled": 0.67,
-"dps": 57,
+"dps": 58,
 "burst": 507,
 "ehp": 31760,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 77,
-"ttk": 32.6
+"ttk": 32.5
 },
 {
 "t": "Bruiser",
 "dps": 59,
-"ttk": 61.0
+"ttk": 60.8
 },
 {
 "t": "Tank",
 "dps": 37,
-"ttk": 131.4
+"ttk": 130.9
 }
 ]
 },
@@ -9210,8 +9210,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9221,28 +9221,28 @@
 "value": 31590.79,
 "swaps": 0,
 "proven": true,
-"omega": 51.9,
+"omega": 52.2,
 "modelled": 0.67,
-"dps": 72,
+"dps": 73,
 "burst": 612,
 "ehp": 31591,
 "sustain": 8,
-"utility": 5.1,
+"utility": 5.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 97,
-"ttk": 25.8
+"ttk": 25.7
 },
 {
 "t": "Bruiser",
 "dps": 74,
-"ttk": 48.9
+"ttk": 48.5
 },
 {
 "t": "Tank",
 "dps": 46,
-"ttk": 104.4
+"ttk": 103.7
 }
 ]
 },
@@ -9529,8 +9529,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9540,7 +9540,7 @@
 "value": 31992.14,
 "swaps": 0,
 "proven": true,
-"omega": 29.8,
+"omega": 29.9,
 "modelled": 0.67,
 "dps": 63,
 "burst": 450,
@@ -9848,8 +9848,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -9859,28 +9859,28 @@
 "value": 33702.14,
 "swaps": 0,
 "proven": true,
-"omega": 85.8,
+"omega": 86.0,
 "modelled": 0.67,
-"dps": 122,
+"dps": 123,
 "burst": 1212,
 "ehp": 33702,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 149,
-"ttk": 16.7
+"dps": 150,
+"ttk": 16.6
 },
 {
 "t": "Bruiser",
-"dps": 127,
-"ttk": 28.2
+"dps": 128,
+"ttk": 28.0
 },
 {
 "t": "Tank",
-"dps": 89,
-"ttk": 53.9
+"dps": 90,
+"ttk": 53.5
 }
 ]
 },
@@ -10176,8 +10176,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10187,9 +10187,9 @@
 "value": 30661.82,
 "swaps": 0,
 "proven": true,
-"omega": 46.8,
+"omega": 46.9,
 "modelled": 0.67,
-"dps": 133,
+"dps": 134,
 "burst": 1216,
 "ehp": 30662,
 "sustain": 8,
@@ -10197,18 +10197,18 @@
 "per_target": [
 {
 "t": "Squishy",
-"dps": 179,
-"ttk": 14.0
+"dps": 180,
+"ttk": 13.9
 },
 {
 "t": "Bruiser",
-"dps": 136,
-"ttk": 26.4
+"dps": 137,
+"ttk": 26.3
 },
 {
 "t": "Tank",
 "dps": 85,
-"ttk": 56.5
+"ttk": 56.2
 }
 ]
 },
@@ -10495,8 +10495,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10506,13 +10506,13 @@
 "value": 32158.57,
 "swaps": 0,
 "proven": true,
-"omega": 32.0,
+"omega": 32.3,
 "modelled": 0.67,
 "dps": 32,
 "burst": 272,
 "ehp": 32159,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -10814,8 +10814,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -10825,13 +10825,13 @@
 "value": 31738.09,
 "swaps": 0,
 "proven": true,
-"omega": 25.5,
+"omega": 25.6,
 "modelled": 0.67,
 "dps": 66,
 "burst": 466,
 "ehp": 31738,
 "sustain": 10,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -11138,8 +11138,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11149,13 +11149,13 @@
 "value": 32298.85,
 "swaps": 0,
 "proven": true,
-"omega": 39.6,
+"omega": 40.0,
 "modelled": 0.67,
-"dps": 106,
+"dps": 107,
 "burst": 649,
 "ehp": 32299,
 "sustain": 8,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -11164,13 +11164,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 108,
-"ttk": 33.2
+"dps": 109,
+"ttk": 33.1
 },
 {
 "t": "Tank",
 "dps": 68,
-"ttk": 70.8
+"ttk": 70.7
 }
 ]
 },
@@ -11457,8 +11457,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11468,28 +11468,28 @@
 "value": 34236.75,
 "swaps": 0,
 "proven": true,
-"omega": 47.5,
+"omega": 48.5,
 "modelled": 0.67,
-"dps": 58,
+"dps": 59,
 "burst": 543,
 "ehp": 34237,
 "sustain": 8,
-"utility": 7.3,
+"utility": 7.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 78,
-"ttk": 31.9
+"dps": 79,
+"ttk": 31.8
 },
 {
 "t": "Bruiser",
 "dps": 60,
-"ttk": 60.4
+"ttk": 60.3
 },
 {
 "t": "Tank",
 "dps": 37,
-"ttk": 128.9
+"ttk": 128.7
 }
 ]
 },
@@ -11776,8 +11776,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -11787,13 +11787,13 @@
 "value": 33396.93,
 "swaps": 0,
 "proven": true,
-"omega": 26.0,
+"omega": 26.1,
 "modelled": 0.67,
 "dps": 125,
 "burst": 395,
 "ehp": 33397,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -12095,8 +12095,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12106,28 +12106,28 @@
 "value": 31608.04,
 "swaps": 0,
 "proven": true,
-"omega": 34.6,
+"omega": 34.8,
 "modelled": 0.67,
 "dps": 68,
 "burst": 638,
 "ehp": 31608,
 "sustain": 8,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 82,
-"ttk": 30.4
+"dps": 83,
+"ttk": 30.2
 },
 {
 "t": "Bruiser",
 "dps": 69,
-"ttk": 52.2
+"ttk": 52.0
 },
 {
 "t": "Tank",
 "dps": 52,
-"ttk": 92.9
+"ttk": 92.3
 }
 ]
 },
@@ -12414,8 +12414,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12425,17 +12425,17 @@
 "value": 27797.87,
 "swaps": 0,
 "proven": true,
-"omega": 174.6,
+"omega": 175.0,
 "modelled": 0.67,
 "dps": 324,
 "burst": 3144,
 "ehp": 27798,
 "sustain": 7,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 351,
+"dps": 352,
 "ttk": 7.1
 },
 {
@@ -12738,8 +12738,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -12749,13 +12749,13 @@
 "value": 34080.05,
 "swaps": 0,
 "proven": true,
-"omega": 167.6,
+"omega": 167.9,
 "modelled": 0.67,
 "dps": 623,
 "burst": 3005,
 "ehp": 34080,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -13057,8 +13057,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13068,28 +13068,28 @@
 "value": 32272.1,
 "swaps": 0,
 "proven": true,
-"omega": 41.7,
+"omega": 41.9,
 "modelled": 0.67,
 "dps": 91,
 "burst": 894,
 "ehp": 32272,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 121,
-"ttk": 20.6
+"dps": 122,
+"ttk": 20.5
 },
 {
 "t": "Bruiser",
-"dps": 93,
-"ttk": 38.7
+"dps": 94,
+"ttk": 38.3
 },
 {
 "t": "Tank",
 "dps": 58,
-"ttk": 83.2
+"ttk": 82.5
 }
 ]
 },
@@ -13381,8 +13381,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13392,13 +13392,13 @@
 "value": 33917.76,
 "swaps": 0,
 "proven": true,
-"omega": 43.0,
+"omega": 43.1,
 "modelled": 0.67,
 "dps": 104,
 "burst": 468,
 "ehp": 33918,
-"sustain": 40,
-"utility": 2.1,
+"sustain": 41,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -13413,7 +13413,7 @@
 {
 "t": "Tank",
 "dps": 66,
-"ttk": 72.6
+"ttk": 72.5
 }
 ]
 },
@@ -13705,8 +13705,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -13716,28 +13716,28 @@
 "value": 33028.54,
 "swaps": 0,
 "proven": true,
-"omega": 45.2,
+"omega": 45.5,
 "modelled": 0.67,
 "dps": 61,
 "burst": 666,
 "ehp": 33029,
 "sustain": 15,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 81,
-"ttk": 30.7
+"dps": 82,
+"ttk": 30.6
 },
 {
 "t": "Bruiser",
-"dps": 62,
-"ttk": 57.7
+"dps": 63,
+"ttk": 57.5
 },
 {
 "t": "Tank",
 "dps": 39,
-"ttk": 123.9
+"ttk": 123.6
 }
 ]
 },
@@ -14024,8 +14024,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14035,13 +14035,13 @@
 "value": 30519.79,
 "swaps": 0,
 "proven": true,
-"omega": 28.2,
+"omega": 28.3,
 "modelled": 0.67,
 "dps": 30,
 "burst": 283,
 "ehp": 30520,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -14343,8 +14343,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14354,28 +14354,28 @@
 "value": 31509.3,
 "swaps": 0,
 "proven": true,
-"omega": 34.4,
+"omega": 34.6,
 "modelled": 0.67,
 "dps": 78,
 "burst": 558,
 "ehp": 31509,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 105,
-"ttk": 23.9
+"ttk": 23.8
 },
 {
 "t": "Bruiser",
 "dps": 80,
-"ttk": 45.2
+"ttk": 45.0
 },
 {
 "t": "Tank",
 "dps": 50,
-"ttk": 96.5
+"ttk": 96.2
 }
 ]
 },
@@ -14662,8 +14662,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14673,28 +14673,28 @@
 "value": 34060.69,
 "swaps": 0,
 "proven": true,
-"omega": 30.7,
+"omega": 30.8,
 "modelled": 0.67,
 "dps": 41,
 "burst": 332,
 "ehp": 34061,
 "sustain": 8,
-"utility": 1.7,
+"utility": 1.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 54,
-"ttk": 46.1
+"dps": 55,
+"ttk": 45.8
 },
 {
 "t": "Bruiser",
 "dps": 42,
-"ttk": 86.3
+"ttk": 85.9
 },
 {
 "t": "Tank",
 "dps": 26,
-"ttk": 185.8
+"ttk": 184.8
 }
 ]
 },
@@ -14981,8 +14981,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -14992,28 +14992,28 @@
 "value": 33633.63,
 "swaps": 0,
 "proven": true,
-"omega": 33.1,
+"omega": 33.2,
 "modelled": 0.67,
 "dps": 69,
 "burst": 569,
 "ehp": 33634,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 93,
-"ttk": 27.0
+"ttk": 26.9
 },
 {
 "t": "Bruiser",
 "dps": 71,
-"ttk": 50.8
+"ttk": 50.6
 },
 {
 "t": "Tank",
 "dps": 44,
-"ttk": 108.9
+"ttk": 108.6
 }
 ]
 },
@@ -15300,8 +15300,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15311,13 +15311,13 @@
 "value": 30983.79,
 "swaps": 0,
 "proven": true,
-"omega": 30.2,
+"omega": 30.6,
 "modelled": 0.67,
 "dps": 85,
 "burst": 339,
 "ehp": 30984,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -15619,8 +15619,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15630,13 +15630,13 @@
 "value": 29529.01,
 "swaps": 0,
 "proven": true,
-"omega": 25.8,
+"omega": 26.2,
 "modelled": 0.67,
 "dps": 46,
 "burst": 367,
 "ehp": 29529,
 "sustain": 7,
-"utility": 5.8,
+"utility": 6.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -15947,8 +15947,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -15958,28 +15958,28 @@
 "value": 34152.85,
 "swaps": 0,
 "proven": true,
-"omega": 37.6,
+"omega": 38.2,
 "modelled": 0.67,
 "dps": 67,
 "burst": 599,
 "ehp": 34153,
 "sustain": 24,
-"utility": 6.3,
+"utility": 6.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 89,
-"ttk": 28.0
+"dps": 90,
+"ttk": 27.9
 },
 {
 "t": "Bruiser",
 "dps": 69,
-"ttk": 52.5
+"ttk": 52.3
 },
 {
 "t": "Tank",
 "dps": 43,
-"ttk": 112.8
+"ttk": 112.4
 }
 ]
 },
@@ -16275,8 +16275,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16286,17 +16286,17 @@
 "value": 34046.6,
 "swaps": 0,
 "proven": true,
-"omega": 175.1,
+"omega": 175.2,
 "modelled": 0.67,
 "dps": 453,
 "burst": 3426,
 "ehp": 34047,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 488,
+"dps": 489,
 "ttk": 5.1
 },
 {
@@ -16599,8 +16599,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16610,17 +16610,17 @@
 "value": 31892.37,
 "swaps": 0,
 "proven": true,
-"omega": 43.6,
+"omega": 43.8,
 "modelled": 0.67,
 "dps": 196,
 "burst": 706,
 "ehp": 31892,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 262,
+"dps": 263,
 "ttk": 9.5
 },
 {
@@ -16918,8 +16918,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -16929,13 +16929,13 @@
 "value": 31253.66,
 "swaps": 0,
 "proven": true,
-"omega": 38.4,
+"omega": 38.6,
 "modelled": 0.67,
-"dps": 110,
+"dps": 111,
 "burst": 707,
 "ehp": 31254,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -16944,13 +16944,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 113,
-"ttk": 31.8
+"dps": 114,
+"ttk": 31.6
 },
 {
 "t": "Tank",
-"dps": 70,
-"ttk": 68.4
+"dps": 71,
+"ttk": 68.1
 }
 ]
 },
@@ -17242,8 +17242,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17253,28 +17253,28 @@
 "value": 34556.59,
 "swaps": 0,
 "proven": true,
-"omega": 48.8,
+"omega": 49.7,
 "modelled": 0.67,
 "dps": 87,
 "burst": 714,
 "ehp": 34557,
 "sustain": 8,
-"utility": 7.2,
+"utility": 7.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 116,
-"ttk": 21.6
+"ttk": 21.5
 },
 {
 "t": "Bruiser",
 "dps": 89,
-"ttk": 40.4
+"ttk": 40.3
 },
 {
 "t": "Tank",
 "dps": 55,
-"ttk": 87.0
+"ttk": 86.8
 }
 ]
 },
@@ -17566,8 +17566,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17577,13 +17577,13 @@
 "value": 30954.25,
 "swaps": 0,
 "proven": true,
-"omega": 20.7,
+"omega": 20.8,
 "modelled": 0.67,
 "dps": 52,
 "burst": 396,
 "ehp": 30954,
 "sustain": 13,
-"utility": 1.8,
+"utility": 1.9,
 "per_target": [
 {
 "t": "Squishy",
@@ -17890,8 +17890,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -17901,13 +17901,13 @@
 "value": 32394.25,
 "swaps": 0,
 "proven": true,
-"omega": 70.4,
+"omega": 70.9,
 "modelled": 0.67,
 "dps": 83,
 "burst": 895,
 "ehp": 32394,
 "sustain": 8,
-"utility": 5.3,
+"utility": 5.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -18209,8 +18209,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18220,13 +18220,13 @@
 "value": 32322.05,
 "swaps": 0,
 "proven": true,
-"omega": 26.2,
+"omega": 26.5,
 "modelled": 0.67,
 "dps": 42,
 "burst": 290,
 "ehp": 32322,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -18528,8 +18528,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18539,28 +18539,28 @@
 "value": 31871.54,
 "swaps": 0,
 "proven": true,
-"omega": 34.5,
+"omega": 34.6,
 "modelled": 0.67,
 "dps": 106,
 "burst": 454,
 "ehp": 31872,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 142,
-"ttk": 17.6
+"ttk": 17.5
 },
 {
 "t": "Bruiser",
 "dps": 108,
-"ttk": 33.3
+"ttk": 33.2
 },
 {
 "t": "Tank",
 "dps": 68,
-"ttk": 71.0
+"ttk": 70.9
 }
 ]
 },
@@ -18847,8 +18847,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -18858,28 +18858,28 @@
 "value": 31865.92,
 "swaps": 0,
 "proven": true,
-"omega": 31.2,
+"omega": 31.6,
 "modelled": 0.67,
-"dps": 94,
+"dps": 99,
 "burst": 456,
 "ehp": 31866,
 "sustain": 8,
-"utility": 3.0,
+"utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 127,
-"ttk": 19.7
+"dps": 132,
+"ttk": 18.9
 },
 {
 "t": "Bruiser",
-"dps": 96,
-"ttk": 37.4
+"dps": 101,
+"ttk": 35.8
 },
 {
 "t": "Tank",
-"dps": 60,
-"ttk": 79.8
+"dps": 63,
+"ttk": 76.4
 }
 ]
 },
@@ -19166,8 +19166,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19188,17 +19188,17 @@
 {
 "t": "Squishy",
 "dps": 63,
-"ttk": 39.7
+"ttk": 39.6
 },
 {
 "t": "Bruiser",
 "dps": 48,
-"ttk": 74.9
+"ttk": 74.8
 },
 {
 "t": "Tank",
 "dps": 30,
-"ttk": 160.3
+"ttk": 160.0
 }
 ]
 },
@@ -19490,8 +19490,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19501,28 +19501,28 @@
 "value": 29797.54,
 "swaps": 0,
 "proven": true,
-"omega": 27.5,
+"omega": 27.6,
 "modelled": 0.67,
 "dps": 46,
 "burst": 477,
 "ehp": 29798,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 62,
-"ttk": 40.6
+"ttk": 40.3
 },
 {
 "t": "Bruiser",
 "dps": 47,
-"ttk": 76.8
+"ttk": 76.3
 },
 {
 "t": "Tank",
 "dps": 29,
-"ttk": 164.0
+"ttk": 163.0
 }
 ]
 },
@@ -19814,8 +19814,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -19825,28 +19825,28 @@
 "value": 32479.64,
 "swaps": 0,
 "proven": true,
-"omega": 33.2,
+"omega": 33.4,
 "modelled": 0.67,
-"dps": 92,
+"dps": 93,
 "burst": 644,
 "ehp": 32480,
 "sustain": 15,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 123,
+"dps": 124,
 "ttk": 20.2
 },
 {
 "t": "Bruiser",
 "dps": 95,
-"ttk": 37.9
+"ttk": 37.8
 },
 {
 "t": "Tank",
 "dps": 59,
-"ttk": 81.6
+"ttk": 81.4
 }
 ]
 },
@@ -20133,8 +20133,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20144,13 +20144,13 @@
 "value": 30798.28,
 "swaps": 0,
 "proven": true,
-"omega": 35.4,
+"omega": 35.5,
 "modelled": 0.67,
 "dps": 113,
 "burst": 607,
 "ehp": 30798,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -20160,12 +20160,12 @@
 {
 "t": "Bruiser",
 "dps": 116,
-"ttk": 31.2
+"ttk": 31.1
 },
 {
 "t": "Tank",
 "dps": 72,
-"ttk": 66.6
+"ttk": 66.5
 }
 ]
 },
@@ -20457,8 +20457,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20468,13 +20468,13 @@
 "value": 31512.84,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.5,
 "modelled": 0.67,
 "dps": 64,
 "burst": 468,
 "ehp": 31513,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -20776,8 +20776,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -20787,13 +20787,13 @@
 "value": 31383.86,
 "swaps": 0,
 "proven": true,
-"omega": 49.5,
+"omega": 49.7,
 "modelled": 0.67,
 "dps": 66,
 "burst": 536,
 "ehp": 31384,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -21095,8 +21095,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21106,28 +21106,28 @@
 "value": 29048.43,
 "swaps": 0,
 "proven": true,
-"omega": 42.2,
+"omega": 42.6,
 "modelled": 0.83,
 "dps": 42,
 "burst": 404,
 "ehp": 29048,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 52,
-"ttk": 47.7
+"dps": 53,
+"ttk": 47.6
 },
 {
 "t": "Bruiser",
 "dps": 44,
-"ttk": 82.3
+"ttk": 82.1
 },
 {
 "t": "Tank",
 "dps": 30,
-"ttk": 162.6
+"ttk": 162.0
 }
 ]
 },
@@ -21414,8 +21414,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21425,28 +21425,28 @@
 "value": 31563.7,
 "swaps": 0,
 "proven": true,
-"omega": 42.0,
+"omega": 42.4,
 "modelled": 0.67,
 "dps": 39,
 "burst": 404,
 "ehp": 31564,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 49,
-"ttk": 51.0
+"ttk": 50.9
 },
 {
 "t": "Bruiser",
 "dps": 41,
-"ttk": 87.6
+"ttk": 87.3
 },
 {
 "t": "Tank",
 "dps": 28,
-"ttk": 172.2
+"ttk": 171.5
 }
 ]
 },
@@ -21733,8 +21733,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -21744,13 +21744,13 @@
 "value": 30728.99,
 "swaps": 0,
 "proven": true,
-"omega": 177.9,
+"omega": 178.0,
 "modelled": 0.67,
 "dps": 2108,
 "burst": 2216,
 "ehp": 30729,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -22057,8 +22057,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22068,28 +22068,28 @@
 "value": 31211.84,
 "swaps": 0,
 "proven": true,
-"omega": 91.4,
+"omega": 91.6,
 "modelled": 0.67,
-"dps": 116,
+"dps": 118,
 "burst": 941,
 "ehp": 31212,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 153,
-"ttk": 16.4
+"dps": 155,
+"ttk": 16.1
 },
 {
 "t": "Bruiser",
-"dps": 119,
-"ttk": 30.1
+"dps": 121,
+"ttk": 29.7
 },
 {
 "t": "Tank",
-"dps": 77,
-"ttk": 62.6
+"dps": 78,
+"ttk": 61.6
 }
 ]
 },
@@ -22376,8 +22376,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22387,28 +22387,28 @@
 "value": 32891.86,
 "swaps": 0,
 "proven": true,
-"omega": 32.1,
+"omega": 32.3,
 "modelled": 0.67,
-"dps": 100,
+"dps": 101,
 "burst": 960,
 "ehp": 32892,
 "sustain": 8,
-"utility": 3.0,
+"utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 134,
-"ttk": 18.7
+"dps": 135,
+"ttk": 18.5
 },
 {
 "t": "Bruiser",
-"dps": 103,
-"ttk": 35.1
+"dps": 104,
+"ttk": 34.8
 },
 {
 "t": "Tank",
 "dps": 64,
-"ttk": 75.4
+"ttk": 74.7
 }
 ]
 },
@@ -22695,8 +22695,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -22706,13 +22706,13 @@
 "value": 37804.87,
 "swaps": 0,
 "proven": true,
-"omega": 44.5,
+"omega": 45.3,
 "modelled": 0.67,
 "dps": 84,
 "burst": 580,
 "ehp": 37805,
 "sustain": 8,
-"utility": 6.4,
+"utility": 6.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -22722,12 +22722,12 @@
 {
 "t": "Bruiser",
 "dps": 86,
-"ttk": 41.8
+"ttk": 41.7
 },
 {
 "t": "Tank",
 "dps": 54,
-"ttk": 89.4
+"ttk": 89.2
 }
 ]
 },
@@ -23023,8 +23023,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23034,28 +23034,28 @@
 "value": 31390.59,
 "swaps": 0,
 "proven": true,
-"omega": 32.0,
+"omega": 32.2,
 "modelled": 0.67,
 "dps": 41,
 "burst": 401,
 "ehp": 31391,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 55,
-"ttk": 45.6
+"ttk": 45.5
 },
 {
 "t": "Bruiser",
 "dps": 42,
-"ttk": 86.3
+"ttk": 86.1
 },
 {
 "t": "Tank",
 "dps": 26,
-"ttk": 184.2
+"ttk": 183.8
 }
 ]
 },
@@ -23342,8 +23342,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23353,13 +23353,13 @@
 "value": 31564.3,
 "swaps": 0,
 "proven": true,
-"omega": 35.4,
+"omega": 36.0,
 "modelled": 0.67,
 "dps": 90,
 "burst": 618,
 "ehp": 31564,
 "sustain": 8,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
@@ -23369,12 +23369,12 @@
 {
 "t": "Bruiser",
 "dps": 92,
-"ttk": 39.2
+"ttk": 39.1
 },
 {
 "t": "Tank",
-"dps": 57,
-"ttk": 83.7
+"dps": 58,
+"ttk": 83.5
 }
 ]
 },
@@ -23661,8 +23661,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23672,28 +23672,28 @@
 "value": 32695.14,
 "swaps": 0,
 "proven": true,
-"omega": 36.6,
+"omega": 36.9,
 "modelled": 0.67,
-"dps": 77,
+"dps": 78,
 "burst": 657,
 "ehp": 32695,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 104,
-"ttk": 24.1
+"ttk": 24.0
 },
 {
 "t": "Bruiser",
 "dps": 79,
-"ttk": 45.5
+"ttk": 45.4
 },
 {
 "t": "Tank",
 "dps": 49,
-"ttk": 97.2
+"ttk": 97.0
 }
 ]
 },
@@ -23985,8 +23985,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -23996,7 +23996,7 @@
 "value": 30864.99,
 "swaps": 0,
 "proven": true,
-"omega": 29.2,
+"omega": 29.3,
 "modelled": 0.67,
 "dps": 53,
 "burst": 385,
@@ -24007,17 +24007,17 @@
 {
 "t": "Squishy",
 "dps": 70,
-"ttk": 35.6
+"ttk": 35.5
 },
 {
 "t": "Bruiser",
 "dps": 54,
-"ttk": 66.8
+"ttk": 66.7
 },
 {
 "t": "Tank",
 "dps": 33,
-"ttk": 143.5
+"ttk": 143.4
 }
 ]
 },
@@ -24309,8 +24309,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24320,13 +24320,13 @@
 "value": 29702.76,
 "swaps": 0,
 "proven": true,
-"omega": 23.1,
+"omega": 23.3,
 "modelled": 0.67,
 "dps": 49,
 "burst": 342,
 "ehp": 29703,
 "sustain": 7,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -24633,8 +24633,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24644,28 +24644,28 @@
 "value": 30761.35,
 "swaps": 0,
 "proven": true,
-"omega": 32.3,
+"omega": 32.6,
 "modelled": 0.67,
-"dps": 92,
+"dps": 93,
 "burst": 653,
 "ehp": 30761,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 123,
-"ttk": 20.3
+"dps": 124,
+"ttk": 20.1
 },
 {
 "t": "Bruiser",
-"dps": 94,
-"ttk": 38.3
+"dps": 95,
+"ttk": 38.0
 },
 {
 "t": "Tank",
 "dps": 59,
-"ttk": 81.9
+"ttk": 81.3
 }
 ]
 },
@@ -24952,8 +24952,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -24963,13 +24963,13 @@
 "value": 34885.91,
 "swaps": 0,
 "proven": true,
-"omega": 54.7,
+"omega": 55.3,
 "modelled": 0.67,
 "dps": 101,
 "burst": 660,
 "ehp": 34886,
 "sustain": 8,
-"utility": 5.2,
+"utility": 5.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -24984,7 +24984,7 @@
 {
 "t": "Tank",
 "dps": 71,
-"ttk": 67.8
+"ttk": 67.7
 }
 ]
 },
@@ -25276,8 +25276,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25287,28 +25287,28 @@
 "value": 30526.81,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.2,
 "modelled": 0.67,
 "dps": 56,
 "burst": 457,
 "ehp": 30527,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 76,
-"ttk": 33.1
+"ttk": 33.0
 },
 {
 "t": "Bruiser",
-"dps": 57,
-"ttk": 62.7
+"dps": 58,
+"ttk": 62.5
 },
 {
 "t": "Tank",
 "dps": 36,
-"ttk": 133.8
+"ttk": 133.4
 }
 ]
 },
@@ -25595,8 +25595,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25606,13 +25606,13 @@
 "value": 33583.99,
 "swaps": 0,
 "proven": true,
-"omega": 198.2,
+"omega": 198.5,
 "modelled": 0.67,
 "dps": 1085,
 "burst": 5022,
 "ehp": 33584,
 "sustain": 8,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
@@ -25919,8 +25919,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -25930,13 +25930,13 @@
 "value": 32402.61,
 "swaps": 0,
 "proven": true,
-"omega": 32.8,
+"omega": 32.9,
 "modelled": 0.67,
 "dps": 62,
 "burst": 593,
 "ehp": 32403,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -26247,8 +26247,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26258,28 +26258,28 @@
 "value": 31082.59,
 "swaps": 0,
 "proven": true,
-"omega": 26.9,
+"omega": 27.2,
 "modelled": 0.67,
 "dps": 63,
 "burst": 556,
 "ehp": 31083,
 "sustain": 8,
-"utility": 3.2,
+"utility": 3.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 84,
-"ttk": 29.7
+"ttk": 29.6
 },
 {
 "t": "Bruiser",
 "dps": 64,
-"ttk": 56.1
+"ttk": 56.0
 },
 {
 "t": "Tank",
 "dps": 40,
-"ttk": 120.1
+"ttk": 119.7
 }
 ]
 },
@@ -26566,8 +26566,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26577,13 +26577,13 @@
 "value": 29236.86,
 "swaps": 0,
 "proven": true,
-"omega": 22.0,
+"omega": 22.2,
 "modelled": 0.67,
 "dps": 37,
 "burst": 295,
 "ehp": 29237,
 "sustain": 7,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -26890,8 +26890,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -26901,13 +26901,13 @@
 "value": 30509.95,
 "swaps": 0,
 "proven": true,
-"omega": 30.9,
+"omega": 31.0,
 "modelled": 0.67,
 "dps": 82,
 "burst": 411,
 "ehp": 30510,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -26922,7 +26922,7 @@
 {
 "t": "Tank",
 "dps": 52,
-"ttk": 92.5
+"ttk": 92.4
 }
 ]
 },
@@ -27056,11 +27056,11 @@
 "objectives": {
 "omega": {
 "items": [
-"Jak'Sho, The Protean",
-"Death's Dance",
-"Protoplasm Harness",
-"Randuin's Omen",
-"Cryptbloom"
+"Lord Dominik's Regards",
+"Infinity Edge",
+"Essence Reaver",
+"Fiendhunter Bolts",
+"Death's Dance"
 ],
 "boots": "Crimson Lucidity",
 "keystone": "First Strike",
@@ -27069,38 +27069,38 @@
 "Triple Tonic",
 "Cosmic Insight",
 "Shield Bash",
-"Bone Plating"
+"Overgrowth"
 ],
 "shards": [
-"Health Scaling Shard",
 "Ability Haste Shard",
-"Health Shard"
+"Health Scaling Shard",
+"Adaptive Force Shard"
 ],
-"value": 81.47,
-"swaps": 10,
+"value": 64.44,
+"swaps": 12,
 "proven": true,
-"omega": 81.5,
-"modelled": 0.67,
-"dps": 146,
-"burst": 551,
-"ehp": 22617,
+"omega": 64.4,
+"modelled": 0.83,
+"dps": 350,
+"burst": 2097,
+"ehp": 8423,
 "sustain": 0,
-"utility": 5.9,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 187,
-"ttk": 13.3
+"dps": 437,
+"ttk": 5.7
 },
 {
 "t": "Bruiser",
-"dps": 150,
-"ttk": 24.0
+"dps": 358,
+"ttk": 10.1
 },
 {
 "t": "Tank",
-"dps": 100,
-"ttk": 48.1
+"dps": 256,
+"ttk": 18.8
 }
 ]
 },
@@ -27126,31 +27126,31 @@
 "Adaptive Force Shard",
 "Tenacity Shard"
 ],
-"value": 523.2,
+"value": 542.14,
 "swaps": 0,
 "proven": true,
-"omega": 57.4,
+"omega": 61.0,
 "modelled": 1.0,
-"dps": 523,
-"burst": 1827,
+"dps": 542,
+"burst": 1857,
 "ehp": 4527,
-"sustain": 16,
+"sustain": 17,
 "utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 618,
-"ttk": 4.0
+"dps": 641,
+"ttk": 3.9
 },
 {
 "t": "Bruiser",
-"dps": 547,
-"ttk": 6.6
+"dps": 567,
+"ttk": 6.4
 },
 {
 "t": "Tank",
-"dps": 405,
-"ttk": 11.9
+"dps": 419,
+"ttk": 11.5
 }
 ]
 },
@@ -27176,31 +27176,31 @@
 "Tenacity Shard",
 "Move Speed Shard"
 ],
-"value": 2445.81,
+"value": 2496.24,
 "swaps": 0,
 "proven": true,
-"omega": 51.7,
+"omega": 54.1,
 "modelled": 0.67,
-"dps": 236,
-"burst": 2446,
+"dps": 243,
+"burst": 2496,
 "ehp": 4527,
 "sustain": 0,
 "utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 317,
-"ttk": 7.9
+"dps": 326,
+"ttk": 7.7
 },
 {
 "t": "Bruiser",
-"dps": 242,
-"ttk": 14.9
+"dps": 248,
+"ttk": 14.5
 },
 {
 "t": "Tank",
-"dps": 150,
-"ttk": 32.1
+"dps": 154,
+"ttk": 31.2
 }
 ]
 },
@@ -27218,8 +27218,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27229,28 +27229,28 @@
 "value": 32279.69,
 "swaps": 0,
 "proven": true,
-"omega": 69.5,
+"omega": 51.5,
 "modelled": 0.67,
 "dps": 69,
-"burst": 414,
+"burst": 419,
 "ehp": 32280,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 92,
-"ttk": 27.1
+"dps": 93,
+"ttk": 26.9
 },
 {
 "t": "Bruiser",
-"dps": 70,
-"ttk": 51.2
+"dps": 71,
+"ttk": 50.8
 },
 {
 "t": "Tank",
 "dps": 44,
-"ttk": 109.5
+"ttk": 108.5
 }
 ]
 },
@@ -27276,31 +27276,31 @@
 "Adaptive Force Shard",
 "Tenacity Shard"
 ],
-"value": 68.03,
+"value": 69.49,
 "swaps": 0,
 "proven": true,
-"omega": 44.3,
+"omega": 45.7,
 "modelled": 0.67,
-"dps": 277,
-"burst": 1381,
+"dps": 283,
+"burst": 1398,
 "ehp": 4527,
-"sustain": 68,
+"sustain": 69,
 "utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 332,
-"ttk": 7.5
+"dps": 339,
+"ttk": 7.4
 },
 {
 "t": "Bruiser",
-"dps": 286,
-"ttk": 12.6
+"dps": 293,
+"ttk": 12.3
 },
 {
 "t": "Tank",
-"dps": 213,
-"ttk": 22.5
+"dps": 218,
+"ttk": 22.1
 }
 ]
 },
@@ -27329,10 +27329,10 @@
 "value": 8.14,
 "swaps": 0,
 "proven": true,
-"omega": 47.2,
+"omega": 45.6,
 "modelled": 0.5,
 "dps": 199,
-"burst": 600,
+"burst": 606,
 "ehp": 5935,
 "sustain": 0,
 "utility": 8.1,
@@ -27340,17 +27340,17 @@
 {
 "t": "Squishy",
 "dps": 267,
-"ttk": 9.4
+"ttk": 9.3
 },
 {
 "t": "Bruiser",
 "dps": 203,
-"ttk": 17.8
+"ttk": 17.7
 },
 {
 "t": "Tank",
-"dps": 126,
-"ttk": 37.9
+"dps": 127,
+"ttk": 37.8
 }
 ]
 }
@@ -27359,7 +27359,7 @@
 "conversion": {
 "ap_scaling": 1.15,
 "ad_scaling": 1.2,
-"hp_scaling": 0.26,
+"hp_scaling": 0.13,
 "ability_count": 2,
 "mean_basic_cd": 10.0,
 "haste_dependency": 1.0,
@@ -27537,8 +27537,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27548,28 +27548,28 @@
 "value": 31105.9,
 "swaps": 0,
 "proven": true,
-"omega": 35.1,
+"omega": 35.3,
 "modelled": 0.67,
 "dps": 37,
 "burst": 433,
 "ehp": 31106,
 "sustain": 11,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 50,
-"ttk": 50.4
+"ttk": 50.2
 },
 {
 "t": "Bruiser",
 "dps": 38,
-"ttk": 95.5
+"ttk": 95.0
 },
 {
 "t": "Tank",
 "dps": 24,
-"ttk": 203.9
+"ttk": 202.9
 }
 ]
 },
@@ -27861,8 +27861,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -27872,28 +27872,28 @@
 "value": 31800.31,
 "swaps": 0,
 "proven": true,
-"omega": 26.7,
+"omega": 26.9,
 "modelled": 0.67,
 "dps": 50,
 "burst": 431,
 "ehp": 31800,
 "sustain": 21,
-"utility": 4.7,
+"utility": 5.0,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 67,
-"ttk": 37.3
+"ttk": 37.1
 },
 {
 "t": "Bruiser",
 "dps": 52,
-"ttk": 69.7
+"ttk": 69.5
 },
 {
 "t": "Tank",
 "dps": 32,
-"ttk": 150.2
+"ttk": 149.7
 }
 ]
 },
@@ -28185,8 +28185,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28196,28 +28196,28 @@
 "value": 29730.81,
 "swaps": 0,
 "proven": true,
-"omega": 28.8,
+"omega": 29.0,
 "modelled": 0.67,
 "dps": 57,
 "burst": 566,
 "ehp": 29731,
 "sustain": 7,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 77,
-"ttk": 32.5
+"ttk": 32.4
 },
 {
 "t": "Bruiser",
 "dps": 59,
-"ttk": 61.5
+"ttk": 61.3
 },
 {
 "t": "Tank",
 "dps": 37,
-"ttk": 131.4
+"ttk": 131.0
 }
 ]
 },
@@ -28504,8 +28504,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28515,13 +28515,13 @@
 "value": 35813.19,
 "swaps": 0,
 "proven": true,
-"omega": 28.8,
+"omega": 28.9,
 "modelled": 0.83,
 "dps": 38,
 "burst": 287,
 "ehp": 35813,
 "sustain": 9,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -28828,8 +28828,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -28839,28 +28839,28 @@
 "value": 32428.61,
 "swaps": 0,
 "proven": true,
-"omega": 48.4,
+"omega": 49.3,
 "modelled": 0.67,
-"dps": 99,
+"dps": 100,
 "burst": 747,
 "ehp": 32429,
 "sustain": 8,
-"utility": 6.7,
+"utility": 7.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 133,
-"ttk": 18.8
+"dps": 134,
+"ttk": 18.7
 },
 {
 "t": "Bruiser",
-"dps": 101,
-"ttk": 35.5
+"dps": 102,
+"ttk": 35.4
 },
 {
 "t": "Tank",
 "dps": 63,
-"ttk": 75.8
+"ttk": 75.6
 }
 ]
 },
@@ -29147,8 +29147,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29158,13 +29158,13 @@
 "value": 31500.19,
 "swaps": 0,
 "proven": true,
-"omega": 46.5,
+"omega": 46.8,
 "modelled": 0.67,
 "dps": 140,
 "burst": 1156,
 "ehp": 31500,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -29179,7 +29179,7 @@
 {
 "t": "Tank",
 "dps": 89,
-"ttk": 53.8
+"ttk": 53.7
 }
 ]
 },
@@ -29471,8 +29471,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29571,8 +29571,8 @@
 "Magical Footwear",
 "Triple Tonic",
 "Jack of All Trades",
-"Taste of Blood",
-"Sixth Sense"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Tenacity Shard",
@@ -29582,12 +29582,12 @@
 "value": 0.0,
 "swaps": 0,
 "proven": true,
-"omega": 14.2,
+"omega": 14.1,
 "modelled": 0.5,
 "dps": 58,
 "burst": 302,
 "ehp": 6352,
-"sustain": 3,
+"sustain": 0,
 "utility": 0.0,
 "per_target": [
 {
@@ -29790,8 +29790,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -29801,13 +29801,13 @@
 "value": 31062.95,
 "swaps": 0,
 "proven": true,
-"omega": 38.2,
+"omega": 38.9,
 "modelled": 0.67,
 "dps": 82,
 "burst": 217,
 "ehp": 31063,
 "sustain": 8,
-"utility": 5.0,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -30114,8 +30114,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30125,13 +30125,13 @@
 "value": 32592.36,
 "swaps": 0,
 "proven": true,
-"omega": 38.5,
+"omega": 38.9,
 "modelled": 0.67,
 "dps": 73,
 "burst": 631,
 "ehp": 32592,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -30141,12 +30141,12 @@
 {
 "t": "Bruiser",
 "dps": 75,
-"ttk": 48.1
+"ttk": 48.0
 },
 {
 "t": "Tank",
-"dps": 46,
-"ttk": 103.4
+"dps": 47,
+"ttk": 103.1
 }
 ]
 },
@@ -30446,8 +30446,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30457,17 +30457,17 @@
 "value": 30190.23,
 "swaps": 0,
 "proven": true,
-"omega": 84.6,
+"omega": 85.1,
 "modelled": 0.67,
-"dps": 276,
+"dps": 277,
 "burst": 2490,
 "ehp": 30190,
 "sustain": 7,
-"utility": 5.8,
+"utility": 6.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 333,
+"dps": 334,
 "ttk": 7.5
 },
 {
@@ -30765,8 +30765,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -30776,13 +30776,13 @@
 "value": 33861.78,
 "swaps": 0,
 "proven": true,
-"omega": 39.5,
+"omega": 39.7,
 "modelled": 0.67,
 "dps": 126,
 "burst": 809,
 "ehp": 33862,
 "sustain": 8,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -31097,8 +31097,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31108,28 +31108,28 @@
 "value": 30975.03,
 "swaps": 0,
 "proven": true,
-"omega": 32.2,
+"omega": 32.4,
 "modelled": 0.67,
 "dps": 97,
 "burst": 659,
 "ehp": 30975,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 129,
-"ttk": 19.3
+"dps": 130,
+"ttk": 19.2
 },
 {
 "t": "Bruiser",
 "dps": 99,
-"ttk": 36.5
+"ttk": 36.4
 },
 {
 "t": "Tank",
 "dps": 62,
-"ttk": 78.0
+"ttk": 77.8
 }
 ]
 },
@@ -31416,8 +31416,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31427,13 +31427,13 @@
 "value": 33468.39,
 "swaps": 0,
 "proven": true,
-"omega": 70.9,
+"omega": 71.4,
 "modelled": 0.67,
-"dps": 114,
+"dps": 115,
 "burst": 1095,
 "ehp": 33468,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
@@ -31442,13 +31442,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 119,
-"ttk": 30.2
+"dps": 120,
+"ttk": 30.1
 },
 {
 "t": "Tank",
-"dps": 81,
-"ttk": 58.9
+"dps": 82,
+"ttk": 58.8
 }
 ]
 },
@@ -31735,8 +31735,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -31746,13 +31746,13 @@
 "value": 35378.45,
 "swaps": 0,
 "proven": true,
-"omega": 101.0,
+"omega": 101.7,
 "modelled": 0.67,
-"dps": 185,
+"dps": 186,
 "burst": 1666,
 "ehp": 35378,
 "sustain": 8,
-"utility": 6.1,
+"utility": 6.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -31761,12 +31761,12 @@
 },
 {
 "t": "Bruiser",
-"dps": 196,
+"dps": 197,
 "ttk": 18.3
 },
 {
 "t": "Tank",
-"dps": 142,
+"dps": 143,
 "ttk": 33.7
 }
 ]
@@ -32059,8 +32059,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32070,22 +32070,22 @@
 "value": 33191.93,
 "swaps": 0,
 "proven": true,
-"omega": 171.9,
+"omega": 172.5,
 "modelled": 0.67,
 "dps": 583,
 "burst": 2486,
 "ehp": 33192,
 "sustain": 8,
-"utility": 7.5,
+"utility": 7.9,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 606,
+"dps": 607,
 "ttk": 4.1
 },
 {
 "t": "Bruiser",
-"dps": 635,
+"dps": 636,
 "ttk": 5.7
 },
 {
@@ -32378,8 +32378,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32389,13 +32389,13 @@
 "value": 33461.57,
 "swaps": 0,
 "proven": true,
-"omega": 33.8,
+"omega": 34.1,
 "modelled": 0.67,
 "dps": 39,
 "burst": 362,
 "ehp": 33462,
 "sustain": 8,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -32697,8 +32697,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -32708,13 +32708,13 @@
 "value": 33105.3,
 "swaps": 0,
 "proven": true,
-"omega": 31.9,
+"omega": 32.1,
 "modelled": 0.67,
 "dps": 65,
 "burst": 438,
 "ehp": 33105,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -33025,8 +33025,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33036,13 +33036,13 @@
 "value": 31478.59,
 "swaps": 0,
 "proven": true,
-"omega": 31.0,
+"omega": 31.1,
 "modelled": 0.67,
 "dps": 73,
 "burst": 421,
 "ehp": 31479,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -33052,12 +33052,12 @@
 {
 "t": "Bruiser",
 "dps": 75,
-"ttk": 48.1
+"ttk": 48.0
 },
 {
 "t": "Tank",
 "dps": 46,
-"ttk": 103.5
+"ttk": 103.4
 }
 ]
 },
@@ -33353,8 +33353,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33364,28 +33364,28 @@
 "value": 31688.1,
 "swaps": 0,
 "proven": true,
-"omega": 33.0,
+"omega": 33.6,
 "modelled": 0.67,
 "dps": 54,
 "burst": 514,
 "ehp": 31688,
 "sustain": 8,
-"utility": 6.1,
+"utility": 6.4,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 73,
-"ttk": 34.4
+"ttk": 34.3
 },
 {
 "t": "Bruiser",
 "dps": 55,
-"ttk": 65.1
+"ttk": 64.9
 },
 {
 "t": "Tank",
 "dps": 35,
-"ttk": 139.1
+"ttk": 138.7
 }
 ]
 },
@@ -33672,8 +33672,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -33683,28 +33683,28 @@
 "value": 36443.76,
 "swaps": 0,
 "proven": true,
-"omega": 36.3,
+"omega": 36.8,
 "modelled": 0.67,
 "dps": 50,
 "burst": 470,
 "ehp": 36444,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 67,
-"ttk": 37.2
+"ttk": 37.1
 },
 {
 "t": "Bruiser",
 "dps": 51,
-"ttk": 70.4
+"ttk": 70.1
 },
 {
 "t": "Tank",
 "dps": 32,
-"ttk": 150.3
+"ttk": 149.8
 }
 ]
 },
@@ -34000,8 +34000,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34011,28 +34011,28 @@
 "value": 31551.63,
 "swaps": 0,
 "proven": true,
-"omega": 79.7,
+"omega": 79.9,
 "modelled": 0.67,
-"dps": 146,
+"dps": 147,
 "burst": 782,
 "ehp": 31552,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 187,
-"ttk": 13.4
+"dps": 188,
+"ttk": 13.3
 },
 {
 "t": "Bruiser",
 "dps": 152,
-"ttk": 23.7
+"ttk": 23.6
 },
 {
 "t": "Tank",
-"dps": 100,
-"ttk": 47.8
+"dps": 101,
+"ttk": 47.6
 }
 ]
 },
@@ -34319,8 +34319,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34330,28 +34330,28 @@
 "value": 31367.79,
 "swaps": 0,
 "proven": true,
-"omega": 52.3,
+"omega": 53.1,
 "modelled": 0.67,
 "dps": 64,
 "burst": 648,
 "ehp": 31368,
 "sustain": 8,
-"utility": 6.4,
+"utility": 6.7,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 81,
-"ttk": 30.9
+"ttk": 30.8
 },
 {
 "t": "Bruiser",
 "dps": 66,
-"ttk": 54.3
+"ttk": 54.2
 },
 {
 "t": "Tank",
-"dps": 44,
-"ttk": 108.0
+"dps": 45,
+"ttk": 107.7
 }
 ]
 },
@@ -34643,8 +34643,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34654,13 +34654,13 @@
 "value": 29895.06,
 "swaps": 0,
 "proven": true,
-"omega": 111.3,
+"omega": 111.5,
 "modelled": 0.67,
 "dps": 48,
 "burst": 405,
 "ehp": 29895,
 "sustain": 7,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
@@ -34971,8 +34971,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -34982,18 +34982,18 @@
 "value": 35992.47,
 "swaps": 0,
 "proven": true,
-"omega": 31.1,
+"omega": 31.2,
 "modelled": 0.67,
 "dps": 69,
 "burst": 582,
 "ehp": 35992,
 "sustain": 33,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 93,
-"ttk": 27.0
+"ttk": 26.9
 },
 {
 "t": "Bruiser",
@@ -35003,7 +35003,7 @@
 {
 "t": "Tank",
 "dps": 44,
-"ttk": 108.7
+"ttk": 108.6
 }
 ]
 },
@@ -35295,8 +35295,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35306,13 +35306,13 @@
 "value": 32299.09,
 "swaps": 0,
 "proven": true,
-"omega": 29.3,
+"omega": 29.4,
 "modelled": 0.67,
 "dps": 48,
 "burst": 369,
 "ehp": 32299,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -35623,8 +35623,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35634,28 +35634,28 @@
 "value": 31713.32,
 "swaps": 0,
 "proven": true,
-"omega": 34.9,
+"omega": 35.1,
 "modelled": 0.67,
 "dps": 75,
 "burst": 733,
 "ehp": 31713,
 "sustain": 45,
-"utility": 3.0,
+"utility": 3.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 101,
-"ttk": 24.8
+"ttk": 24.7
 },
 {
 "t": "Bruiser",
 "dps": 77,
-"ttk": 46.8
+"ttk": 46.7
 },
 {
 "t": "Tank",
 "dps": 48,
-"ttk": 100.1
+"ttk": 99.9
 }
 ]
 },
@@ -35942,8 +35942,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -35953,17 +35953,17 @@
 "value": 32808.64,
 "swaps": 0,
 "proven": true,
-"omega": 38.6,
+"omega": 39.0,
 "modelled": 0.67,
 "dps": 222,
 "burst": 389,
 "ehp": 32809,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 297,
+"dps": 298,
 "ttk": 8.4
 },
 {
@@ -36270,8 +36270,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36281,13 +36281,13 @@
 "value": 33148.09,
 "swaps": 0,
 "proven": true,
-"omega": 33.8,
+"omega": 33.9,
 "modelled": 0.67,
 "dps": 97,
 "burst": 474,
 "ehp": 33148,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -36302,7 +36302,7 @@
 {
 "t": "Tank",
 "dps": 62,
-"ttk": 77.9
+"ttk": 77.8
 }
 ]
 },
@@ -36594,8 +36594,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36605,9 +36605,9 @@
 "value": 31922.87,
 "swaps": 0,
 "proven": true,
-"omega": 32.2,
+"omega": 32.3,
 "modelled": 0.67,
-"dps": 92,
+"dps": 93,
 "burst": 394,
 "ehp": 31923,
 "sustain": 8,
@@ -36615,18 +36615,18 @@
 "per_target": [
 {
 "t": "Squishy",
-"dps": 124,
-"ttk": 20.2
+"dps": 125,
+"ttk": 20.0
 },
 {
 "t": "Bruiser",
-"dps": 95,
-"ttk": 37.9
+"dps": 96,
+"ttk": 37.5
 },
 {
 "t": "Tank",
 "dps": 59,
-"ttk": 81.6
+"ttk": 80.8
 }
 ]
 },
@@ -36918,8 +36918,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -36929,13 +36929,13 @@
 "value": 34052.18,
 "swaps": 0,
 "proven": true,
-"omega": 161.1,
+"omega": 161.7,
 "modelled": 0.67,
 "dps": 566,
 "burst": 2348,
 "ehp": 34052,
 "sustain": 8,
-"utility": 6.9,
+"utility": 7.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -37237,8 +37237,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37248,28 +37248,28 @@
 "value": 28735.97,
 "swaps": 0,
 "proven": true,
-"omega": 24.9,
+"omega": 25.1,
 "modelled": 0.67,
 "dps": 53,
 "burst": 591,
 "ehp": 28736,
 "sustain": 11,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 71,
-"ttk": 35.3
+"ttk": 35.1
 },
 {
 "t": "Bruiser",
 "dps": 54,
-"ttk": 66.5
+"ttk": 66.2
 },
 {
 "t": "Tank",
 "dps": 34,
-"ttk": 142.7
+"ttk": 141.8
 }
 ]
 },
@@ -37556,8 +37556,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37567,28 +37567,28 @@
 "value": 29798.53,
 "swaps": 0,
 "proven": true,
-"omega": 30.9,
+"omega": 31.2,
 "modelled": 0.67,
-"dps": 42,
+"dps": 43,
 "burst": 393,
 "ehp": 29799,
 "sustain": 8,
-"utility": 3.4,
+"utility": 3.6,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 57,
-"ttk": 43.9
+"ttk": 43.8
 },
 {
 "t": "Bruiser",
 "dps": 43,
-"ttk": 83.0
+"ttk": 82.8
 },
 {
 "t": "Tank",
 "dps": 27,
-"ttk": 177.3
+"ttk": 176.9
 }
 ]
 },
@@ -37875,8 +37875,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -37886,22 +37886,22 @@
 "value": 33575.37,
 "swaps": 0,
 "proven": true,
-"omega": 144.3,
+"omega": 144.6,
 "modelled": 0.67,
 "dps": 277,
 "burst": 2029,
 "ehp": 33575,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 291,
+"dps": 292,
 "ttk": 8.6
 },
 {
 "t": "Bruiser",
-"dps": 300,
+"dps": 301,
 "ttk": 12.0
 },
 {
@@ -38194,8 +38194,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38205,13 +38205,13 @@
 "value": 31214.98,
 "swaps": 0,
 "proven": true,
-"omega": 88.5,
+"omega": 88.9,
 "modelled": 0.67,
 "dps": 120,
 "burst": 1016,
 "ehp": 31215,
 "sustain": 8,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -38221,11 +38221,11 @@
 {
 "t": "Bruiser",
 "dps": 128,
-"ttk": 28.2
+"ttk": 28.1
 },
 {
 "t": "Tank",
-"dps": 96,
+"dps": 97,
 "ttk": 49.7
 }
 ]
@@ -38513,8 +38513,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38524,13 +38524,13 @@
 "value": 31377.18,
 "swaps": 0,
 "proven": true,
-"omega": 34.2,
+"omega": 34.7,
 "modelled": 0.67,
 "dps": 64,
 "burst": 380,
 "ehp": 31377,
 "sustain": 8,
-"utility": 6.1,
+"utility": 6.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -38832,8 +38832,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -38843,13 +38843,13 @@
 "value": 30938.6,
 "swaps": 0,
 "proven": true,
-"omega": 149.5,
+"omega": 149.8,
 "modelled": 0.67,
 "dps": 328,
 "burst": 2410,
 "ehp": 30939,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -39151,8 +39151,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39162,13 +39162,13 @@
 "value": 31305.54,
 "swaps": 0,
 "proven": true,
-"omega": 134.5,
+"omega": 134.7,
 "modelled": 0.67,
 "dps": 264,
 "burst": 1692,
 "ehp": 31306,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -39470,8 +39470,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39481,27 +39481,27 @@
 "value": 30417.81,
 "swaps": 0,
 "proven": true,
-"omega": 177.0,
+"omega": 177.3,
 "modelled": 0.67,
-"dps": 866,
+"dps": 867,
 "burst": 8231,
 "ehp": 30418,
 "sustain": 7,
-"utility": 4.6,
+"utility": 4.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 905,
+"dps": 906,
 "ttk": 2.8
 },
 {
 "t": "Bruiser",
-"dps": 938,
+"dps": 939,
 "ttk": 3.8
 },
 {
 "t": "Tank",
-"dps": 755,
+"dps": 756,
 "ttk": 6.4
 }
 ]
@@ -39789,8 +39789,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -39800,7 +39800,7 @@
 "value": 30980.29,
 "swaps": 0,
 "proven": true,
-"omega": 21.6,
+"omega": 21.7,
 "modelled": 0.67,
 "dps": 35,
 "burst": 265,
@@ -40117,8 +40117,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40128,13 +40128,13 @@
 "value": 32893.56,
 "swaps": 0,
 "proven": true,
-"omega": 167.8,
+"omega": 168.2,
 "modelled": 0.67,
 "dps": 321,
 "burst": 2920,
 "ehp": 32894,
 "sustain": 8,
-"utility": 5.8,
+"utility": 6.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -40441,8 +40441,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40452,28 +40452,28 @@
 "value": 30156.2,
 "swaps": 0,
 "proven": true,
-"omega": 23.7,
+"omega": 23.9,
 "modelled": 0.67,
 "dps": 71,
 "burst": 570,
 "ehp": 30156,
 "sustain": 9,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 95,
+"dps": 96,
 "ttk": 26.2
 },
 {
 "t": "Bruiser",
-"dps": 72,
-"ttk": 49.7
+"dps": 73,
+"ttk": 49.5
 },
 {
 "t": "Tank",
 "dps": 45,
-"ttk": 106.0
+"ttk": 105.7
 }
 ]
 },
@@ -40760,8 +40760,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -40771,28 +40771,28 @@
 "value": 29241.79,
 "swaps": 0,
 "proven": true,
-"omega": 28.0,
+"omega": 28.2,
 "modelled": 0.67,
 "dps": 42,
 "burst": 435,
 "ehp": 29242,
 "sustain": 7,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 56,
-"ttk": 44.8
+"ttk": 44.6
 },
 {
 "t": "Bruiser",
 "dps": 43,
-"ttk": 84.7
+"ttk": 84.3
 },
 {
 "t": "Tank",
 "dps": 27,
-"ttk": 180.9
+"ttk": 180.1
 }
 ]
 },
@@ -41084,8 +41084,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41095,13 +41095,13 @@
 "value": 30007.75,
 "swaps": 0,
 "proven": true,
-"omega": 86.1,
+"omega": 86.2,
 "modelled": 0.67,
 "dps": 139,
 "burst": 280,
 "ehp": 30008,
 "sustain": 7,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -41408,8 +41408,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41419,28 +41419,28 @@
 "value": 30887.15,
 "swaps": 0,
 "proven": true,
-"omega": 46.1,
+"omega": 46.6,
 "modelled": 0.67,
-"dps": 112,
+"dps": 114,
 "burst": 588,
 "ehp": 30887,
 "sustain": 8,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 145,
-"ttk": 17.2
+"dps": 148,
+"ttk": 16.9
 },
 {
 "t": "Bruiser",
-"dps": 115,
-"ttk": 31.2
+"dps": 118,
+"ttk": 30.6
 },
 {
 "t": "Tank",
-"dps": 75,
-"ttk": 63.7
+"dps": 77,
+"ttk": 62.6
 }
 ]
 },
@@ -41727,8 +41727,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -41738,13 +41738,13 @@
 "value": 34729.05,
 "swaps": 0,
 "proven": true,
-"omega": 33.6,
+"omega": 33.9,
 "modelled": 0.67,
 "dps": 83,
 "burst": 555,
 "ehp": 34729,
 "sustain": 8,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -42046,8 +42046,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42057,28 +42057,28 @@
 "value": 30245.74,
 "swaps": 0,
 "proven": true,
-"omega": 31.7,
+"omega": 31.8,
 "modelled": 0.67,
 "dps": 71,
 "burst": 559,
 "ehp": 30246,
 "sustain": 8,
-"utility": 1.4,
+"utility": 1.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 96,
-"ttk": 26.2
+"ttk": 26.1
 },
 {
 "t": "Bruiser",
 "dps": 73,
-"ttk": 49.4
+"ttk": 49.3
 },
 {
 "t": "Tank",
 "dps": 45,
-"ttk": 105.7
+"ttk": 105.5
 }
 ]
 },
@@ -42370,8 +42370,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42381,27 +42381,27 @@
 "value": 32557.53,
 "swaps": 0,
 "proven": true,
-"omega": 208.6,
+"omega": 208.7,
 "modelled": 0.67,
-"dps": 2621,
+"dps": 2628,
 "burst": 12668,
 "ehp": 32558,
 "sustain": 8,
-"utility": 4.5,
+"utility": 4.7,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 2641,
+"dps": 2648,
 "ttk": 0.9
 },
 {
 "t": "Bruiser",
-"dps": 2858,
+"dps": 2865,
 "ttk": 1.3
 },
 {
 "t": "Tank",
-"dps": 2366,
+"dps": 2372,
 "ttk": 2.0
 }
 ]
@@ -42689,8 +42689,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -42700,13 +42700,13 @@
 "value": 30580.64,
 "swaps": 0,
 "proven": true,
-"omega": 40.6,
+"omega": 41.2,
 "modelled": 0.67,
 "dps": 73,
 "burst": 397,
 "ehp": 30581,
 "sustain": 8,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
@@ -43008,8 +43008,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43019,28 +43019,28 @@
 "value": 33146.57,
 "swaps": 0,
 "proven": true,
-"omega": 33.0,
+"omega": 33.1,
 "modelled": 0.67,
 "dps": 57,
 "burst": 452,
 "ehp": 33147,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 76,
-"ttk": 33.0
+"ttk": 32.9
 },
 {
 "t": "Bruiser",
 "dps": 58,
-"ttk": 61.7
+"ttk": 61.6
 },
 {
 "t": "Tank",
 "dps": 36,
-"ttk": 133.0
+"ttk": 132.6
 }
 ]
 },
@@ -43332,8 +43332,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43343,13 +43343,13 @@
 "value": 32382.31,
 "swaps": 0,
 "proven": true,
-"omega": 36.7,
+"omega": 36.9,
 "modelled": 0.67,
 "dps": 19,
 "burst": 239,
 "ehp": 32382,
 "sustain": 8,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -43656,8 +43656,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43667,13 +43667,13 @@
 "value": 31175.5,
 "swaps": 0,
 "proven": true,
-"omega": 45.9,
+"omega": 46.1,
 "modelled": 0.67,
 "dps": 286,
 "burst": 550,
 "ehp": 31175,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -43980,8 +43980,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -43991,28 +43991,28 @@
 "value": 30256.06,
 "swaps": 0,
 "proven": true,
-"omega": 45.8,
+"omega": 46.5,
 "modelled": 0.67,
 "dps": 85,
 "burst": 834,
 "ehp": 30256,
 "sustain": 8,
-"utility": 5.5,
+"utility": 5.7,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 114,
-"ttk": 21.9
+"ttk": 21.8
 },
 {
 "t": "Bruiser",
 "dps": 87,
-"ttk": 41.5
+"ttk": 41.3
 },
 {
 "t": "Tank",
 "dps": 54,
-"ttk": 88.6
+"ttk": 88.3
 }
 ]
 },
@@ -44299,8 +44299,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44310,28 +44310,28 @@
 "value": 30938.25,
 "swaps": 0,
 "proven": true,
-"omega": 35.5,
+"omega": 35.7,
 "modelled": 0.67,
 "dps": 64,
 "burst": 613,
 "ehp": 30938,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 85,
-"ttk": 29.3
+"dps": 86,
+"ttk": 29.2
 },
 {
 "t": "Bruiser",
 "dps": 65,
-"ttk": 55.1
+"ttk": 55.0
 },
 {
 "t": "Tank",
 "dps": 41,
-"ttk": 118.3
+"ttk": 117.9
 }
 ]
 },
@@ -44623,8 +44623,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44634,28 +44634,28 @@
 "value": 33189.32,
 "swaps": 0,
 "proven": true,
-"omega": 81.4,
+"omega": 81.6,
 "modelled": 0.67,
-"dps": 103,
+"dps": 104,
 "burst": 826,
 "ehp": 33189,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 124,
-"ttk": 20.2
+"ttk": 20.1
 },
 {
 "t": "Bruiser",
 "dps": 109,
-"ttk": 33.2
+"ttk": 33.0
 },
 {
 "t": "Tank",
 "dps": 77,
-"ttk": 62.5
+"ttk": 62.0
 }
 ]
 },
@@ -44955,8 +44955,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -44966,13 +44966,13 @@
 "value": 33313.71,
 "swaps": 0,
 "proven": true,
-"omega": 27.0,
+"omega": 27.1,
 "modelled": 0.67,
 "dps": 55,
 "burst": 442,
 "ehp": 33314,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -45274,8 +45274,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45285,13 +45285,13 @@
 "value": 31434.14,
 "swaps": 0,
 "proven": true,
-"omega": 43.1,
+"omega": 43.2,
 "modelled": 0.67,
 "dps": 145,
 "burst": 897,
 "ehp": 31434,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -45598,8 +45598,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45609,13 +45609,13 @@
 "value": 30406.28,
 "swaps": 0,
 "proven": true,
-"omega": 28.1,
+"omega": 28.2,
 "modelled": 0.67,
 "dps": 77,
 "burst": 319,
 "ehp": 30406,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -45926,8 +45926,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -45937,28 +45937,28 @@
 "value": 32628.58,
 "swaps": 0,
 "proven": true,
-"omega": 69.4,
+"omega": 70.1,
 "modelled": 0.67,
 "dps": 142,
 "burst": 1058,
 "ehp": 32629,
 "sustain": 29,
-"utility": 6.7,
+"utility": 7.0,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 177,
-"ttk": 14.1
+"dps": 178,
+"ttk": 14.0
 },
 {
 "t": "Bruiser",
-"dps": 148,
-"ttk": 24.4
+"dps": 149,
+"ttk": 24.2
 },
 {
 "t": "Tank",
 "dps": 100,
-"ttk": 48.1
+"ttk": 47.8
 }
 ]
 },
@@ -46245,8 +46245,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46256,28 +46256,28 @@
 "value": 30847.28,
 "swaps": 0,
 "proven": true,
-"omega": 37.8,
+"omega": 38.2,
 "modelled": 0.67,
 "dps": 60,
 "burst": 695,
 "ehp": 30847,
 "sustain": 8,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 80,
-"ttk": 31.2
+"ttk": 31.1
 },
 {
 "t": "Bruiser",
 "dps": 61,
-"ttk": 58.8
+"ttk": 58.6
 },
 {
 "t": "Tank",
 "dps": 38,
-"ttk": 126.1
+"ttk": 125.5
 }
 ]
 },
@@ -46564,8 +46564,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46575,13 +46575,13 @@
 "value": 30682.23,
 "swaps": 0,
 "proven": true,
-"omega": 63.4,
+"omega": 63.6,
 "modelled": 0.67,
 "dps": 173,
 "burst": 1310,
 "ehp": 30682,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -46883,8 +46883,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -46894,28 +46894,28 @@
 "value": 31703.97,
 "swaps": 0,
 "proven": true,
-"omega": 32.6,
+"omega": 32.7,
 "modelled": 0.67,
 "dps": 71,
 "burst": 523,
 "ehp": 31704,
 "sustain": 8,
-"utility": 1.2,
+"utility": 1.3,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 95,
-"ttk": 26.3
+"ttk": 26.2
 },
 {
 "t": "Bruiser",
-"dps": 72,
-"ttk": 49.8
+"dps": 73,
+"ttk": 49.6
 },
 {
 "t": "Tank",
 "dps": 45,
-"ttk": 106.2
+"ttk": 105.8
 }
 ]
 },
@@ -47202,8 +47202,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47213,28 +47213,28 @@
 "value": 30856.18,
 "swaps": 0,
 "proven": true,
-"omega": 44.7,
+"omega": 44.9,
 "modelled": 0.67,
 "dps": 184,
 "burst": 957,
 "ehp": 30856,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 246,
+"dps": 247,
 "ttk": 10.1
 },
 {
 "t": "Bruiser",
-"dps": 187,
+"dps": 188,
 "ttk": 19.2
 },
 {
 "t": "Tank",
 "dps": 117,
-"ttk": 41.0
+"ttk": 40.9
 }
 ]
 },
@@ -47521,8 +47521,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47532,13 +47532,13 @@
 "value": 30863.13,
 "swaps": 0,
 "proven": true,
-"omega": 32.0,
+"omega": 32.4,
 "modelled": 0.67,
 "dps": 85,
 "burst": 709,
 "ehp": 30863,
 "sustain": 8,
-"utility": 5.1,
+"utility": 5.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -47548,12 +47548,12 @@
 {
 "t": "Bruiser",
 "dps": 87,
-"ttk": 41.5
+"ttk": 41.4
 },
 {
 "t": "Tank",
 "dps": 54,
-"ttk": 88.7
+"ttk": 88.4
 }
 ]
 },
@@ -47840,8 +47840,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -47851,22 +47851,22 @@
 "value": 32517.02,
 "swaps": 0,
 "proven": true,
-"omega": 64.2,
+"omega": 64.7,
 "modelled": 0.67,
 "dps": 235,
 "burst": 544,
 "ehp": 32517,
 "sustain": 8,
-"utility": 4.3,
+"utility": 4.5,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 305,
+"dps": 306,
 "ttk": 8.2
 },
 {
 "t": "Bruiser",
-"dps": 242,
+"dps": 243,
 "ttk": 14.8
 },
 {
@@ -48164,8 +48164,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48175,13 +48175,13 @@
 "value": 32892.73,
 "swaps": 0,
 "proven": true,
-"omega": 34.7,
+"omega": 35.0,
 "modelled": 0.67,
 "dps": 76,
 "burst": 413,
 "ehp": 32893,
 "sustain": 8,
-"utility": 4.1,
+"utility": 4.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -48492,8 +48492,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48503,13 +48503,13 @@
 "value": 30541.87,
 "swaps": 0,
 "proven": true,
-"omega": 36.6,
+"omega": 36.8,
 "modelled": 0.67,
-"dps": 95,
+"dps": 96,
 "burst": 686,
 "ehp": 30542,
 "sustain": 8,
-"utility": 2.2,
+"utility": 2.3,
 "per_target": [
 {
 "t": "Squishy",
@@ -48518,13 +48518,13 @@
 },
 {
 "t": "Bruiser",
-"dps": 97,
-"ttk": 37.0
+"dps": 98,
+"ttk": 36.9
 },
 {
 "t": "Tank",
 "dps": 61,
-"ttk": 78.9
+"ttk": 78.7
 }
 ]
 },
@@ -48811,8 +48811,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -48822,17 +48822,17 @@
 "value": 31728.12,
 "swaps": 0,
 "proven": true,
-"omega": 159.4,
+"omega": 159.6,
 "modelled": 0.67,
 "dps": 764,
 "burst": 3523,
 "ehp": 31728,
 "sustain": 108,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 783,
+"dps": 784,
 "ttk": 3.2
 },
 {
@@ -49130,8 +49130,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49141,17 +49141,17 @@
 "value": 32918.04,
 "swaps": 0,
 "proven": true,
-"omega": 185.7,
+"omega": 186.0,
 "modelled": 0.67,
 "dps": 353,
 "burst": 4502,
 "ehp": 32918,
 "sustain": 8,
-"utility": 5.1,
+"utility": 5.3,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 389,
+"dps": 390,
 "ttk": 6.4
 },
 {
@@ -49161,7 +49161,7 @@
 },
 {
 "t": "Tank",
-"dps": 291,
+"dps": 292,
 "ttk": 16.5
 }
 ]
@@ -49454,8 +49454,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49465,27 +49465,27 @@
 "value": 31536.96,
 "swaps": 0,
 "proven": true,
-"omega": 158.0,
+"omega": 158.2,
 "modelled": 0.67,
-"dps": 311,
+"dps": 312,
 "burst": 1016,
 "ehp": 31537,
-"sustain": 192,
-"utility": 2.1,
+"sustain": 193,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 352,
+"dps": 353,
 "ttk": 7.1
 },
 {
 "t": "Bruiser",
-"dps": 331,
-"ttk": 10.9
+"dps": 332,
+"ttk": 10.8
 },
 {
 "t": "Tank",
-"dps": 250,
+"dps": 251,
 "ttk": 19.2
 }
 ]
@@ -49782,8 +49782,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -49793,28 +49793,28 @@
 "value": 33301.13,
 "swaps": 0,
 "proven": true,
-"omega": 65.6,
+"omega": 65.8,
 "modelled": 0.67,
-"dps": 107,
+"dps": 108,
 "burst": 947,
 "ehp": 33301,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 136,
-"ttk": 18.4
+"dps": 137,
+"ttk": 18.3
 },
 {
 "t": "Bruiser",
-"dps": 111,
-"ttk": 32.4
+"dps": 112,
+"ttk": 32.2
 },
 {
 "t": "Tank",
-"dps": 74,
-"ttk": 64.8
+"dps": 75,
+"ttk": 64.4
 }
 ]
 },
@@ -50110,8 +50110,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50132,17 +50132,17 @@
 {
 "t": "Squishy",
 "dps": 78,
-"ttk": 31.9
+"ttk": 31.8
 },
 {
 "t": "Bruiser",
 "dps": 60,
-"ttk": 59.8
+"ttk": 59.6
 },
 {
 "t": "Tank",
 "dps": 37,
-"ttk": 128.8
+"ttk": 128.4
 }
 ]
 },
@@ -50434,8 +50434,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50445,28 +50445,28 @@
 "value": 31327.08,
 "swaps": 0,
 "proven": true,
-"omega": 35.8,
+"omega": 36.2,
 "modelled": 0.67,
 "dps": 68,
 "burst": 570,
 "ehp": 31327,
 "sustain": 8,
-"utility": 3.6,
+"utility": 3.8,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 91,
-"ttk": 27.6
+"ttk": 27.5
 },
 {
 "t": "Bruiser",
 "dps": 69,
-"ttk": 52.2
+"ttk": 52.1
 },
 {
 "t": "Tank",
 "dps": 43,
-"ttk": 111.5
+"ttk": 111.3
 }
 ]
 },
@@ -50753,8 +50753,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -50764,18 +50764,18 @@
 "value": 32395.1,
 "swaps": 0,
 "proven": true,
-"omega": 42.2,
+"omega": 42.8,
 "modelled": 0.67,
 "dps": 76,
 "burst": 596,
 "ehp": 32395,
 "sustain": 8,
-"utility": 5.7,
+"utility": 6.0,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 102,
-"ttk": 24.6
+"ttk": 24.5
 },
 {
 "t": "Bruiser",
@@ -50784,8 +50784,8 @@
 },
 {
 "t": "Tank",
-"dps": 48,
-"ttk": 99.1
+"dps": 49,
+"ttk": 98.9
 }
 ]
 },
@@ -51077,8 +51077,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51088,28 +51088,28 @@
 "value": 32660.23,
 "swaps": 0,
 "proven": true,
-"omega": 41.4,
+"omega": 41.7,
 "modelled": 0.67,
 "dps": 153,
 "burst": 649,
 "ehp": 32660,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 205,
+"dps": 206,
 "ttk": 12.2
 },
 {
 "t": "Bruiser",
-"dps": 156,
-"ttk": 23.0
+"dps": 157,
+"ttk": 22.9
 },
 {
 "t": "Tank",
-"dps": 97,
-"ttk": 49.3
+"dps": 98,
+"ttk": 49.1
 }
 ]
 },
@@ -51396,8 +51396,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51407,22 +51407,22 @@
 "value": 32340.15,
 "swaps": 0,
 "proven": true,
-"omega": 151.7,
+"omega": 152.0,
 "modelled": 0.67,
-"dps": 292,
+"dps": 293,
 "burst": 2762,
 "ehp": 32340,
 "sustain": 8,
-"utility": 3.9,
+"utility": 4.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 323,
+"dps": 324,
 "ttk": 7.7
 },
 {
 "t": "Bruiser",
-"dps": 312,
+"dps": 313,
 "ttk": 11.5
 },
 {
@@ -51715,8 +51715,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -51726,13 +51726,13 @@
 "value": 35252.52,
 "swaps": 0,
 "proven": true,
-"omega": 46.2,
+"omega": 46.5,
 "modelled": 0.67,
 "dps": 75,
 "burst": 520,
 "ehp": 35253,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -52043,8 +52043,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52054,13 +52054,13 @@
 "value": 31636.09,
 "swaps": 0,
 "proven": true,
-"omega": 192.6,
+"omega": 192.7,
 "modelled": 0.67,
 "dps": 527,
 "burst": 4558,
 "ehp": 31636,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -52367,8 +52367,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52378,28 +52378,28 @@
 "value": 26291.75,
 "swaps": 0,
 "proven": true,
-"omega": 29.3,
+"omega": 29.9,
 "modelled": 0.83,
 "dps": 29,
 "burst": 235,
 "ehp": 26292,
 "sustain": 8,
-"utility": 5.0,
+"utility": 5.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 39,
-"ttk": 63.7
+"ttk": 63.5
 },
 {
 "t": "Bruiser",
 "dps": 30,
-"ttk": 119.5
+"ttk": 119.1
 },
 {
 "t": "Tank",
 "dps": 19,
-"ttk": 256.8
+"ttk": 256.0
 }
 ]
 },
@@ -52695,8 +52695,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -52706,28 +52706,28 @@
 "value": 35921.91,
 "swaps": 0,
 "proven": true,
-"omega": 50.1,
+"omega": 50.3,
 "modelled": 0.67,
 "dps": 93,
 "burst": 821,
 "ehp": 35922,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
-"dps": 119,
-"ttk": 21.0
+"dps": 120,
+"ttk": 20.9
 },
 {
 "t": "Bruiser",
-"dps": 96,
-"ttk": 37.4
+"dps": 97,
+"ttk": 37.3
 },
 {
 "t": "Tank",
 "dps": 63,
-"ttk": 76.0
+"ttk": 75.8
 }
 ]
 },
@@ -53019,8 +53019,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53030,13 +53030,13 @@
 "value": 33282.93,
 "swaps": 0,
 "proven": true,
-"omega": 133.4,
+"omega": 133.5,
 "modelled": 0.67,
 "dps": 363,
 "burst": 1825,
 "ehp": 33283,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -53338,8 +53338,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53349,13 +53349,13 @@
 "value": 31802.74,
 "swaps": 0,
 "proven": true,
-"omega": 98.9,
+"omega": 99.1,
 "modelled": 0.67,
 "dps": 188,
 "burst": 372,
 "ehp": 31803,
 "sustain": 8,
-"utility": 2.9,
+"utility": 3.1,
 "per_target": [
 {
 "t": "Squishy",
@@ -53657,8 +53657,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53668,28 +53668,28 @@
 "value": 31520.03,
 "swaps": 0,
 "proven": true,
-"omega": 35.2,
+"omega": 35.4,
 "modelled": 0.67,
 "dps": 73,
 "burst": 673,
 "ehp": 31520,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 98,
-"ttk": 25.6
+"ttk": 25.5
 },
 {
 "t": "Bruiser",
-"dps": 74,
-"ttk": 48.3
+"dps": 75,
+"ttk": 48.1
 },
 {
 "t": "Tank",
-"dps": 46,
-"ttk": 103.4
+"dps": 47,
+"ttk": 103.1
 }
 ]
 },
@@ -53976,8 +53976,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -53987,13 +53987,13 @@
 "value": 31350.41,
 "swaps": 0,
 "proven": true,
-"omega": 37.7,
+"omega": 37.9,
 "modelled": 0.67,
 "dps": 111,
 "burst": 632,
 "ehp": 31350,
 "sustain": 8,
-"utility": 3.3,
+"utility": 3.4,
 "per_target": [
 {
 "t": "Squishy",
@@ -54295,8 +54295,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54306,13 +54306,13 @@
 "value": 30379.69,
 "swaps": 0,
 "proven": true,
-"omega": 18.3,
+"omega": 18.5,
 "modelled": 0.67,
 "dps": 26,
 "burst": 236,
 "ehp": 30380,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
@@ -54614,8 +54614,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54625,13 +54625,13 @@
 "value": 31502.94,
 "swaps": 0,
 "proven": true,
-"omega": 33.0,
+"omega": 33.1,
 "modelled": 0.67,
 "dps": 80,
 "burst": 490,
 "ehp": 31503,
 "sustain": 8,
-"utility": 2.1,
+"utility": 2.2,
 "per_target": [
 {
 "t": "Squishy",
@@ -54938,8 +54938,8 @@
 "Shield Bash",
 "Bone Plating",
 "Overgrowth",
-"Magical Footwear",
-"Triple Tonic"
+"Nimbus Cloak",
+"Transcendence"
 ],
 "shards": [
 "Health Scaling Shard",
@@ -54949,28 +54949,28 @@
 "value": 29723.42,
 "swaps": 0,
 "proven": true,
-"omega": 32.9,
+"omega": 33.1,
 "modelled": 0.67,
 "dps": 57,
 "burst": 504,
 "ehp": 29723,
 "sustain": 8,
-"utility": 2.4,
+"utility": 2.5,
 "per_target": [
 {
 "t": "Squishy",
 "dps": 77,
-"ttk": 32.5
+"ttk": 32.4
 },
 {
 "t": "Bruiser",
-"dps": 58,
-"ttk": 61.6
+"dps": 59,
+"ttk": 61.4
 },
 {
 "t": "Tank",
-"dps": 36,
-"ttk": 131.5
+"dps": 37,
+"ttk": 131.0
 }
 ]
 },
